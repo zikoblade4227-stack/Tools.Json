@@ -1,6 +1,6 @@
 [
   {
-    "id": "16",
+    "id": "1",
     "name": "Hemingway Editor",
     "name_ar": "همنجواي إديتور",
     "category": "Writing",
@@ -15,7 +15,7 @@
     "trendingScore": 40
   },
   {
-    "id": "17",
+    "id": "2",
     "name": "Slick Write",
     "name_ar": "سليك رايت",
     "category": "Writing",
@@ -30,7 +30,7 @@
     "trendingScore": 35
   },
   {
-    "id": "18",
+    "id": "3",
     "name": "LanguageTool",
     "name_ar": "لانجويتش تول",
     "category": "Writing",
@@ -45,7 +45,7 @@
     "trendingScore": 60
   },
   {
-    "id": "19",
+    "id": "4",
     "name": "Rewordify",
     "name_ar": "ريورديفاي",
     "category": "Writing",
@@ -60,7 +60,7 @@
     "trendingScore": 30
   },
   {
-    "id": "20",
+    "id": "5",
     "name": "Paraphraser.io",
     "name_ar": "بارافريزر",
     "category": "Writing",
@@ -75,7 +75,7 @@
     "trendingScore": 45
   },
   {
-    "id": "21",
+    "id": "6",
     "name": "Sentence Rewriter",
     "name_ar": "إعادة كتابة الجمل",
     "category": "Writing",
@@ -90,7 +90,7 @@
     "trendingScore": 25
   },
   {
-    "id": "22",
+    "id": "7",
     "name": "Essaybot",
     "name_ar": "إساي بوت",
     "category": "Writing",
@@ -105,22 +105,7 @@
     "trendingScore": 40
   },
   {
-    "id": "23",
-    "name": "AI Writer Free",
-    "name_ar": "AI Writer مجاني",
-    "category": "Writing",
-    "category_ar": "الكتابة",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Basic AI writing generator.",
-    "description_ar": "أداة كتابة بسيطة بالذكاء الاصطناعي.",
-    "website": "https://ai-writer.com",
-    "logo": "https://ai-writer.com/favicon.ico",
-    "isTrending": false,
-    "trendingScore": 35
-  },
-  {
-    "id": "24",
+    "id": "8",
     "name": "Writefull",
     "name_ar": "رايت فول",
     "category": "Writing",
@@ -135,7 +120,7 @@
     "trendingScore": 45
   },
   {
-    "id": "25",
+    "id": "9",
     "name": "Zoho Writer",
     "name_ar": "زوهو رايتر",
     "category": "Writing",
@@ -146,6 +131,96 @@
     "description_ar": "محرر مستندات أونلاين.",
     "website": "https://zoho.com/writer",
     "logo": "https://zoho.com/favicon.ico",
+    "isTrending": false,
+    "trendingScore": 50
+  },
+  {
+    "id": "10",
+    "name": "Notion AI",
+    "name_ar": "نوشن AI",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI writing inside Notion workspace.",
+    "description_ar": "كتابة بالذكاء الاصطناعي داخل نوشن.",
+    "website": "https://notion.so",
+    "logo": "https://notion.so/favicon.ico",
+    "isTrending": true,
+    "trendingScore": 75
+  },
+  {
+    "id": "11",
+    "name": "Google Docs AI",
+    "name_ar": "جوجل دوكس AI",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI writing features inside Google Docs.",
+    "description_ar": "مساعد كتابة داخل مستندات جوجل.",
+    "website": "https://docs.google.com",
+    "logo": "https://docs.google.com/favicon.ico",
+    "isTrending": true,
+    "trendingScore": 80
+  },
+  {
+    "id": "12",
+    "name": "DeepL Write",
+    "name_ar": "ديب إل رايت",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI writing and translation assistant.",
+    "description_ar": "مساعد كتابة وترجمة.",
+    "website": "https://deepl.com/write",
+    "logo": "https://deepl.com/favicon.ico",
+    "isTrending": true,
+    "trendingScore": 70
+  },
+  {
+    "id": "13",
+    "name": "Quetext",
+    "name_ar": "كيوتيكست",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Plagiarism checker tool.",
+    "description_ar": "أداة كشف السرقة الأدبية.",
+    "website": "https://quetext.com",
+    "logo": "https://quetext.com/favicon.ico",
+    "isTrending": false,
+    "trendingScore": 45
+  },
+  {
+    "id": "14",
+    "name": "Prepostseo Paraphrasing Tool",
+    "name_ar": "أداة إعادة الصياغة Prepostseo",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Free paraphrasing and rewriting tool.",
+    "description_ar": "أداة مجانية لإعادة صياغة النصوص.",
+    "website": "https://prepostseo.com",
+    "logo": "https://prepostseo.com/favicon.ico",
+    "isTrending": false,
+    "trendingScore": 40
+  },
+  {
+    "id": "15",
+    "name": "SmallSEOTools",
+    "name_ar": "سمول سيو تولز",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Free SEO and writing tools suite.",
+    "description_ar": "مجموعة أدوات كتابة وSEO مجانية.",
+    "website": "https://smallseotools.com",
+    "logo": "https://smallseotools.com/favicon.ico",
     "isTrending": false,
     "trendingScore": 50
   }
