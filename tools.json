@@ -10,7 +10,7 @@
     "description": "Editor that improves readability and clarity.",
     "description_ar": "أداة لتحسين وضوح وسهولة قراءة النص.",
     "website": "https://hemingwayapp.com",
-    "logo": "https://img.logo.dev/hemingwayeditor.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true",
+    "logo": "https://img.logo.dev/hemingwayeditor.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 40
   },
@@ -40,7 +40,7 @@
     "description": "Open-source grammar and style checker.",
     "description_ar": "مدقق لغوي مفتوح المصدر.",
     "website": "https://languagetool.org",
-    "logo": "https://img.logo.dev/languagetool.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true",
+    "logo": "https://img.logo.dev/languagetool.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": true,
     "trendingScore": 60
   },
@@ -55,7 +55,7 @@
     "description": "Simplifies complex English text.",
     "description_ar": "يبسط النصوص الإنجليزية المعقدة.",
     "website": "https://rewordify.com",
-    "logo": "https://img.logo.dev/rewordify.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true",
+    "logo": "https://img.logo.dev/rewordify.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 30
   },
@@ -70,7 +70,7 @@
     "description": "Free paraphrasing and rewriting tool.",
     "description_ar": "أداة مجانية لإعادة صياغة النصوص.",
     "website": "https://paraphraser.io",
-    "logo": "https://img.logo.dev/paraphraser.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true",
+    "logo": "https://img.logo.dev/paraphraser.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 45
   },
@@ -100,7 +100,7 @@
     "description": "AI essay generator for students.",
     "description_ar": "مولد مقالات للطلاب.",
     "website": "https://essaybot.com",
-    "logo": "https://img.logo.dev/essaysbot.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true",
+    "logo": "https://img.logo.dev/essaysbot.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 40
   },
@@ -145,7 +145,7 @@
     "description": "AI writing inside Notion workspace.",
     "description_ar": "كتابة بالذكاء الاصطناعي داخل نوشن.",
     "website": "https://notion.so",
-    "logo": "https://img.logo.dev/sentencerewriter.notion.site?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true",
+    "logo": "https://img.logo.dev/sentencerewriter.notion.site?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": true,
     "trendingScore": 75
   },
@@ -190,7 +190,7 @@
     "description": "Plagiarism checker tool.",
     "description_ar": "أداة كشف السرقة الأدبية.",
     "website": "https://quetext.com",
-    "logo": "https://img.logo.dev/quetext.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true",
+    "logo": "https://img.logo.dev/quetext.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 45
   },
