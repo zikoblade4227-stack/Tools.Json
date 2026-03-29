@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "name": "ChatGPT",
+    "name_ar": "شات جي بي تي",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Freemium",
+    "pricing_ar": "مجاني ومدفوع",
+    "lowest_subscription": "Lowest Subscription $20/mo",
+    "description": "Conversational AI for text generation, brainstorming, and writing assistance.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+    "url": "https://chatgpt.com"
+  },
+  {
+    "id": "2",
+    "name": "Claude",
+    "name_ar": "كلود",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Freemium",
+    "pricing_ar": "مجاني ومدفوع",
+    "lowest_subscription": "Lowest Subscription $20/mo",
+    "description": "AI assistant for writing, summarization, and long-form content.",
+    "logo": "https://www.anthropic.com/images/icons/apple-touch-icon.png",
+    "url": "https://claude.ai"
+  }
+]
