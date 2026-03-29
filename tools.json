@@ -418,5 +418,35 @@
     "logo": "https://img.logo.dev/smallseotools.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 50
+  },
+  {
+    "id": "29",
+    "name": "Rytr",
+    "name_ar": "رايتر",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI writing assistant for generating content and ideas.",
+    "description_ar": "مساعد كتابة بالذكاء الاصطناعي لتوليد المحتوى.",
+    "website": "https://rytr.me",
+    "logo": "https://img.logo.dev/rytr.me?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 85
+  },
+  {
+    "id": "30",
+    "name": "Sudowrite",
+    "name_ar": "سودورايت",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Creative AI writing tool for stories and fiction.",
+    "description_ar": "أداة كتابة إبداعية للقصص.",
+    "website": "https://sudowrite.com",
+    "logo": "https://img.logo.dev/sudowrite.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 80
   }
 ]
