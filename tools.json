@@ -166,8 +166,8 @@
     "logo": "https://img.logo.dev/www.notion.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": true,
     "trendingScore": 75,
-    "subscriptionPrice": "$10 per 1,000 credits",
-    "trialInfo": "Free to try"
+    "subscriptionPrice": "$10/mo",
+    "trialInfo": ""
   },
   {
     "id": "11",
@@ -523,7 +523,7 @@
     "logo": "https://img.logo.dev/jasper.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": true,
     "trendingScore": 95,
-    "subscriptionPrice": "$59/mo billed annually",
+    "subscriptionPrice": "$59/mo",
     "trialInfo": ""
   },
   {
@@ -727,7 +727,7 @@
     "logo": "https://img.logo.dev/surferseo.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": true,
     "trendingScore": 85,
-    "subscriptionPrice": "",
+    "subscriptionPrice": "$79/mo",
     "trialInfo": ""
   },
   {
@@ -744,7 +744,7 @@
     "logo": "https://img.logo.dev/neuronwriter.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 70,
-    "subscriptionPrice": "",
+    "subscriptionPrice": "$19/mo",
     "trialInfo": ""
   },
   {
@@ -761,7 +761,7 @@
     "logo": "https://img.logo.dev/closerscopy.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": false,
     "trendingScore": 68,
-    "subscriptionPrice": "",
+    "subscriptionPrice": "$49/mo",
     "trialInfo": ""
   },
   {
@@ -1050,8 +1050,8 @@
     "logo": "https://img.logo.dev/semrush.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
     "isTrending": true,
     "trendingScore": 92,
-    "subscriptionPrice": "$117.33/mo billed annually",
-    "trialInfo": "Free trial available"
+    "subscriptionPrice": "",
+    "trialInfo": ""
   },
   {
     "id": "63",
