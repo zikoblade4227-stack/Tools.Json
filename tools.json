@@ -116,7 +116,7 @@
     "isTrending": false,
     "trendingScore": 40,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 generations/day"
   },
   {
     "id": "8",
@@ -626,7 +626,7 @@
     "isTrending": true,
     "trendingScore": 82,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day trial"
   },
   {
     "id": "38",
@@ -643,7 +643,7 @@
     "isTrending": false,
     "trendingScore": 65,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10,000 words"
   },
   {
     "id": "39",
@@ -660,7 +660,7 @@
     "isTrending": true,
     "trendingScore": 80,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 free credits"
   },
   {
     "id": "40",
@@ -694,7 +694,7 @@
     "isTrending": false,
     "trendingScore": 70,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 free credits"
   },
   {
     "id": "42",
@@ -711,7 +711,7 @@
     "isTrending": true,
     "trendingScore": 78,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day free trial"
   },
   {
     "id": "43",
@@ -1051,7 +1051,7 @@
     "isTrending": true,
     "trendingScore": 92,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day free trial"
   },
   {
     "id": "63",
@@ -1544,7 +1544,7 @@
     "isTrending": true,
     "trendingScore": 89,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "3 free videos"
   },
   {
     "id": "92",
@@ -1578,7 +1578,7 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "3-day free trial"
   },
   {
     "id": "94",
@@ -1595,7 +1595,7 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "12,500 characters"
   },
   {
     "id": "95",
@@ -1612,7 +1612,7 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 min audio"
   },
   {
     "id": "96",
@@ -1629,7 +1629,7 @@
     "isTrending": true,
     "trendingScore": 91,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Free Generation"
   },
   {
     "id": "97",
@@ -1663,7 +1663,7 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day free trial"
   },
   {
     "id": "99",
@@ -1748,7 +1748,7 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "20 free credits"
   },
   {
     "id": "104",
@@ -1816,7 +1816,7 @@
     "isTrending": true,
     "trendingScore": 89,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1 hour free"
   },
   {
     "id": "108",
@@ -1833,7 +1833,7 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Preview free"
   },
   {
     "id": "109",
@@ -1850,7 +1850,7 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day trial"
   },
   {
     "id": "110",
@@ -1918,27 +1918,10 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day free trial"
   },
   {
     "id": "114",
-    "name": "Durable CRM",
-    "name_ar": "ديورابل CRM",
-    "category": "Business",
-    "category_ar": "الأعمال",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Simple CRM for small businesses.",
-    "description_ar": "نظام إدارة عملاء بسيط.",
-    "website": "https://durable.co",
-    "logo": "https://img.logo.dev/durable.co?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 80,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "115",
     "name": "Pitch",
     "name_ar": "بيتش",
     "category": "Presentation",
@@ -1955,7 +1938,7 @@
     "trialInfo": ""
   },
   {
-    "id": "116",
+    "id": "115",
     "name": "Pika",
     "name_ar": "بيكا",
     "category": "Video",
@@ -1969,10 +1952,10 @@
     "isTrending": true,
     "trendingScore": 94,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "250 credits/mo"
   },
   {
-    "id": "117",
+    "id": "116",
     "name": "Speechify",
     "name_ar": "سبيتشيفاي",
     "category": "Audio",
@@ -1989,7 +1972,7 @@
     "trialInfo": ""
   },
   {
-    "id": "118",
+    "id": "117",
     "name": "Adobe Podcast",
     "name_ar": "أدوبي بودكاست",
     "category": "Audio",
@@ -2006,7 +1989,7 @@
     "trialInfo": ""
   },
   {
-    "id": "119",
+    "id": "118",
     "name": "Cleanvoice",
     "name_ar": "كلين فويس",
     "category": "Audio",
@@ -2020,10 +2003,10 @@
     "isTrending": false,
     "trendingScore": 80,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "30 min free"
   },
   {
-    "id": "120",
+    "id": "119",
     "name": "Lovo AI",
     "name_ar": "لوفو",
     "category": "Audio",
@@ -2037,10 +2020,10 @@
     "isTrending": false,
     "trendingScore": 84,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "300 characters"
   },
   {
-    "id": "121",
+    "id": "120",
     "name": "Resemble AI",
     "name_ar": "ريسمبل",
     "category": "Audio",
@@ -2057,7 +2040,7 @@
     "trialInfo": ""
   },
   {
-    "id": "122",
+    "id": "121",
     "name": "Voicemod",
     "name_ar": "فويس مود",
     "category": "Audio",
@@ -2074,7 +2057,7 @@
     "trialInfo": ""
   },
   {
-    "id": "123",
+    "id": "122",
     "name": "Krisp",
     "name_ar": "كريسب",
     "category": "Audio",
@@ -2091,7 +2074,7 @@
     "trialInfo": ""
   },
   {
-    "id": "124",
+    "id": "123",
     "name": "Fireflies AI",
     "name_ar": "فايرفلايز",
     "category": "Productivity",
@@ -2105,10 +2088,10 @@
     "isTrending": true,
     "trendingScore": 91,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "800 min storage"
   },
   {
-    "id": "125",
+    "id": "124",
     "name": "Otter AI",
     "name_ar": "أوتر",
     "category": "Productivity",
@@ -2125,7 +2108,7 @@
     "trialInfo": ""
   },
   {
-    "id": "126",
+    "id": "125",
     "name": "Mem AI",
     "name_ar": "ميم",
     "category": "Productivity",
@@ -2139,10 +2122,10 @@
     "isTrending": false,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day free trial"
   },
   {
-    "id": "127",
+    "id": "126",
     "name": "Taskade",
     "name_ar": "تاسكيد",
     "category": "Productivity",
@@ -2159,24 +2142,7 @@
     "trialInfo": ""
   },
   {
-    "id": "128",
-    "name": "ClickUp AI",
-    "name_ar": "كليك أب AI",
-    "category": "Productivity",
-    "category_ar": "الإنتاجية",
-    "pricing": "Paid",
-    "pricing_ar": "مدفوع",
-    "description": "AI writing and productivity assistant in ClickUp.",
-    "description_ar": "مساعد ذكي داخل ClickUp للكتابة والإنتاجية.",
-    "website": "https://clickup.com",
-    "logo": "https://img.logo.dev/clickup.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 90,
-    "subscriptionPrice": "$9/mo",
-    "trialInfo": ""
-  },
-  {
-    "id": "129",
+    "id": "127",
     "name": "Superhuman",
     "name_ar": "سوبرهيومن",
     "category": "Productivity",
@@ -2193,7 +2159,7 @@
     "trialInfo": ""
   },
   {
-    "id": "130",
+    "id": "128",
     "name": "Shortwave",
     "name_ar": "شورت ويف",
     "category": "Productivity",
@@ -2210,7 +2176,7 @@
     "trialInfo": ""
   },
   {
-    "id": "131",
+    "id": "129",
     "name": "Reclaim AI",
     "name_ar": "ريكليم",
     "category": "Productivity",
@@ -2227,7 +2193,7 @@
     "trialInfo": ""
   },
   {
-    "id": "132",
+    "id": "130",
     "name": "Clockwise",
     "name_ar": "كلاك وايز",
     "category": "Productivity",
@@ -2244,7 +2210,7 @@
     "trialInfo": ""
   },
   {
-    "id": "133",
+    "id": "131",
     "name": "Magical",
     "name_ar": "ماجيكال",
     "category": "Productivity",
@@ -2261,24 +2227,7 @@
     "trialInfo": ""
   },
   {
-    "id": "134",
-    "name": "Zapier AI",
-    "name_ar": "زابير AI",
-    "category": "Automation",
-    "category_ar": "الأتمتة",
-    "pricing": "Free Trial",
-    "pricing_ar": "تجربة مجانية",
-    "description": "Automate workflows using AI integrations.",
-    "description_ar": "أتمتة العمليات باستخدام الذكاء الاصطناعي.",
-    "website": "https://zapier.com",
-    "logo": "https://img.logo.dev/zapier.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 95,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "135",
+    "id": "132",
     "name": "Bardeen",
     "name_ar": "باردين",
     "category": "Automation",
@@ -2295,7 +2244,7 @@
     "trialInfo": ""
   },
   {
-    "id": "136",
+    "id": "133",
     "name": "IFTTT",
     "name_ar": "إف تي تي تي",
     "category": "Automation",
@@ -2312,7 +2261,7 @@
     "trialInfo": ""
   },
   {
-    "id": "137",
+    "id": "134",
     "name": "n8n",
     "name_ar": "إن 8 إن",
     "category": "Automation",
@@ -2329,7 +2278,7 @@
     "trialInfo": ""
   },
   {
-    "id": "138",
+    "id": "135",
     "name": "Pabbly Connect",
     "name_ar": "بابلي",
     "category": "Automation",
@@ -2346,7 +2295,7 @@
     "trialInfo": ""
   },
   {
-    "id": "139",
+    "id": "136",
     "name": "Activepieces",
     "name_ar": "أكتيف بيسز",
     "category": "Automation",
@@ -2363,7 +2312,7 @@
     "trialInfo": ""
   },
   {
-    "id": "140",
+    "id": "137",
     "name": "Integrately",
     "name_ar": "إنتيجريتلي",
     "category": "Automation",
@@ -2377,10 +2326,10 @@
     "isTrending": false,
     "trendingScore": 80,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day free trial"
   },
   {
-    "id": "141",
+    "id": "138",
     "name": "Tray.io",
     "name_ar": "تراي",
     "category": "Automation",
@@ -2397,7 +2346,7 @@
     "trialInfo": ""
   },
   {
-    "id": "142",
+    "id": "139",
     "name": "Workato",
     "name_ar": "وركاتو",
     "category": "Automation",
@@ -2414,24 +2363,7 @@
     "trialInfo": ""
   },
   {
-    "id": "143",
-    "name": "Copy AI",
-    "name_ar": "كوبي AI",
-    "category": "Writing",
-    "category_ar": "الكتابة",
-    "pricing": "Free Trial",
-    "pricing_ar": "تجربة مجانية",
-    "description": "AI tool for generating marketing and copywriting content.",
-    "description_ar": "أداة لكتابة المحتوى التسويقي باستخدام الذكاء الاصطناعي.",
-    "website": "https://copy.ai",
-    "logo": "https://img.logo.dev/copy.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 95,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "144",
+    "id": "140",
     "name": "Frase",
     "name_ar": "فريز",
     "category": "Writing",
@@ -2445,27 +2377,10 @@
     "isTrending": false,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 free queries"
   },
   {
-    "id": "145",
-    "name": "INK",
-    "name_ar": "إنك",
-    "category": "Writing",
-    "category_ar": "الكتابة",
-    "pricing": "Free Trial",
-    "pricing_ar": "تجربة مجانية",
-    "description": "AI content and SEO assistant.",
-    "description_ar": "مساعد كتابة وتحسين السيو.",
-    "website": "https://inkforall.com",
-    "logo": "https://img.logo.dev/inkforall.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 84,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "146",
+    "id": "141",
     "name": "Copysmith",
     "name_ar": "كوبي سميث",
     "category": "Writing",
@@ -2482,7 +2397,7 @@
     "trialInfo": ""
   },
   {
-    "id": "147",
+    "id": "142",
     "name": "GrowthBar",
     "name_ar": "جروث بار",
     "category": "Writing",
@@ -2499,7 +2414,7 @@
     "trialInfo": ""
   },
   {
-    "id": "148",
+    "id": "143",
     "name": "Outranking",
     "name_ar": "أوترانكينج",
     "category": "Writing",
@@ -2516,7 +2431,7 @@
     "trialInfo": ""
   },
   {
-    "id": "149",
+    "id": "144",
     "name": "HyperWrite",
     "name_ar": "هايبر رايت",
     "category": "Writing",
@@ -2530,10 +2445,10 @@
     "isTrending": false,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "15 free generations"
   },
   {
-    "id": "150",
+    "id": "145",
     "name": "Simplified",
     "name_ar": "سيمبليفيد",
     "category": "Design",
@@ -2550,7 +2465,7 @@
     "trialInfo": ""
   },
   {
-    "id": "151",
+    "id": "146",
     "name": "Canva AI",
     "name_ar": "كانفا AI",
     "category": "Design",
@@ -2567,7 +2482,7 @@
     "trialInfo": ""
   },
   {
-    "id": "152",
+    "id": "147",
     "name": "LogoAI",
     "name_ar": "لوجو AI",
     "category": "Design",
@@ -2584,7 +2499,7 @@
     "trialInfo": ""
   },
   {
-    "id": "153",
+    "id": "148",
     "name": "Khroma",
     "name_ar": "كرومـا",
     "category": "Design",
@@ -2601,7 +2516,7 @@
     "trialInfo": ""
   },
   {
-    "id": "154",
+    "id": "149",
     "name": "Uizard",
     "name_ar": "يوزارد",
     "category": "Design",
@@ -2615,10 +2530,10 @@
     "isTrending": true,
     "trendingScore": 93,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "3 free projects"
   },
   {
-    "id": "155",
+    "id": "150",
     "name": "Visily",
     "name_ar": "فيزيلي",
     "category": "Design",
@@ -2635,7 +2550,7 @@
     "trialInfo": ""
   },
   {
-    "id": "156",
+    "id": "151",
     "name": "Galileo AI",
     "name_ar": "جاليليو AI",
     "category": "Design",
@@ -2652,7 +2567,7 @@
     "trialInfo": ""
   },
   {
-    "id": "157",
+    "id": "152",
     "name": "Mokker",
     "name_ar": "موكر",
     "category": "Design",
@@ -2666,10 +2581,10 @@
     "isTrending": false,
     "trendingScore": 81,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 free images"
   },
   {
-    "id": "158",
+    "id": "153",
     "name": "Pebblely",
     "name_ar": "بيبللي",
     "category": "Design",
@@ -2683,10 +2598,10 @@
     "isTrending": false,
     "trendingScore": 83,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "40 images/mo"
   },
   {
-    "id": "159",
+    "id": "154",
     "name": "Lexica",
     "name_ar": "ليكسيكا",
     "category": "Image",
@@ -2703,7 +2618,7 @@
     "trialInfo": ""
   },
   {
-    "id": "160",
+    "id": "155",
     "name": "DreamStudio",
     "name_ar": "دريم ستوديو",
     "category": "Image",
@@ -2720,7 +2635,7 @@
     "trialInfo": ""
   },
   {
-    "id": "161",
+    "id": "156",
     "name": "Ideogram",
     "name_ar": "إيديوجرام",
     "category": "Image",
@@ -2734,10 +2649,10 @@
     "isTrending": true,
     "trendingScore": 96,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "25 generations/day"
   },
   {
-    "id": "162",
+    "id": "157",
     "name": "Playground AI",
     "name_ar": "بلايجراوند AI",
     "category": "Image",
@@ -2754,7 +2669,7 @@
     "trialInfo": ""
   },
   {
-    "id": "163",
+    "id": "158",
     "name": "Mage Space",
     "name_ar": "ماج سبيس",
     "category": "Image",
@@ -2771,7 +2686,7 @@
     "trialInfo": ""
   },
   {
-    "id": "164",
+    "id": "159",
     "name": "Getimg",
     "name_ar": "جيت إيمج",
     "category": "Image",
@@ -2785,10 +2700,10 @@
     "isTrending": false,
     "trendingScore": 82,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 free images/mo"
   },
   {
-    "id": "165",
+    "id": "160",
     "name": "Krea",
     "name_ar": "كريا",
     "category": "Image",
@@ -2802,10 +2717,10 @@
     "isTrending": true,
     "trendingScore": 93,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "50 generations"
   },
   {
-    "id": "166",
+    "id": "161",
     "name": "Craiyon",
     "name_ar": "كرايون",
     "category": "Image",
@@ -2822,7 +2737,7 @@
     "trialInfo": ""
   },
   {
-    "id": "167",
+    "id": "162",
     "name": "HeyGen",
     "name_ar": "هاي جين",
     "category": "Video",
@@ -2836,10 +2751,10 @@
     "isTrending": true,
     "trendingScore": 96,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1 min video/mo"
   },
   {
-    "id": "168",
+    "id": "163",
     "name": "InVideo AI",
     "name_ar": "إن فيديو AI",
     "category": "Video",
@@ -2853,10 +2768,10 @@
     "isTrending": true,
     "trendingScore": 92,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "4 videos/week"
   },
   {
-    "id": "169",
+    "id": "164",
     "name": "Colossyan",
     "name_ar": "كولوسيان",
     "category": "Video",
@@ -2873,24 +2788,7 @@
     "trialInfo": ""
   },
   {
-    "id": "170",
-    "name": "VEED AI",
-    "name_ar": "فيد AI",
-    "category": "Video",
-    "category_ar": "الفيديو",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "AI-powered video editing and subtitles platform.",
-    "description_ar": "منصة تحرير فيديو وإضافة ترجمة بالذكاء الاصطناعي.",
-    "website": "https://veed.io",
-    "logo": "https://img.logo.dev/veed.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 90,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "171",
+    "id": "165",
     "name": "Captions",
     "name_ar": "كابتشنز",
     "category": "Video",
@@ -2904,10 +2802,10 @@
     "isTrending": true,
     "trendingScore": 91,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "75 free credits"
   },
   {
-    "id": "172",
+    "id": "166",
     "name": "Wisecut",
     "name_ar": "وايز كت",
     "category": "Video",
@@ -2921,10 +2819,10 @@
     "isTrending": false,
     "trendingScore": 83,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "30 min video/mo"
   },
   {
-    "id": "173",
+    "id": "167",
     "name": "AssemblyAI",
     "name_ar": "أسيمبلي AI",
     "category": "Developer",
@@ -2938,10 +2836,10 @@
     "isTrending": true,
     "trendingScore": 89,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$50 API credits"
   },
   {
-    "id": "174",
+    "id": "168",
     "name": "Replicate",
     "name_ar": "ريبليكيت",
     "category": "Developer",
@@ -2955,10 +2853,10 @@
     "isTrending": true,
     "trendingScore": 93,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$5 compute credits"
   },
   {
-    "id": "175",
+    "id": "169",
     "name": "Hugging Face",
     "name_ar": "هاجينج فيس",
     "category": "Developer",
@@ -2975,7 +2873,7 @@
     "trialInfo": ""
   },
   {
-    "id": "176",
+    "id": "170",
     "name": "OpenRouter",
     "name_ar": "أوبن راوتر",
     "category": "Developer",
@@ -2989,27 +2887,10 @@
     "isTrending": true,
     "trendingScore": 95,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$1 credits"
   },
   {
-    "id": "177",
-    "name": "Vercel AI",
-    "name_ar": "فيرسل AI",
-    "category": "Developer",
-    "category_ar": "المطورين",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Tools and SDKs for building AI apps.",
-    "description_ar": "أدوات وحزم لتطوير تطبيقات الذكاء الاصطناعي.",
-    "website": "https://vercel.com",
-    "logo": "https://img.logo.dev/vercel.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 91,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "178",
+    "id": "171",
     "name": "LangChain",
     "name_ar": "لانج تشين",
     "category": "Developer",
@@ -3026,7 +2907,7 @@
     "trialInfo": ""
   },
   {
-    "id": "179",
+    "id": "172",
     "name": "Pinecone",
     "name_ar": "باينكون",
     "category": "Developer",
@@ -3040,10 +2921,10 @@
     "isTrending": true,
     "trendingScore": 92,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100K vectors"
   },
   {
-    "id": "180",
+    "id": "173",
     "name": "Weaviate",
     "name_ar": "ويفيت",
     "category": "Developer",
@@ -3057,10 +2938,10 @@
     "isTrending": false,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day sandbox"
   },
   {
-    "id": "181",
+    "id": "174",
     "name": "Cohere",
     "name_ar": "كوهير",
     "category": "Developer",
@@ -3077,7 +2958,7 @@
     "trialInfo": ""
   },
   {
-    "id": "182",
+    "id": "175",
     "name": "Modal",
     "name_ar": "مودال",
     "category": "Developer",
@@ -3091,10 +2972,10 @@
     "isTrending": false,
     "trendingScore": 84,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$30 credits/mo"
   },
   {
-    "id": "183",
+    "id": "176",
     "name": "Elicit",
     "name_ar": "إيليست",
     "category": "Research",
@@ -3111,7 +2992,7 @@
     "trialInfo": ""
   },
   {
-    "id": "184",
+    "id": "177",
     "name": "Consensus",
     "name_ar": "كونسنسس",
     "category": "Research",
@@ -3128,7 +3009,7 @@
     "trialInfo": ""
   },
   {
-    "id": "185",
+    "id": "178",
     "name": "Scite",
     "name_ar": "سايت",
     "category": "Research",
@@ -3145,7 +3026,7 @@
     "trialInfo": ""
   },
   {
-    "id": "186",
+    "id": "179",
     "name": "Connected Papers",
     "name_ar": "كونكتد بيبرز",
     "category": "Research",
@@ -3162,7 +3043,7 @@
     "trialInfo": ""
   },
   {
-    "id": "187",
+    "id": "180",
     "name": "GitHub Copilot",
     "name_ar": "جيت هب كوبايلوت",
     "category": "Coding",
@@ -3179,7 +3060,7 @@
     "trialInfo": ""
   },
   {
-    "id": "188",
+    "id": "181",
     "name": "GitLab Duo",
     "name_ar": "جيت لاب ديو",
     "category": "Coding",
@@ -3196,7 +3077,7 @@
     "trialInfo": ""
   },
   {
-    "id": "189",
+    "id": "182",
     "name": "Amazon Q Developer",
     "name_ar": "أمازون كيو ديفيلوبر",
     "category": "Coding",
@@ -3210,10 +3091,10 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "50 suggestions/mo"
   },
   {
-    "id": "190",
+    "id": "183",
     "name": "Tabnine",
     "name_ar": "تاب ناين",
     "category": "Coding",
@@ -3227,10 +3108,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "191",
+    "id": "184",
     "name": "Codeium",
     "name_ar": "كوديوم",
     "category": "Coding",
@@ -3247,7 +3128,7 @@
     "trialInfo": ""
   },
   {
-    "id": "192",
+    "id": "185",
     "name": "Sourcegraph Cody",
     "name_ar": "سورس جراف كودي",
     "category": "Coding",
@@ -3261,10 +3142,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "200 messages/mo"
   },
   {
-    "id": "193",
+    "id": "186",
     "name": "JetBrains AI Assistant",
     "name_ar": "جيت برينز AI Assistant",
     "category": "Coding",
@@ -3281,7 +3162,7 @@
     "trialInfo": ""
   },
   {
-    "id": "194",
+    "id": "187",
     "name": "Continue",
     "name_ar": "كونتينيو",
     "category": "Coding",
@@ -3298,7 +3179,7 @@
     "trialInfo": ""
   },
   {
-    "id": "195",
+    "id": "188",
     "name": "Aider",
     "name_ar": "إيدر",
     "category": "Coding",
@@ -3315,7 +3196,7 @@
     "trialInfo": ""
   },
   {
-    "id": "196",
+    "id": "189",
     "name": "Bolt",
     "name_ar": "بولت",
     "category": "Coding",
@@ -3332,7 +3213,7 @@
     "trialInfo": ""
   },
   {
-    "id": "197",
+    "id": "190",
     "name": "Lovable",
     "name_ar": "لوفبل",
     "category": "Coding",
@@ -3349,7 +3230,7 @@
     "trialInfo": ""
   },
   {
-    "id": "198",
+    "id": "191",
     "name": "v0",
     "name_ar": "في زيرو",
     "category": "Coding",
@@ -3363,10 +3244,10 @@
     "isTrending": true,
     "trendingScore": 94,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "200 free credits/month"
   },
   {
-    "id": "199",
+    "id": "192",
     "name": "Devin",
     "name_ar": "ديفين",
     "category": "Coding",
@@ -3383,7 +3264,7 @@
     "trialInfo": ""
   },
   {
-    "id": "200",
+    "id": "193",
     "name": "Cline",
     "name_ar": "كلاين",
     "category": "Coding",
@@ -3400,7 +3281,7 @@
     "trialInfo": ""
   },
   {
-    "id": "201",
+    "id": "194",
     "name": "Augment Code",
     "name_ar": "أوجمنت كود",
     "category": "Coding",
@@ -3414,10 +3295,10 @@
     "isTrending": true,
     "trendingScore": 83,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "202",
+    "id": "195",
     "name": "CodeRabbit",
     "name_ar": "كود رابيت",
     "category": "Coding",
@@ -3431,10 +3312,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Free for OS repos"
   },
   {
-    "id": "203",
+    "id": "196",
     "name": "Qodo",
     "name_ar": "كودو",
     "category": "Coding",
@@ -3448,10 +3329,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Free for individuals"
   },
   {
-    "id": "204",
+    "id": "197",
     "name": "MutableAI",
     "name_ar": "ميوتابل AI",
     "category": "Coding",
@@ -3465,10 +3346,10 @@
     "isTrending": false,
     "trendingScore": 78,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "500 code lines/mo"
   },
   {
-    "id": "205",
+    "id": "198",
     "name": "Pieces for Developers",
     "name_ar": "بيسز فور ديفيلوبرز",
     "category": "Coding",
@@ -3485,7 +3366,7 @@
     "trialInfo": ""
   },
   {
-    "id": "206",
+    "id": "199",
     "name": "Blackbox AI",
     "name_ar": "بلاك بوكس AI",
     "category": "Coding",
@@ -3502,7 +3383,7 @@
     "trialInfo": ""
   },
   {
-    "id": "207",
+    "id": "200",
     "name": "Sweep",
     "name_ar": "سويب",
     "category": "Coding",
@@ -3516,10 +3397,10 @@
     "isTrending": false,
     "trendingScore": 80,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 GitHub issues/mo"
   },
   {
-    "id": "208",
+    "id": "201",
     "name": "Greptile",
     "name_ar": "جربتايل",
     "category": "Coding",
@@ -3533,10 +3414,10 @@
     "isTrending": true,
     "trendingScore": 82,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day trial"
   },
   {
-    "id": "209",
+    "id": "202",
     "name": "Bito",
     "name_ar": "بيتو",
     "category": "Coding",
@@ -3553,7 +3434,7 @@
     "trialInfo": ""
   },
   {
-    "id": "210",
+    "id": "203",
     "name": "AskCodi",
     "name_ar": "اسك كودي",
     "category": "Coding",
@@ -3567,10 +3448,10 @@
     "isTrending": false,
     "trendingScore": 77,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "40 code gens/day"
   },
   {
-    "id": "211",
+    "id": "204",
     "name": "Warp",
     "name_ar": "وورب",
     "category": "Coding",
@@ -3587,7 +3468,7 @@
     "trialInfo": ""
   },
   {
-    "id": "212",
+    "id": "205",
     "name": "PearAI",
     "name_ar": "بير AI",
     "category": "Coding",
@@ -3604,7 +3485,7 @@
     "trialInfo": ""
   },
   {
-    "id": "213",
+    "id": "206",
     "name": "TabbyML",
     "name_ar": "تابي ML",
     "category": "Coding",
@@ -3621,7 +3502,7 @@
     "trialInfo": ""
   },
   {
-    "id": "214",
+    "id": "207",
     "name": "Zed AI",
     "name_ar": "زد AI",
     "category": "Coding",
@@ -3638,7 +3519,7 @@
     "trialInfo": ""
   },
   {
-    "id": "215",
+    "id": "208",
     "name": "CodeWP",
     "name_ar": "كود دبليو بي",
     "category": "Coding",
@@ -3652,10 +3533,10 @@
     "isTrending": false,
     "trendingScore": 75,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 free snippets/month"
   },
   {
-    "id": "216",
+    "id": "209",
     "name": "SQLAI",
     "name_ar": "إس كيو إل AI",
     "category": "Coding",
@@ -3669,10 +3550,10 @@
     "isTrending": false,
     "trendingScore": 73,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 SQL queries/day"
   },
   {
-    "id": "217",
+    "id": "210",
     "name": "Databutton",
     "name_ar": "داتا باتن",
     "category": "Coding",
@@ -3686,10 +3567,10 @@
     "isTrending": true,
     "trendingScore": 82,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "218",
+    "id": "211",
     "name": "Tempo Labs",
     "name_ar": "تيمبو لابس",
     "category": "Coding",
@@ -3703,10 +3584,10 @@
     "isTrending": true,
     "trendingScore": 80,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 generations"
   },
   {
-    "id": "219",
+    "id": "212",
     "name": "Fine",
     "name_ar": "فاين",
     "category": "Coding",
@@ -3723,7 +3604,7 @@
     "trialInfo": ""
   },
   {
-    "id": "220",
+    "id": "213",
     "name": "Mintlify",
     "name_ar": "مينتليفاي",
     "category": "Coding",
@@ -3737,10 +3618,10 @@
     "isTrending": true,
     "trendingScore": 84,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Free for OS projects"
   },
   {
-    "id": "221",
+    "id": "214",
     "name": "Postman AI",
     "name_ar": "بوستمان AI",
     "category": "Coding",
@@ -3757,7 +3638,7 @@
     "trialInfo": ""
   },
   {
-    "id": "222",
+    "id": "215",
     "name": "Adobe Firefly",
     "name_ar": "أدوبي فايرفلاي",
     "category": "Image",
@@ -3774,7 +3655,7 @@
     "trialInfo": ""
   },
   {
-    "id": "223",
+    "id": "216",
     "name": "Recraft",
     "name_ar": "ريكرافت",
     "category": "Image",
@@ -3791,7 +3672,7 @@
     "trialInfo": ""
   },
   {
-    "id": "224",
+    "id": "217",
     "name": "Figma AI",
     "name_ar": "فيجما AI",
     "category": "Design",
@@ -3808,7 +3689,7 @@
     "trialInfo": ""
   },
   {
-    "id": "225",
+    "id": "218",
     "name": "Relume",
     "name_ar": "ريليوم",
     "category": "Design",
@@ -3822,10 +3703,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "3 free wireframes"
   },
   {
-    "id": "226",
+    "id": "219",
     "name": "Diagram",
     "name_ar": "دايجرام",
     "category": "Design",
@@ -3842,7 +3723,7 @@
     "trialInfo": ""
   },
   {
-    "id": "227",
+    "id": "220",
     "name": "Flair AI",
     "name_ar": "فلير AI",
     "category": "Design",
@@ -3856,10 +3737,10 @@
     "isTrending": true,
     "trendingScore": 84,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 images/mo"
   },
   {
-    "id": "228",
+    "id": "221",
     "name": "Kittl",
     "name_ar": "كيتل",
     "category": "Design",
@@ -3876,7 +3757,7 @@
     "trialInfo": ""
   },
   {
-    "id": "229",
+    "id": "222",
     "name": "Designs.ai",
     "name_ar": "ديزاينز AI",
     "category": "Design",
@@ -3890,10 +3771,10 @@
     "isTrending": false,
     "trendingScore": 78,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "3-day trial"
   },
   {
-    "id": "230",
+    "id": "223",
     "name": "Microsoft Designer",
     "name_ar": "مايكروسوفت ديزاينر",
     "category": "Design",
@@ -3910,7 +3791,7 @@
     "trialInfo": ""
   },
   {
-    "id": "231",
+    "id": "224",
     "name": "Picsart AI",
     "name_ar": "بيكس آرت AI",
     "category": "Image",
@@ -3927,7 +3808,7 @@
     "trialInfo": ""
   },
   {
-    "id": "232",
+    "id": "225",
     "name": "Pixlr",
     "name_ar": "بيكسلر",
     "category": "Image",
@@ -3944,7 +3825,7 @@
     "trialInfo": ""
   },
   {
-    "id": "233",
+    "id": "226",
     "name": "insMind",
     "name_ar": "إنزمايند",
     "category": "Image",
@@ -3961,7 +3842,7 @@
     "trialInfo": ""
   },
   {
-    "id": "234",
+    "id": "227",
     "name": "PicWish",
     "name_ar": "بيك ويش",
     "category": "Image",
@@ -3978,7 +3859,7 @@
     "trialInfo": ""
   },
   {
-    "id": "235",
+    "id": "228",
     "name": "Magnific AI",
     "name_ar": "ماجنيفك AI",
     "category": "Image",
@@ -3995,7 +3876,7 @@
     "trialInfo": ""
   },
   {
-    "id": "236",
+    "id": "229",
     "name": "Topaz Photo AI",
     "name_ar": "توباز فوتو AI",
     "category": "Image",
@@ -4012,7 +3893,7 @@
     "trialInfo": ""
   },
   {
-    "id": "237",
+    "id": "230",
     "name": "Let's Enhance",
     "name_ar": "ليتس إنهانس",
     "category": "Image",
@@ -4026,10 +3907,10 @@
     "isTrending": false,
     "trendingScore": 79,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 image credits"
   },
   {
-    "id": "238",
+    "id": "231",
     "name": "Cutout Pro",
     "name_ar": "كت أوت برو",
     "category": "Image",
@@ -4046,7 +3927,7 @@
     "trialInfo": ""
   },
   {
-    "id": "239",
+    "id": "232",
     "name": "Pixelcut",
     "name_ar": "بيكسل كت",
     "category": "Image",
@@ -4063,7 +3944,7 @@
     "trialInfo": ""
   },
   {
-    "id": "240",
+    "id": "233",
     "name": "Exactly AI",
     "name_ar": "إكزاكتلي AI",
     "category": "Image",
@@ -4077,10 +3958,10 @@
     "isTrending": false,
     "trendingScore": 74,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "25 image generations"
   },
   {
-    "id": "241",
+    "id": "234",
     "name": "Dzine",
     "name_ar": "دزاين",
     "category": "Design",
@@ -4094,10 +3975,10 @@
     "isTrending": false,
     "trendingScore": 76,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 AI credits"
   },
   {
-    "id": "242",
+    "id": "235",
     "name": "Visual Electric",
     "name_ar": "فيجوال إلكتريك",
     "category": "Image",
@@ -4111,10 +3992,10 @@
     "isTrending": false,
     "trendingScore": 75,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "50 generations/day"
   },
   {
-    "id": "243",
+    "id": "236",
     "name": "Meshy",
     "name_ar": "ميشي",
     "category": "Design",
@@ -4128,10 +4009,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "200 credits/mo"
   },
   {
-    "id": "244",
+    "id": "237",
     "name": "Tripo AI",
     "name_ar": "تريبو AI",
     "category": "Design",
@@ -4145,10 +4026,10 @@
     "isTrending": true,
     "trendingScore": 82,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "200 free credits/mo"
   },
   {
-    "id": "245",
+    "id": "238",
     "name": "Spline AI",
     "name_ar": "سبلاين AI",
     "category": "Design",
@@ -4165,7 +4046,7 @@
     "trialInfo": ""
   },
   {
-    "id": "246",
+    "id": "239",
     "name": "Adobe Express",
     "name_ar": "أدوبي إكسبريس",
     "category": "Design",
@@ -4182,7 +4063,7 @@
     "trialInfo": ""
   },
   {
-    "id": "247",
+    "id": "240",
     "name": "VistaCreate",
     "name_ar": "فيستا كريت",
     "category": "Design",
@@ -4199,7 +4080,7 @@
     "trialInfo": ""
   },
   {
-    "id": "248",
+    "id": "241",
     "name": "Patricia AI",
     "name_ar": "باتريشيا AI",
     "category": "Design",
@@ -4213,10 +4094,10 @@
     "isTrending": false,
     "trendingScore": 68,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 design exports"
   },
   {
-    "id": "249",
+    "id": "242",
     "name": "AutoDraw",
     "name_ar": "أوتو درو",
     "category": "Design",
@@ -4233,7 +4114,7 @@
     "trialInfo": ""
   },
   {
-    "id": "250",
+    "id": "243",
     "name": "Clip Studio AI",
     "name_ar": "كليب ستوديو AI",
     "category": "Design",
@@ -4250,7 +4131,7 @@
     "trialInfo": ""
   },
   {
-    "id": "251",
+    "id": "244",
     "name": "Linearity",
     "name_ar": "لينيارتي",
     "category": "Design",
@@ -4267,7 +4148,7 @@
     "trialInfo": ""
   },
   {
-    "id": "252",
+    "id": "245",
     "name": "Scenario",
     "name_ar": "سيناريو",
     "category": "Image",
@@ -4281,27 +4162,10 @@
     "isTrending": true,
     "trendingScore": 83,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 generations/mo"
   },
   {
-    "id": "253",
-    "name": "Playground v3",
-    "name_ar": "بلايجراوند v3",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "AI image generator and editor for fast creative iteration.",
-    "description_ar": "مولد ومحرر صور ذكي للتجارب الإبداعية السريعة.",
-    "website": "https://playground.com",
-    "logo": "https://img.logo.dev/playground.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 84,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "254",
+    "id": "246",
     "name": "Black Forest Labs",
     "name_ar": "بلاك فورست لابس",
     "category": "Image",
@@ -4315,10 +4179,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "API trial"
   },
   {
-    "id": "255",
+    "id": "247",
     "name": "Freepik AI",
     "name_ar": "فريبك AI",
     "category": "Design",
@@ -4332,10 +4196,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 AI images/day"
   },
   {
-    "id": "256",
+    "id": "248",
     "name": "OpenArt",
     "name_ar": "أوبن آرت",
     "category": "Image",
@@ -4349,10 +4213,10 @@
     "isTrending": true,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "50 credits/mo"
   },
   {
-    "id": "257",
+    "id": "249",
     "name": "Vidu",
     "name_ar": "فيديو",
     "category": "Video",
@@ -4366,10 +4230,10 @@
     "isTrending": true,
     "trendingScore": 83,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "80 credits/mo"
   },
   {
-    "id": "258",
+    "id": "250",
     "name": "Kling AI",
     "name_ar": "كلينج AI",
     "category": "Video",
@@ -4383,10 +4247,10 @@
     "isTrending": true,
     "trendingScore": 92,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "66 credits/day"
   },
   {
-    "id": "259",
+    "id": "251",
     "name": "Hailuo AI",
     "name_ar": "هايلو AI",
     "category": "Video",
@@ -4400,10 +4264,10 @@
     "isTrending": true,
     "trendingScore": 82,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "daily video generation"
   },
   {
-    "id": "260",
+    "id": "252",
     "name": "Filmora AI",
     "name_ar": "فيلمورا AI",
     "category": "Video",
@@ -4417,10 +4281,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day trial"
   },
   {
-    "id": "261",
+    "id": "253",
     "name": "DaVinci Resolve",
     "name_ar": "دافنشي ريزولف",
     "category": "Video",
@@ -4437,7 +4301,7 @@
     "trialInfo": ""
   },
   {
-    "id": "262",
+    "id": "254",
     "name": "Kapwing",
     "name_ar": "كابوينج",
     "category": "Video",
@@ -4454,7 +4318,7 @@
     "trialInfo": ""
   },
   {
-    "id": "263",
+    "id": "255",
     "name": "Animoto",
     "name_ar": "أنيموتو",
     "category": "Video",
@@ -4468,10 +4332,10 @@
     "isTrending": false,
     "trendingScore": 74,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "264",
+    "id": "256",
     "name": "Vyond",
     "name_ar": "فيوند",
     "category": "Video",
@@ -4485,10 +4349,10 @@
     "isTrending": false,
     "trendingScore": 80,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "265",
+    "id": "257",
     "name": "Animaker",
     "name_ar": "أنيميكر",
     "category": "Video",
@@ -4505,7 +4369,7 @@
     "trialInfo": ""
   },
   {
-    "id": "266",
+    "id": "258",
     "name": "Riverside",
     "name_ar": "ريفرسايد",
     "category": "Video",
@@ -4522,7 +4386,7 @@
     "trialInfo": ""
   },
   {
-    "id": "267",
+    "id": "259",
     "name": "Submagic",
     "name_ar": "ساب ماجيك",
     "category": "Video",
@@ -4536,10 +4400,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 free videos/mo"
   },
   {
-    "id": "268",
+    "id": "260",
     "name": "vidyo.ai",
     "name_ar": "فيديو AI",
     "category": "Video",
@@ -4553,10 +4417,10 @@
     "isTrending": false,
     "trendingScore": 78,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "75 min content/mo"
   },
   {
-    "id": "269",
+    "id": "261",
     "name": "Munch",
     "name_ar": "مانش",
     "category": "Video",
@@ -4570,10 +4434,10 @@
     "isTrending": false,
     "trendingScore": 79,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 AI clip exports"
   },
   {
-    "id": "270",
+    "id": "262",
     "name": "Steve AI",
     "name_ar": "ستيف AI",
     "category": "Video",
@@ -4587,10 +4451,10 @@
     "isTrending": false,
     "trendingScore": 76,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 video projects"
   },
   {
-    "id": "271",
+    "id": "263",
     "name": "Elai",
     "name_ar": "إيلاي",
     "category": "Video",
@@ -4604,10 +4468,10 @@
     "isTrending": false,
     "trendingScore": 78,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1 min AI video"
   },
   {
-    "id": "272",
+    "id": "264",
     "name": "Hour One",
     "name_ar": "أور ون",
     "category": "Video",
@@ -4624,7 +4488,7 @@
     "trialInfo": ""
   },
   {
-    "id": "273",
+    "id": "265",
     "name": "Synthesys",
     "name_ar": "سينثيسيس",
     "category": "Video",
@@ -4641,24 +4505,7 @@
     "trialInfo": ""
   },
   {
-    "id": "274",
-    "name": "InVideo",
-    "name_ar": "إن فيديو",
-    "category": "Video",
-    "category_ar": "الفيديو",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Online video creation platform with AI templates and editing.",
-    "description_ar": "منصة صناعة فيديو أونلاين مع قوالب وأدوات ذكاء اصطناعي.",
-    "website": "https://invideo.io",
-    "logo": "https://img.logo.dev/invideo.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 88,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "275",
+    "id": "266",
     "name": "LTX Studio",
     "name_ar": "إل تي إكس ستوديو",
     "category": "Video",
@@ -4672,10 +4519,10 @@
     "isTrending": true,
     "trendingScore": 84,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "50 generation credits"
   },
   {
-    "id": "276",
+    "id": "267",
     "name": "MovieGen",
     "name_ar": "موفي جين",
     "category": "Video",
@@ -4689,10 +4536,10 @@
     "isTrending": false,
     "trendingScore": 69,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Limited beta access"
   },
   {
-    "id": "277",
+    "id": "268",
     "name": "PixVerse",
     "name_ar": "بيكس فيرس",
     "category": "Video",
@@ -4706,10 +4553,10 @@
     "isTrending": true,
     "trendingScore": 83,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "60 credits/mo"
   },
   {
-    "id": "278",
+    "id": "269",
     "name": "Camtasia",
     "name_ar": "كامتازيا",
     "category": "Video",
@@ -4723,10 +4570,10 @@
     "isTrending": false,
     "trendingScore": 75,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "30-day trial"
   },
   {
-    "id": "279",
+    "id": "270",
     "name": "VEGAS Pro AI",
     "name_ar": "فيجاس برو AI",
     "category": "Video",
@@ -4743,7 +4590,7 @@
     "trialInfo": ""
   },
   {
-    "id": "280",
+    "id": "271",
     "name": "PowerDirector",
     "name_ar": "باور دايركتور",
     "category": "Video",
@@ -4760,7 +4607,7 @@
     "trialInfo": ""
   },
   {
-    "id": "281",
+    "id": "272",
     "name": "FlexClip",
     "name_ar": "فليكس كليب",
     "category": "Video",
@@ -4777,24 +4624,7 @@
     "trialInfo": ""
   },
   {
-    "id": "282",
-    "name": "Synthesia X",
-    "name_ar": "سينثيسيا X",
-    "category": "Video",
-    "category_ar": "الفيديو",
-    "pricing": "Paid",
-    "pricing_ar": "مدفوع",
-    "description": "AI browser-based video creation workflows from scripts and pages.",
-    "description_ar": "سير عمل لإنشاء فيديوهات ذكية من النصوص وصفحات الويب.",
-    "website": "https://www.synthesia.io",
-    "logo": "https://img.logo.dev/www.synthesia.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 72,
-    "subscriptionPrice": "$18/mo",
-    "trialInfo": ""
-  },
-  {
-    "id": "283",
+    "id": "273",
     "name": "Dubverse",
     "name_ar": "دب فيرس",
     "category": "Video",
@@ -4808,10 +4638,10 @@
     "isTrending": false,
     "trendingScore": 77,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 free dubbing minutes"
   },
   {
-    "id": "284",
+    "id": "274",
     "name": "Maestra",
     "name_ar": "مايسترا",
     "category": "Video",
@@ -4825,10 +4655,10 @@
     "isTrending": false,
     "trendingScore": 78,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "60 min transcription"
   },
   {
-    "id": "285",
+    "id": "275",
     "name": "Shuffll",
     "name_ar": "شافل",
     "category": "Video",
@@ -4845,7 +4675,7 @@
     "trialInfo": ""
   },
   {
-    "id": "286",
+    "id": "276",
     "name": "Rotor Videos",
     "name_ar": "روتور فيديوز",
     "category": "Video",
@@ -4859,44 +4689,10 @@
     "isTrending": false,
     "trendingScore": 70,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1 free music video"
   },
   {
-    "id": "287",
-    "name": "Bolt.new",
-    "name_ar": "بولت",
-    "category": "Coding",
-    "category_ar": "البرمجة",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Prompt-based full-stack web app builder in the browser.",
-    "description_ar": "أداة لبناء تطبيقات ويب كاملة من خلال الأوامر النصية داخل المتصفح.",
-    "website": "https://bolt.new",
-    "logo": "https://img.logo.dev/bolt.new?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 95,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "288",
-    "name": "Pieces",
-    "name_ar": "بيسيز",
-    "category": "Coding",
-    "category_ar": "البرمجة",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Developer productivity tool with AI memory, snippets, and workflow context.",
-    "description_ar": "أداة إنتاجية للمطورين بذاكرة ذكية ومقتطفات وفهم لسياق العمل.",
-    "website": "https://pieces.app",
-    "logo": "https://img.logo.dev/pieces.app?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 86,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "289",
+    "id": "277",
     "name": "Zed",
     "name_ar": "زيد",
     "category": "Coding",
@@ -4913,7 +4709,7 @@
     "trialInfo": ""
   },
   {
-    "id": "290",
+    "id": "278",
     "name": "Fotor",
     "name_ar": "فوتور",
     "category": "Image",
@@ -4930,7 +4726,7 @@
     "trialInfo": ""
   },
   {
-    "id": "291",
+    "id": "279",
     "name": "Topaz Labs",
     "name_ar": "توباز لابس",
     "category": "Editing",
@@ -4947,7 +4743,7 @@
     "trialInfo": ""
   },
   {
-    "id": "292",
+    "id": "280",
     "name": "Vizard",
     "name_ar": "فيزارد",
     "category": "Video",
@@ -4961,27 +4757,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 min content/mo"
   },
   {
-    "id": "293",
-    "name": "Filmora",
-    "name_ar": "فيلمورا",
-    "category": "Editing",
-    "category_ar": "المونتاج",
-    "pricing": "Free Trial",
-    "pricing_ar": "تجربة مجانية",
-    "description": "Video editor with AI tools for cleanup, captions, and creative effects.",
-    "description_ar": "محرر فيديو مع أدوات ذكاء اصطناعي للتنظيف والترجمة والمؤثرات.",
-    "website": "https://filmora.wondershare.com",
-    "logo": "https://img.logo.dev/filmora.wondershare.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 87,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "294",
+    "id": "281",
     "name": "Clipchamp",
     "name_ar": "كليب تشامب",
     "category": "Editing",
@@ -4998,7 +4777,7 @@
     "trialInfo": ""
   },
   {
-    "id": "295",
+    "id": "282",
     "name": "Vercel AI SDK",
     "name_ar": "فيرسل AI",
     "category": "Coding",
@@ -5015,7 +4794,7 @@
     "trialInfo": ""
   },
   {
-    "id": "296",
+    "id": "283",
     "name": "Upscale.media",
     "name_ar": "أبسكيل",
     "category": "Image",
@@ -5032,7 +4811,7 @@
     "trialInfo": ""
   },
   {
-    "id": "297",
+    "id": "284",
     "name": "Palette",
     "name_ar": "باليت",
     "category": "Image",
@@ -5049,41 +4828,7 @@
     "trialInfo": ""
   },
   {
-    "id": "298",
-    "name": "Murf",
-    "name_ar": "ميرف",
-    "category": "Voice",
-    "category_ar": "الصوت",
-    "pricing": "Free Trial",
-    "pricing_ar": "تجربة مجانية",
-    "description": "Voice AI.",
-    "description_ar": "صوت AI.",
-    "website": "https://murf.ai",
-    "logo": "https://img.logo.dev/murf.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 85,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "299",
-    "name": "Resemble",
-    "name_ar": "ريسمبل",
-    "category": "Voice",
-    "category_ar": "الصوت",
-    "pricing": "Paid",
-    "pricing_ar": "مدفوع",
-    "description": "Voice clone.",
-    "description_ar": "استنساخ صوت.",
-    "website": "https://resemble.ai",
-    "logo": "https://img.logo.dev/resemble.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 85,
-    "subscriptionPrice": "$29/mo",
-    "trialInfo": ""
-  },
-  {
-    "id": "300",
+    "id": "285",
     "name": "Audyo",
     "name_ar": "أوديو",
     "category": "Audio",
@@ -5097,10 +4842,10 @@
     "isTrending": true,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 free character generations"
   },
   {
-    "id": "301",
+    "id": "286",
     "name": "Fliki",
     "name_ar": "فليكي",
     "category": "Video",
@@ -5114,10 +4859,10 @@
     "isTrending": true,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "300 chars/segment"
   },
   {
-    "id": "302",
+    "id": "287",
     "name": "Powtoon",
     "name_ar": "باوتون",
     "category": "Video",
@@ -5134,7 +4879,7 @@
     "trialInfo": ""
   },
   {
-    "id": "303",
+    "id": "288",
     "name": "Together AI",
     "name_ar": "توغيذر",
     "category": "Coding",
@@ -5148,10 +4893,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$1 API credits"
   },
   {
-    "id": "304",
+    "id": "289",
     "name": "Anyscale",
     "name_ar": "أني سكيل",
     "category": "Coding",
@@ -5165,10 +4910,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$10 Credits"
   },
   {
-    "id": "305",
+    "id": "290",
     "name": "Weights & Biases",
     "name_ar": "ويتس أند بايسز",
     "category": "Coding",
@@ -5185,7 +4930,7 @@
     "trialInfo": ""
   },
   {
-    "id": "306",
+    "id": "291",
     "name": "LottieFiles AI",
     "name_ar": "لوتي فايلز",
     "category": "Design",
@@ -5202,7 +4947,7 @@
     "trialInfo": ""
   },
   {
-    "id": "307",
+    "id": "292",
     "name": "MagicPattern",
     "name_ar": "ماجيك باترن",
     "category": "Design",
@@ -5219,7 +4964,7 @@
     "trialInfo": ""
   },
   {
-    "id": "308",
+    "id": "293",
     "name": "Shots",
     "name_ar": "شوتس",
     "category": "Design",
@@ -5236,7 +4981,7 @@
     "trialInfo": ""
   },
   {
-    "id": "309",
+    "id": "294",
     "name": "Mockey",
     "name_ar": "موكي",
     "category": "Design",
@@ -5253,7 +4998,7 @@
     "trialInfo": ""
   },
   {
-    "id": "310",
+    "id": "295",
     "name": "ImgUpscaler",
     "name_ar": "إيمج أبسكيلر",
     "category": "Image",
@@ -5270,24 +5015,7 @@
     "trialInfo": ""
   },
   {
-    "id": "311",
-    "name": "LetsEnhance",
-    "name_ar": "ليتس إنهانس",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free Trial",
-    "pricing_ar": "تجربة مجانية",
-    "description": "Enhance images.",
-    "description_ar": "تحسين.",
-    "website": "https://letsenhance.io",
-    "logo": "https://img.logo.dev/letsenhance.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 86,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "312",
+    "id": "296",
     "name": "BgSub",
     "name_ar": "بي جي سب",
     "category": "Image",
@@ -5304,7 +5032,7 @@
     "trialInfo": ""
   },
   {
-    "id": "313",
+    "id": "297",
     "name": "Erase.bg",
     "name_ar": "إيريز",
     "category": "Image",
@@ -5321,7 +5049,7 @@
     "trialInfo": ""
   },
   {
-    "id": "314",
+    "id": "298",
     "name": "Vectorizer AI",
     "name_ar": "فيكتورايزر",
     "category": "Image",
@@ -5335,27 +5063,10 @@
     "isTrending": true,
     "trendingScore": 89,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "2 SVG /mo"
   },
   {
-    "id": "315",
-    "name": "Vidyo AI",
-    "name_ar": "فيديو AI",
-    "category": "Video",
-    "category_ar": "الفيديو",
-    "pricing": "Free Trial",
-    "pricing_ar": "تجربة مجانية",
-    "description": "Repurpose videos.",
-    "description_ar": "إعادة استخدام الفيديو.",
-    "website": "https://vidyo.ai",
-    "logo": "https://img.logo.dev/vidyo.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 91,
-    "subscriptionPrice": "",
-    "trialInfo": ""
-  },
-  {
-    "id": "316",
+    "id": "299",
     "name": "Rocketium",
     "name_ar": "روكيتيوم",
     "category": "Video",
@@ -5369,10 +5080,10 @@
     "isTrending": true,
     "trendingScore": 92,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "317",
+    "id": "300",
     "name": "Wave.video",
     "name_ar": "ويف فيديو",
     "category": "Video",
@@ -5389,7 +5100,7 @@
     "trialInfo": ""
   },
   {
-    "id": "318",
+    "id": "301",
     "name": "Auphonic",
     "name_ar": "أوفونيك",
     "category": "Audio",
@@ -5406,7 +5117,7 @@
     "trialInfo": ""
   },
   {
-    "id": "319",
+    "id": "302",
     "name": "Podcastle",
     "name_ar": "بودكاستل",
     "category": "Audio",
@@ -5423,7 +5134,7 @@
     "trialInfo": ""
   },
   {
-    "id": "320",
+    "id": "303",
     "name": "Boomy",
     "name_ar": "بومي",
     "category": "Audio",
@@ -5440,7 +5151,7 @@
     "trialInfo": ""
   },
   {
-    "id": "321",
+    "id": "304",
     "name": "Motion",
     "name_ar": "موشن",
     "category": "Productivity",
@@ -5457,7 +5168,7 @@
     "trialInfo": ""
   },
   {
-    "id": "322",
+    "id": "305",
     "name": "SaneBox",
     "name_ar": "سين بوكس",
     "category": "Productivity",
@@ -5474,7 +5185,7 @@
     "trialInfo": ""
   },
   {
-    "id": "323",
+    "id": "306",
     "name": "SkedPal",
     "name_ar": "سكيدبال",
     "category": "Productivity",
@@ -5491,7 +5202,7 @@
     "trialInfo": ""
   },
   {
-    "id": "324",
+    "id": "307",
     "name": "Snyk Code",
     "name_ar": "سنيك كود",
     "category": "Coding",
@@ -5508,7 +5219,7 @@
     "trialInfo": ""
   },
   {
-    "id": "325",
+    "id": "308",
     "name": "Builder.io",
     "name_ar": "بيلدر",
     "category": "No-Code",
@@ -5525,7 +5236,7 @@
     "trialInfo": ""
   },
   {
-    "id": "326",
+    "id": "309",
     "name": "Retool",
     "name_ar": "ري تول",
     "category": "No-Code",
@@ -5542,7 +5253,7 @@
     "trialInfo": ""
   },
   {
-    "id": "327",
+    "id": "310",
     "name": "Appgyver",
     "name_ar": "أبجيفر",
     "category": "No-Code",
@@ -5559,7 +5270,7 @@
     "trialInfo": ""
   },
   {
-    "id": "328",
+    "id": "311",
     "name": "FlutterFlow",
     "name_ar": "فلتر فلو",
     "category": "No-Code",
@@ -5576,7 +5287,7 @@
     "trialInfo": ""
   },
   {
-    "id": "329",
+    "id": "312",
     "name": "Adalo",
     "name_ar": "أدالو",
     "category": "No-Code",
@@ -5593,7 +5304,7 @@
     "trialInfo": ""
   },
   {
-    "id": "330",
+    "id": "313",
     "name": "NotebookLM",
     "name_ar": "نوت بوك LM",
     "category": "Research",
@@ -5610,7 +5321,7 @@
     "trialInfo": ""
   },
   {
-    "id": "331",
+    "id": "314",
     "name": "Firebase Studio",
     "name_ar": "فايربيز ستوديو",
     "category": "Coding",
@@ -5627,7 +5338,7 @@
     "trialInfo": ""
   },
   {
-    "id": "332",
+    "id": "315",
     "name": "Manus",
     "name_ar": "مانوس",
     "category": "Productivity",
@@ -5641,10 +5352,10 @@
     "isTrending": true,
     "trendingScore": 95,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1,000 free credits"
   },
   {
-    "id": "333",
+    "id": "316",
     "name": "Sora",
     "name_ar": "سورا",
     "category": "Video",
@@ -5661,7 +5372,7 @@
     "trialInfo": ""
   },
   {
-    "id": "334",
+    "id": "317",
     "name": "tldraw",
     "name_ar": "تي إل درو",
     "category": "Design",
@@ -5678,7 +5389,7 @@
     "trialInfo": ""
   },
   {
-    "id": "335",
+    "id": "318",
     "name": "TRAE",
     "name_ar": "تراي",
     "category": "Coding",
@@ -5692,10 +5403,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Free IDE"
   },
   {
-    "id": "336",
+    "id": "319",
     "name": "Grok",
     "name_ar": "جروك",
     "category": "Chat",
@@ -5712,7 +5423,7 @@
     "trialInfo": ""
   },
   {
-    "id": "337",
+    "id": "320",
     "name": "Arc Browser",
     "name_ar": "آرك براوزر",
     "category": "Productivity",
@@ -5729,7 +5440,7 @@
     "trialInfo": ""
   },
   {
-    "id": "338",
+    "id": "321",
     "name": "Raycast AI",
     "name_ar": "رايكاست AI",
     "category": "Productivity",
@@ -5746,7 +5457,7 @@
     "trialInfo": ""
   },
   {
-    "id": "339",
+    "id": "322",
     "name": "Jan AI",
     "name_ar": "جان AI",
     "category": "Chat",
@@ -5763,7 +5474,7 @@
     "trialInfo": ""
   },
   {
-    "id": "340",
+    "id": "323",
     "name": "Flowise",
     "name_ar": "فلووايز",
     "category": "Coding",
@@ -5780,7 +5491,7 @@
     "trialInfo": ""
   },
   {
-    "id": "341",
+    "id": "324",
     "name": "Langflow",
     "name_ar": "لانج فلو",
     "category": "Coding",
@@ -5797,7 +5508,7 @@
     "trialInfo": ""
   },
   {
-    "id": "342",
+    "id": "325",
     "name": "Dify",
     "name_ar": "ديفاي",
     "category": "Coding",
@@ -5814,7 +5525,7 @@
     "trialInfo": ""
   },
   {
-    "id": "343",
+    "id": "326",
     "name": "WellSaid Labs",
     "name_ar": "ويل سيد",
     "category": "Voice",
@@ -5828,10 +5539,10 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "15-day trial"
   },
   {
-    "id": "344",
+    "id": "327",
     "name": "Rows AI",
     "name_ar": "رووز AI",
     "category": "Productivity",
@@ -5848,7 +5559,7 @@
     "trialInfo": ""
   },
   {
-    "id": "345",
+    "id": "328",
     "name": "Glean",
     "name_ar": "جلين",
     "category": "Productivity",
@@ -5865,7 +5576,7 @@
     "trialInfo": ""
   },
   {
-    "id": "346",
+    "id": "329",
     "name": "Browse AI",
     "name_ar": "براوز AI",
     "category": "Automation",
@@ -5879,10 +5590,10 @@
     "isTrending": true,
     "trendingScore": 92,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "50 credits/mo"
   },
   {
-    "id": "347",
+    "id": "330",
     "name": "Relay.app",
     "name_ar": "ريلاي",
     "category": "Automation",
@@ -5899,7 +5610,7 @@
     "trialInfo": ""
   },
   {
-    "id": "348",
+    "id": "331",
     "name": "Humata",
     "name_ar": "هيوماتا",
     "category": "Research",
@@ -5916,7 +5627,7 @@
     "trialInfo": ""
   },
   {
-    "id": "349",
+    "id": "332",
     "name": "Suno",
     "name_ar": "سونو",
     "category": "Audio",
@@ -5933,7 +5644,7 @@
     "trialInfo": ""
   },
   {
-    "id": "350",
+    "id": "333",
     "name": "Hostinger Horizons",
     "name_ar": "هوستنجر هورايزنز",
     "category": "No-Code",
@@ -5947,10 +5658,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "7-day trial"
   },
   {
-    "id": "351",
+    "id": "334",
     "name": "Asana AI",
     "name_ar": "أسانا AI",
     "category": "Productivity",
@@ -5967,7 +5678,7 @@
     "trialInfo": ""
   },
   {
-    "id": "352",
+    "id": "335",
     "name": "Groq",
     "name_ar": "جروك",
     "category": "Coding",
@@ -5984,7 +5695,7 @@
     "trialInfo": ""
   },
   {
-    "id": "353",
+    "id": "336",
     "name": "Fal",
     "name_ar": "فال",
     "category": "Coding",
@@ -6001,7 +5712,7 @@
     "trialInfo": ""
   },
   {
-    "id": "354",
+    "id": "337",
     "name": "Poe",
     "name_ar": "بو",
     "category": "Chat",
@@ -6018,7 +5729,7 @@
     "trialInfo": ""
   },
   {
-    "id": "355",
+    "id": "338",
     "name": "You.com",
     "name_ar": "يو دوت كوم",
     "category": "Research",
@@ -6035,7 +5746,7 @@
     "trialInfo": ""
   },
   {
-    "id": "356",
+    "id": "339",
     "name": "SciSpace",
     "name_ar": "ساي سبيس",
     "category": "Research",
@@ -6052,7 +5763,7 @@
     "trialInfo": ""
   },
   {
-    "id": "357",
+    "id": "340",
     "name": "Jenni AI",
     "name_ar": "جيني AI",
     "category": "Writing",
@@ -6066,10 +5777,10 @@
     "isTrending": true,
     "trendingScore": 89,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "200 words/day"
   },
   {
-    "id": "358",
+    "id": "341",
     "name": "Firecrawl",
     "name_ar": "فاير كراول",
     "category": "Research",
@@ -6086,7 +5797,7 @@
     "trialInfo": ""
   },
   {
-    "id": "359",
+    "id": "342",
     "name": "Browser Use",
     "name_ar": "براوزر يوز",
     "category": "Automation",
@@ -6103,7 +5814,7 @@
     "trialInfo": ""
   },
   {
-    "id": "360",
+    "id": "343",
     "name": "ComfyUI",
     "name_ar": "كومفي UI",
     "category": "Image",
@@ -6120,7 +5831,7 @@
     "trialInfo": ""
   },
   {
-    "id": "361",
+    "id": "344",
     "name": "Fathom",
     "name_ar": "فاثوم",
     "category": "Productivity",
@@ -6137,7 +5848,7 @@
     "trialInfo": ""
   },
   {
-    "id": "362",
+    "id": "345",
     "name": "Granola",
     "name_ar": "جرانولا",
     "category": "Productivity",
@@ -6151,10 +5862,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "25 AI notes"
   },
   {
-    "id": "363",
+    "id": "346",
     "name": "Read AI",
     "name_ar": "ريد AI",
     "category": "Productivity",
@@ -6171,7 +5882,7 @@
     "trialInfo": ""
   },
   {
-    "id": "364",
+    "id": "347",
     "name": "Hedra",
     "name_ar": "هيدرا",
     "category": "Video",
@@ -6185,10 +5896,10 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "60 sec video/mo"
   },
   {
-    "id": "365",
+    "id": "348",
     "name": "RunPod",
     "name_ar": "رن بود",
     "category": "Coding",
@@ -6205,7 +5916,7 @@
     "trialInfo": ""
   },
   {
-    "id": "366",
+    "id": "349",
     "name": "OpenWebUI",
     "name_ar": "أوبن ويب UI",
     "category": "Chat",
@@ -6222,7 +5933,7 @@
     "trialInfo": ""
   },
   {
-    "id": "367",
+    "id": "350",
     "name": "Magic Patterns",
     "name_ar": "ماجيك باترنز",
     "category": "Design",
@@ -6236,10 +5947,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 UI /mo"
   },
   {
-    "id": "368",
+    "id": "351",
     "name": "Tana",
     "name_ar": "تانا",
     "category": "Productivity",
@@ -6253,10 +5964,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "Personal Use Free"
   },
   {
-    "id": "369",
+    "id": "352",
     "name": "Beehiiv AI",
     "name_ar": "بيهايف AI",
     "category": "Marketing",
@@ -6273,7 +5984,7 @@
     "trialInfo": ""
   },
   {
-    "id": "370",
+    "id": "353",
     "name": "Buffer AI Assistant",
     "name_ar": "بافر AI",
     "category": "Marketing",
@@ -6290,7 +6001,7 @@
     "trialInfo": ""
   },
   {
-    "id": "371",
+    "id": "354",
     "name": "Brand24",
     "name_ar": "براند 24",
     "category": "Marketing",
@@ -6304,10 +6015,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "372",
+    "id": "355",
     "name": "Manychat AI",
     "name_ar": "ماني شات AI",
     "category": "Marketing",
@@ -6324,7 +6035,7 @@
     "trialInfo": ""
   },
   {
-    "id": "373",
+    "id": "356",
     "name": "Lindy",
     "name_ar": "ليندي",
     "category": "Productivity",
@@ -6338,10 +6049,10 @@
     "isTrending": true,
     "trendingScore": 92,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "400 task runs/mo"
   },
   {
-    "id": "374",
+    "id": "357",
     "name": "Tidio Lyro",
     "name_ar": "تيديو لايرو",
     "category": "Communication",
@@ -6358,7 +6069,7 @@
     "trialInfo": ""
   },
   {
-    "id": "375",
+    "id": "358",
     "name": "Voiceflow",
     "name_ar": "فويس فلو",
     "category": "No-Code",
@@ -6375,7 +6086,7 @@
     "trialInfo": ""
   },
   {
-    "id": "376",
+    "id": "359",
     "name": "Botpress",
     "name_ar": "بوت بريس",
     "category": "No-Code",
@@ -6392,7 +6103,7 @@
     "trialInfo": ""
   },
   {
-    "id": "377",
+    "id": "360",
     "name": "Unstructured",
     "name_ar": "أنستركتشد",
     "category": "Coding",
@@ -6409,7 +6120,7 @@
     "trialInfo": ""
   },
   {
-    "id": "378",
+    "id": "361",
     "name": "Hex",
     "name_ar": "هيكس",
     "category": "Analytics",
@@ -6426,7 +6137,7 @@
     "trialInfo": ""
   },
   {
-    "id": "379",
+    "id": "362",
     "name": "PydanticAI",
     "name_ar": "بايدانتيك AI",
     "category": "Coding",
@@ -6443,7 +6154,7 @@
     "trialInfo": ""
   },
   {
-    "id": "380",
+    "id": "363",
     "name": "Deepnote AI",
     "name_ar": "ديب نوت AI",
     "category": "Analytics",
@@ -6460,7 +6171,7 @@
     "trialInfo": ""
   },
   {
-    "id": "381",
+    "id": "364",
     "name": "Dataiku",
     "name_ar": "داتا إيكو",
     "category": "Analytics",
@@ -6477,7 +6188,7 @@
     "trialInfo": ""
   },
   {
-    "id": "382",
+    "id": "365",
     "name": "Harvey",
     "name_ar": "هارفي",
     "category": "Business",
@@ -6494,7 +6205,7 @@
     "trialInfo": ""
   },
   {
-    "id": "383",
+    "id": "366",
     "name": "Hebbia",
     "name_ar": "هيبيا",
     "category": "Research",
@@ -6511,7 +6222,7 @@
     "trialInfo": ""
   },
   {
-    "id": "384",
+    "id": "367",
     "name": "Harpa AI",
     "name_ar": "هاربا AI",
     "category": "Automation",
@@ -6528,7 +6239,7 @@
     "trialInfo": ""
   },
   {
-    "id": "385",
+    "id": "368",
     "name": "SerpApi",
     "name_ar": "سيرب API",
     "category": "Research",
@@ -6542,10 +6253,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 searches/mo"
   },
   {
-    "id": "386",
+    "id": "369",
     "name": "Exa",
     "name_ar": "إكسا",
     "category": "Research",
@@ -6562,7 +6273,7 @@
     "trialInfo": ""
   },
   {
-    "id": "387",
+    "id": "370",
     "name": "Apify",
     "name_ar": "أبيفاي",
     "category": "Automation",
@@ -6579,7 +6290,7 @@
     "trialInfo": ""
   },
   {
-    "id": "388",
+    "id": "371",
     "name": "Scale AI",
     "name_ar": "سكيل AI",
     "category": "Business",
@@ -6596,7 +6307,7 @@
     "trialInfo": ""
   },
   {
-    "id": "389",
+    "id": "372",
     "name": "Mistral Le Chat",
     "name_ar": "ميسترال لو شات",
     "category": "Chat",
@@ -6613,7 +6324,7 @@
     "trialInfo": ""
   },
   {
-    "id": "390",
+    "id": "373",
     "name": "Google AI Studio",
     "name_ar": "جوجل AI ستوديو",
     "category": "Coding",
@@ -6630,7 +6341,7 @@
     "trialInfo": ""
   },
   {
-    "id": "391",
+    "id": "374",
     "name": "Smartsheet AI",
     "name_ar": "سمارت شيت AI",
     "category": "Productivity",
@@ -6647,7 +6358,7 @@
     "trialInfo": ""
   },
   {
-    "id": "392",
+    "id": "375",
     "name": "Monday AI",
     "name_ar": "مونداي AI",
     "category": "Productivity",
@@ -6664,7 +6375,7 @@
     "trialInfo": ""
   },
   {
-    "id": "393",
+    "id": "376",
     "name": "Grain",
     "name_ar": "جرين",
     "category": "Productivity",
@@ -6681,7 +6392,7 @@
     "trialInfo": ""
   },
   {
-    "id": "394",
+    "id": "377",
     "name": "Wondercraft",
     "name_ar": "وندركرافت",
     "category": "Audio",
@@ -6695,10 +6406,10 @@
     "isTrending": true,
     "trendingScore": 89,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1 podcast episode"
   },
   {
-    "id": "395",
+    "id": "378",
     "name": "TurboScribe",
     "name_ar": "توربو سكرايب",
     "category": "Audio",
@@ -6715,7 +6426,7 @@
     "trialInfo": ""
   },
   {
-    "id": "396",
+    "id": "379",
     "name": "Deepgram",
     "name_ar": "ديب جرام",
     "category": "Voice",
@@ -6732,7 +6443,7 @@
     "trialInfo": ""
   },
   {
-    "id": "397",
+    "id": "380",
     "name": "Ssemble",
     "name_ar": "سمبل",
     "category": "Video",
@@ -6746,10 +6457,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "3 video exports"
   },
   {
-    "id": "398",
+    "id": "381",
     "name": "Dumme",
     "name_ar": "دامي",
     "category": "Video",
@@ -6763,10 +6474,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "5 AI reels"
   },
   {
-    "id": "399",
+    "id": "382",
     "name": "Fooocus",
     "name_ar": "فوكس",
     "category": "Image",
@@ -6783,7 +6494,7 @@
     "trialInfo": ""
   },
   {
-    "id": "400",
+    "id": "383",
     "name": "Mubert",
     "name_ar": "موبرت",
     "category": "Audio",
@@ -6800,7 +6511,7 @@
     "trialInfo": ""
   },
   {
-    "id": "401",
+    "id": "384",
     "name": "Synthflow AI",
     "name_ar": "سينث فلو AI",
     "category": "Voice",
@@ -6814,10 +6525,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "20 min AI calls"
   },
   {
-    "id": "402",
+    "id": "385",
     "name": "Vapi",
     "name_ar": "فابي",
     "category": "Voice",
@@ -6834,7 +6545,7 @@
     "trialInfo": ""
   },
   {
-    "id": "403",
+    "id": "386",
     "name": "Retell AI",
     "name_ar": "ريتيل AI",
     "category": "Voice",
@@ -6848,10 +6559,10 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$10 free credits"
   },
   {
-    "id": "404",
+    "id": "387",
     "name": "Bland AI",
     "name_ar": "بلاند AI",
     "category": "Voice",
@@ -6865,10 +6576,10 @@
     "isTrending": true,
     "trendingScore": 90,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$2 free credits"
   },
   {
-    "id": "405",
+    "id": "388",
     "name": "Decohere",
     "name_ar": "ديكوهير",
     "category": "Image",
@@ -6882,10 +6593,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "100 video frames"
   },
   {
-    "id": "406",
+    "id": "389",
     "name": "Creatify",
     "name_ar": "كرياتيفاي",
     "category": "Video",
@@ -6899,10 +6610,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "3 video ads"
   },
   {
-    "id": "407",
+    "id": "390",
     "name": "Mixo",
     "name_ar": "ميكسو",
     "category": "No-Code",
@@ -6916,10 +6627,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1 website launch"
   },
   {
-    "id": "408",
+    "id": "391",
     "name": "Dorik AI",
     "name_ar": "دوريك AI",
     "category": "No-Code",
@@ -6933,10 +6644,10 @@
     "isTrending": true,
     "trendingScore": 87,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "409",
+    "id": "392",
     "name": "Guidde",
     "name_ar": "جايد",
     "category": "Productivity",
@@ -6953,7 +6664,7 @@
     "trialInfo": ""
   },
   {
-    "id": "410",
+    "id": "393",
     "name": "Airtop",
     "name_ar": "إير توب",
     "category": "Automation",
@@ -6967,10 +6678,10 @@
     "isTrending": true,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "$10 free credits"
   },
   {
-    "id": "411",
+    "id": "394",
     "name": "Readdy",
     "name_ar": "ريدي",
     "category": "Design",
@@ -6984,10 +6695,10 @@
     "isTrending": true,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "50 free pages"
   },
   {
-    "id": "412",
+    "id": "395",
     "name": "Bricks AI",
     "name_ar": "بريكس AI",
     "category": "Productivity",
@@ -7001,10 +6712,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "14-day trial"
   },
   {
-    "id": "413",
+    "id": "396",
     "name": "Napkin AI",
     "name_ar": "نابكن AI",
     "category": "Design",
@@ -7021,7 +6732,7 @@
     "trialInfo": ""
   },
   {
-    "id": "414",
+    "id": "397",
     "name": "Scribe",
     "name_ar": "سكرايب",
     "category": "Productivity",
@@ -7038,7 +6749,7 @@
     "trialInfo": ""
   },
   {
-    "id": "415",
+    "id": "398",
     "name": "Sharly AI",
     "name_ar": "شارلي AI",
     "category": "Research",
@@ -7055,7 +6766,7 @@
     "trialInfo": ""
   },
   {
-    "id": "416",
+    "id": "399",
     "name": "Gumloop",
     "name_ar": "جام لوب",
     "category": "Automation",
@@ -7069,10 +6780,10 @@
     "isTrending": true,
     "trendingScore": 88,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "1,000 credits/mo"
   },
   {
-    "id": "417",
+    "id": "400",
     "name": "Dust",
     "name_ar": "دست",
     "category": "Productivity",
@@ -7089,7 +6800,7 @@
     "trialInfo": ""
   },
   {
-    "id": "418",
+    "id": "401",
     "name": "Mem0",
     "name_ar": "ميم زيرو",
     "category": "Coding",
@@ -7106,7 +6817,7 @@
     "trialInfo": ""
   },
   {
-    "id": "419",
+    "id": "402",
     "name": "Qdrant Cloud",
     "name_ar": "كوادرانت كلاود",
     "category": "Coding",
@@ -7123,7 +6834,7 @@
     "trialInfo": ""
   },
   {
-    "id": "420",
+    "id": "403",
     "name": "Jina AI",
     "name_ar": "جينا AI",
     "category": "Research",
@@ -7140,7 +6851,7 @@
     "trialInfo": ""
   },
   {
-    "id": "421",
+    "id": "404",
     "name": "Civitai",
     "name_ar": "سيفيتاي",
     "category": "Image",
@@ -7157,7 +6868,7 @@
     "trialInfo": ""
   },
   {
-    "id": "422",
+    "id": "405",
     "name": "Otio",
     "name_ar": "أوتيو",
     "category": "Research",
@@ -7171,10 +6882,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 document summaries"
   },
   {
-    "id": "423",
+    "id": "406",
     "name": "Tavily",
     "name_ar": "تافيلي",
     "category": "Research",
@@ -7191,7 +6902,7 @@
     "trialInfo": ""
   },
   {
-    "id": "424",
+    "id": "407",
     "name": "Genspark",
     "name_ar": "جين سبارك",
     "category": "Research",
@@ -7208,7 +6919,7 @@
     "trialInfo": ""
   },
   {
-    "id": "425",
+    "id": "408",
     "name": "SeaArt AI",
     "name_ar": "سي آرت AI",
     "category": "Image",
@@ -7225,7 +6936,7 @@
     "trialInfo": ""
   },
   {
-    "id": "426",
+    "id": "409",
     "name": "Namelix",
     "name_ar": "نيمليكس",
     "category": "Marketing",
@@ -7242,7 +6953,7 @@
     "trialInfo": ""
   },
   {
-    "id": "427",
+    "id": "410",
     "name": "MarketMuse",
     "name_ar": "ماركت ميوز",
     "category": "Business",
@@ -7256,10 +6967,10 @@
     "isTrending": true,
     "trendingScore": 86,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "10 briefs/mo"
   },
   {
-    "id": "428",
+    "id": "411",
     "name": "Clearscope",
     "name_ar": "كليرسكوب",
     "category": "Business",
@@ -7276,7 +6987,7 @@
     "trialInfo": ""
   },
   {
-    "id": "429",
+    "id": "412",
     "name": "Keyword Insights",
     "name_ar": "كيوورد إنسايتس",
     "category": "Business",
@@ -7290,6 +7001,584 @@
     "isTrending": true,
     "trendingScore": 85,
     "subscriptionPrice": "",
-    "trialInfo": ""
+    "trialInfo": "30 keyword clusters"
+  },
+  {
+    "name": "Gemini",
+    "name_ar": "جيميني",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Google's AI chatbot with multimodal capabilities.",
+    "description_ar": "روبوت دردشة من جوجل بقدرات متعددة الوسائط.",
+    "website": "https://gemini.google.com",
+    "isTrending": true,
+    "trendingScore": 95,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/gemini.google.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "413"
+  },
+  {
+    "name": "Meta AI",
+    "name_ar": "ميتا AI",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Meta's AI assistant integrated across its platforms.",
+    "description_ar": "مساعد ذكاء اصطناعي من ميتا مدمج في منصاتها.",
+    "website": "https://meta.ai",
+    "isTrending": true,
+    "trendingScore": 88,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/meta.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "414"
+  },
+  {
+    "name": "QuillBot",
+    "name_ar": "كويل بوت",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI paraphrasing and grammar improvement tool.",
+    "description_ar": "أداة AI لإعادة الصياغة وتحسين القواعد اللغوية.",
+    "website": "https://quillbot.com",
+    "isTrending": true,
+    "trendingScore": 85,
+    "subscriptionPrice": "",
+    "trialInfo": "125 words free per paraphrase",
+    "logo": "https://img.logo.dev/quillbot.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "415"
+  },
+  {
+    "name": "Lex",
+    "name_ar": "ليكس",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI-powered writing editor for long-form content.",
+    "description_ar": "محرر كتابة بالذكاء الاصطناعي للمحتوى الطويل.",
+    "website": "https://lex.page",
+    "isTrending": false,
+    "trendingScore": 45,
+    "subscriptionPrice": "",
+    "trialInfo": "50 sessions/mo",
+    "logo": "https://img.logo.dev/lex.page?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "416"
+  },
+  {
+    "name": "Writerly AI",
+    "name_ar": "رايترلي AI",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI content generation platform for teams and brands.",
+    "description_ar": "منصة توليد محتوى AI للفرق والعلامات التجارية.",
+    "website": "https://writerly.ai",
+    "isTrending": false,
+    "trendingScore": 40,
+    "subscriptionPrice": "",
+    "trialInfo": "7-day trial",
+    "logo": "https://img.logo.dev/writerly.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "417"
+  },
+  {
+    "name": "NightCafe Creator",
+    "name_ar": "نايتكافيه كريتور",
+    "category": "Image",
+    "category_ar": "الصور",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI art generator with multiple style models.",
+    "description_ar": "مولد فن AI يدعم أساليب متعددة.",
+    "website": "https://nightcafe.studio",
+    "isTrending": false,
+    "trendingScore": 55,
+    "subscriptionPrice": "",
+    "trialInfo": "5 free credits/day",
+    "logo": "https://img.logo.dev/nightcafe.studio?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "418"
+  },
+  {
+    "name": "Luminar Neo",
+    "name_ar": "لومينار نيو",
+    "category": "Image",
+    "category_ar": "الصور",
+    "pricing": "Paid",
+    "pricing_ar": "مدفوع",
+    "description": "AI-powered photo editor with advanced retouching tools.",
+    "description_ar": "محرر صور بالذكاء الاصطناعي مع أدوات تحسين متقدمة.",
+    "website": "https://skylum.com/luminar-neo",
+    "isTrending": false,
+    "trendingScore": 55,
+    "subscriptionPrice": "$9.95/mo",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/skylum.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "419"
+  },
+  {
+    "name": "Stable Diffusion Web",
+    "name_ar": "ستيبل ديفيوجن ويب",
+    "category": "Image",
+    "category_ar": "الصور",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Browser-based Stable Diffusion image generation tool.",
+    "description_ar": "أداة توليد صور Stable Diffusion عبر المتصفح.",
+    "website": "https://stablediffusionweb.com",
+    "isTrending": false,
+    "trendingScore": 50,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/stablediffusionweb.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "420"
+  },
+  {
+    "name": "Haiper",
+    "name_ar": "هايبر",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI video generation from text and image prompts.",
+    "description_ar": "توليد فيديو AI من النصوص والصور.",
+    "website": "https://haiper.ai",
+    "isTrending": true,
+    "trendingScore": 72,
+    "subscriptionPrice": "",
+    "trialInfo": "50 free credits/month",
+    "logo": "https://img.logo.dev/haiper.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "421"
+  },
+  {
+    "name": "Higgsfield AI",
+    "name_ar": "هيجزفيلد AI",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI cinematic video generation with dynamic camera control.",
+    "description_ar": "توليد فيديو سينمائي AI مع تحكم ديناميكي بالكاميرا.",
+    "website": "https://higgsfield.ai",
+    "isTrending": true,
+    "trendingScore": 75,
+    "subscriptionPrice": "",
+    "trialInfo": "30 video gens/mo",
+    "logo": "https://img.logo.dev/higgsfield.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "422"
+  },
+  {
+    "name": "Wan AI",
+    "name_ar": "وان AI",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Open-source AI video generation model by Alibaba.",
+    "description_ar": "نموذج توليد فيديو AI مفتوح المصدر من علي بابا.",
+    "website": "https://wanx.alibaba.com",
+    "isTrending": true,
+    "trendingScore": 78,
+    "subscriptionPrice": "",
+    "trialInfo": "100 credits/mo",
+    "logo": "https://img.logo.dev/wanx.alibaba.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "423"
+  },
+  {
+    "name": "Whisper",
+    "name_ar": "ويسبر",
+    "category": "Voice",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "OpenAI's open-source speech-to-text transcription model.",
+    "description_ar": "نموذج تحويل الكلام إلى نص مفتوح المصدر من OpenAI.",
+    "website": "https://openai.com/research/whisper",
+    "isTrending": false,
+    "trendingScore": 65,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/openai.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "424"
+  },
+  {
+    "name": "Udio",
+    "name_ar": "يوديو",
+    "category": "Audio",
+    "category_ar": "الصوت",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI music generation from text prompts, any genre.",
+    "description_ar": "توليد موسيقى AI من النصوص بأي نوع موسيقي.",
+    "website": "https://udio.com",
+    "isTrending": true,
+    "trendingScore": 80,
+    "subscriptionPrice": "",
+    "trialInfo": "1,200 credits/mo",
+    "logo": "https://img.logo.dev/udio.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "425"
+  },
+  {
+    "name": "ResearchRabbit",
+    "name_ar": "ريسيرش رابيت",
+    "category": "Research",
+    "category_ar": "البحث",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI-powered academic paper discovery and mapping tool.",
+    "description_ar": "أداة AI لاكتشاف الأوراق البحثية ورسم خرائطها.",
+    "website": "https://www.researchrabbit.ai",
+    "isTrending": false,
+    "trendingScore": 55,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/www.researchrabbit.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "426"
+  },
+  {
+    "name": "Semantic Scholar",
+    "name_ar": "سيمانتيك سكولار",
+    "category": "Research",
+    "category_ar": "البحث",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI-driven academic search engine with smart paper analysis.",
+    "description_ar": "محرك بحث أكاديمي بالذكاء الاصطناعي مع تحليل ذكي للأبحاث.",
+    "website": "https://www.semanticscholar.org",
+    "isTrending": false,
+    "trendingScore": 60,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/www.semanticscholar.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "427"
+  },
+  {
+    "name": "Explainpaper",
+    "name_ar": "إكسبلين بيبر",
+    "category": "Research",
+    "category_ar": "البحث",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Upload academic papers and get AI explanations of complex terms.",
+    "description_ar": "ارفع الأوراق البحثية واحصل على شرح AI للمصطلحات المعقدة.",
+    "website": "https://www.explainpaper.com",
+    "isTrending": false,
+    "trendingScore": 45,
+    "subscriptionPrice": "",
+    "trialInfo": "5 papers/mo",
+    "logo": "https://img.logo.dev/www.explainpaper.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "428"
+  },
+  {
+    "name": "Mixpanel",
+    "name_ar": "ميكس بانل",
+    "category": "Analytics",
+    "category_ar": "التحليلات",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Product analytics platform with AI-driven user behavior insights.",
+    "description_ar": "منصة تحليلات المنتج مع رؤى سلوك المستخدم بالذكاء الاصطناعي.",
+    "website": "https://mixpanel.com",
+    "isTrending": false,
+    "trendingScore": 65,
+    "subscriptionPrice": "",
+    "trialInfo": "20M events/mo",
+    "logo": "https://img.logo.dev/mixpanel.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "429"
+  },
+  {
+    "name": "Amplitude",
+    "name_ar": "أمبليتيود",
+    "category": "Analytics",
+    "category_ar": "التحليلات",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI-powered product analytics for user engagement and retention.",
+    "description_ar": "تحليلات المنتج بالذكاء الاصطناعي لتفاعل المستخدم والاحتفاظ به.",
+    "website": "https://amplitude.com",
+    "isTrending": false,
+    "trendingScore": 60,
+    "subscriptionPrice": "",
+    "trialInfo": "10M events/mo",
+    "logo": "https://img.logo.dev/amplitude.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "430"
+  },
+  {
+    "name": "Predis.ai",
+    "name_ar": "بريديس AI",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI social media content creator and scheduler.",
+    "description_ar": "منشئ محتوى وجدولة AI لوسائل التواصل الاجتماعي.",
+    "website": "https://predis.ai",
+    "isTrending": false,
+    "trendingScore": 55,
+    "subscriptionPrice": "",
+    "trialInfo": "15 AI posts/mo",
+    "logo": "https://img.logo.dev/predis.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "431"
+  },
+  {
+    "name": "Taplio",
+    "name_ar": "تابليو",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Paid",
+    "pricing_ar": "مدفوع",
+    "description": "AI-powered LinkedIn content creation and scheduling tool.",
+    "description_ar": "أداة AI لإنشاء وجدولة محتوى LinkedIn.",
+    "website": "https://taplio.com",
+    "isTrending": false,
+    "trendingScore": 50,
+    "subscriptionPrice": "$49/mo",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/taplio.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "432"
+  },
+  {
+    "name": "Gemini Code Assist",
+    "name_ar": "جيميني كود أسيست",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Google's AI coding assistant for IDEs and Cloud Workstations.",
+    "description_ar": "مساعد البرمجة AI من جوجل للبيئات التطويرية.",
+    "website": "https://cloud.google.com/gemini/docs/codeassist/overview",
+    "isTrending": true,
+    "trendingScore": 80,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/cloud.google.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "433"
+  },
+  {
+    "name": "Mistral Codestral",
+    "name_ar": "ميسترال كودسترال",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Mistral AI's code generation model for 80+ programming languages.",
+    "description_ar": "نموذج توليد الكود من ميسترال AI يدعم 80+ لغة برمجة.",
+    "website": "https://mistral.ai/news/codestral",
+    "isTrending": true,
+    "trendingScore": 75,
+    "subscriptionPrice": "",
+    "trialInfo": "Free API access",
+    "logo": "https://img.logo.dev/mistral.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "434"
+  },
+  {
+    "name": "Google Jules",
+    "name_ar": "جوجل جولز",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Google's autonomous AI coding agent for GitHub repositories.",
+    "description_ar": "عميل برمجة AI مستقل من جوجل لمستودعات GitHub.",
+    "website": "https://jules.google.com",
+    "isTrending": true,
+    "trendingScore": 82,
+    "subscriptionPrice": "",
+    "trialInfo": "Free beta access",
+    "logo": "https://img.logo.dev/jules.google.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "435"
+  },
+  {
+    "name": "Softr",
+    "name_ar": "سوفتر",
+    "category": "No-Code",
+    "category_ar": "بدون كود",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "No-code platform to build apps from Airtable and Google Sheets.",
+    "description_ar": "منصة بدون كود لبناء تطبيقات من Airtable وGoogle Sheets.",
+    "website": "https://softr.io",
+    "isTrending": false,
+    "trendingScore": 55,
+    "subscriptionPrice": "",
+    "trialInfo": "Free plan: 3 apps, unlimited pages",
+    "logo": "https://img.logo.dev/softr.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "436"
+  },
+  {
+    "name": "Locofy",
+    "name_ar": "لوكوفاي",
+    "category": "No-Code",
+    "category_ar": "بدون كود",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Convert Figma designs to production-ready frontend code instantly.",
+    "description_ar": "تحويل تصميمات Figma إلى كود واجهة أمامية جاهز للإنتاج.",
+    "website": "https://locofy.ai",
+    "isTrending": false,
+    "trendingScore": 60,
+    "subscriptionPrice": "",
+    "trialInfo": "3 project exports",
+    "logo": "https://img.logo.dev/locofy.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "437"
+  },
+  {
+    "name": "Pipedream",
+    "name_ar": "بايبدريم",
+    "category": "Automation",
+    "category_ar": "الأتمتة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Code-level automation platform connecting APIs and workflows.",
+    "description_ar": "منصة أتمتة بالكود لربط APIs وتدفقات العمل.",
+    "website": "https://pipedream.com",
+    "isTrending": false,
+    "trendingScore": 60,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/pipedream.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "438"
+  },
+  {
+    "name": "Albato",
+    "name_ar": "ألباتو",
+    "category": "Automation",
+    "category_ar": "الأتمتة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "No-code integration and automation platform for 600+ apps.",
+    "description_ar": "منصة تكامل وأتمتة بدون كود لأكثر من 600 تطبيق.",
+    "website": "https://albato.com",
+    "isTrending": false,
+    "trendingScore": 45,
+    "subscriptionPrice": "",
+    "trialInfo": "300 task runs/mo",
+    "logo": "https://img.logo.dev/albato.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "439"
+  },
+  {
+    "name": "LlamaIndex",
+    "name_ar": "لاما إندكس",
+    "category": "Developer",
+    "category_ar": "المطورين",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Framework for building LLM-powered data applications and RAG pipelines.",
+    "description_ar": "إطار عمل لبناء تطبيقات بيانات مدعومة بـ LLM وخطوط RAG.",
+    "website": "https://llamaindex.ai",
+    "isTrending": true,
+    "trendingScore": 75,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/llamaindex.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "440"
+  },
+  {
+    "name": "Helicone",
+    "name_ar": "هيليكون",
+    "category": "Developer",
+    "category_ar": "المطورين",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "LLM observability and monitoring platform for AI applications.",
+    "description_ar": "منصة مراقبة وملاحظة LLM لتطبيقات الذكاء الاصطناعي.",
+    "website": "https://helicone.ai",
+    "isTrending": false,
+    "trendingScore": 55,
+    "subscriptionPrice": "",
+    "trialInfo": "100K free requests/month",
+    "logo": "https://img.logo.dev/helicone.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "441"
+  },
+  {
+    "name": "LangSmith",
+    "name_ar": "لانج سميث",
+    "category": "Developer",
+    "category_ar": "المطورين",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Platform for debugging, testing, and monitoring LLM applications.",
+    "description_ar": "منصة لتصحيح واختبار ومراقبة تطبيقات LLM.",
+    "website": "https://smith.langchain.com",
+    "isTrending": true,
+    "trendingScore": 70,
+    "subscriptionPrice": "",
+    "trialInfo": "5,000 traces/mo",
+    "logo": "https://img.logo.dev/smith.langchain.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "442"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "name_ar": "مايكروسوفت كوبايلوت",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Microsoft's AI assistant integrated across Windows and Office.",
+    "description_ar": "مساعد AI من مايكروسوفت مدمج في Windows وOffice.",
+    "website": "https://copilot.microsoft.com",
+    "isTrending": true,
+    "trendingScore": 90,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/copilot.microsoft.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "443"
+  },
+  {
+    "name": "Adobe Acrobat AI",
+    "name_ar": "أدوبي أكروبات AI",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Paid",
+    "pricing_ar": "مدفوع",
+    "description": "AI-powered PDF editor with summarize, rewrite, and chat features.",
+    "description_ar": "محرر PDF بالذكاء الاصطناعي مع ميزات التلخيص وإعادة الكتابة والدردشة.",
+    "website": "https://www.adobe.com/acrobat/ai-assistant.html",
+    "isTrending": false,
+    "trendingScore": 60,
+    "subscriptionPrice": "$12.99/mo",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/www.adobe.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "444"
+  },
+  {
+    "name": "Notion Calendar",
+    "name_ar": "نوشن كالندر",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI-connected calendar that integrates seamlessly with Notion workspace.",
+    "description_ar": "تقويم متصل بـ AI يتكامل بسلاسة مع مساحة عمل Notion.",
+    "website": "https://www.notion.com/product/calendar",
+    "isTrending": false,
+    "trendingScore": 55,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "logo": "https://img.logo.dev/www.notion.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "445"
+  },
+  {
+    "name": "Limitless",
+    "name_ar": "ليمتلس",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI wearable and app that records meetings and surfaces key insights.",
+    "description_ar": "تطبيق AI يسجل الاجتماعات ويستخرج الرؤى الرئيسية.",
+    "website": "https://limitless.ai",
+    "isTrending": true,
+    "trendingScore": 70,
+    "subscriptionPrice": "",
+    "trialInfo": "30-day trial",
+    "logo": "https://img.logo.dev/limitless.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "id": "446"
   }
 ]
