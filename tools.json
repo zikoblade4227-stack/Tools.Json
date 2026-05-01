@@ -37531,132 +37531,6 @@
   },
   {
     "id": "2086",
-    "name": "Matplotlib",
-    "name_ar": "Matplotlib",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/matplotlib/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 43,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2087",
-    "name": "Bokeh",
-    "name_ar": "Bokeh",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/bokeh/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 89,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2088",
-    "name": "Altair",
-    "name_ar": "Altair",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/altair/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 40,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2089",
-    "name": "HoloViews",
-    "name_ar": "HoloViews",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/holoviews/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 88,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2090",
-    "name": "hvPlot",
-    "name_ar": "hvPlot",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/hvplot/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 72,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2091",
-    "name": "Panel",
-    "name_ar": "Panel",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/panel/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 41,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2092",
-    "name": "Dash",
-    "name_ar": "Dash",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/dash/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 94,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2093",
     "name": "Pandera",
     "name_ar": "Pandera",
     "category": "Analytics",
@@ -37674,7 +37548,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2094",
+    "id": "2087",
     "name": "Dask",
     "name_ar": "Dask",
     "category": "Analytics",
@@ -37692,7 +37566,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2095",
+    "id": "2088",
     "name": "Modin",
     "name_ar": "Modin",
     "category": "Analytics",
@@ -37710,7 +37584,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2096",
+    "id": "2089",
     "name": "Vaex",
     "name_ar": "Vaex",
     "category": "Analytics",
@@ -37728,7 +37602,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2097",
+    "id": "2090",
     "name": "DuckDB",
     "name_ar": "DuckDB",
     "category": "Analytics",
@@ -37746,7 +37620,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2098",
+    "id": "2091",
     "name": "ConnectorX",
     "name_ar": "ConnectorX",
     "category": "Analytics",
@@ -37764,7 +37638,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2099",
+    "id": "2092",
     "name": "PyArrow",
     "name_ar": "PyArrow",
     "category": "Analytics",
@@ -37782,7 +37656,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2100",
+    "id": "2093",
     "name": "fastparquet",
     "name_ar": "fastparquet",
     "category": "Analytics",
@@ -37800,7 +37674,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2101",
+    "id": "2094",
     "name": "openpyxl",
     "name_ar": "openpyxl",
     "category": "Analytics",
@@ -37818,7 +37692,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2102",
+    "id": "2095",
     "name": "xlrd",
     "name_ar": "xlrd",
     "category": "Analytics",
@@ -37836,7 +37710,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2103",
+    "id": "2096",
     "name": "XlsxWriter",
     "name_ar": "XlsxWriter",
     "category": "Analytics",
@@ -37854,25 +37728,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2104",
-    "name": "GeoPandas",
-    "name_ar": "GeoPandas",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/geopandas/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 42,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2105",
+    "id": "2097",
     "name": "Shapely",
     "name_ar": "Shapely",
     "category": "Analytics",
@@ -37890,61 +37746,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2106",
-    "name": "Rasterio",
-    "name_ar": "Rasterio",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/rasterio/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 56,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2107",
-    "name": "Folium",
-    "name_ar": "Folium",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/folium/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 55,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2108",
-    "name": "NetworkX",
-    "name_ar": "NetworkX",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/networkx/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 49,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2109",
+    "id": "2098",
     "name": "SymPy",
     "name_ar": "SymPy",
     "category": "Analytics",
@@ -37962,7 +37764,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2110",
+    "id": "2099",
     "name": "Prophet",
     "name_ar": "Prophet",
     "category": "Analytics",
@@ -37980,7 +37782,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2111",
+    "id": "2100",
     "name": "GluonTS",
     "name_ar": "GluonTS",
     "category": "Analytics",
@@ -37998,7 +37800,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2112",
+    "id": "2101",
     "name": "MLflow",
     "name_ar": "MLflow",
     "category": "Analytics",
@@ -38016,7 +37818,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2113",
+    "id": "2102",
     "name": "Kedro",
     "name_ar": "Kedro",
     "category": "Analytics",
@@ -38034,7 +37836,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2114",
+    "id": "2103",
     "name": "Apache Airflow",
     "name_ar": "Apache Airflow",
     "category": "Analytics",
@@ -38052,7 +37854,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2115",
+    "id": "2104",
     "name": "Luigi",
     "name_ar": "Luigi",
     "category": "Analytics",
@@ -38070,7 +37872,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2116",
+    "id": "2105",
     "name": "dbt-core",
     "name_ar": "dbt-core",
     "category": "Analytics",
@@ -38088,7 +37890,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2117",
+    "id": "2106",
     "name": "Evidently",
     "name_ar": "Evidently",
     "category": "Analytics",
@@ -38106,7 +37908,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2118",
+    "id": "2107",
     "name": "Deepchecks",
     "name_ar": "Deepchecks",
     "category": "Analytics",
@@ -38124,7 +37926,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2119",
+    "id": "2108",
     "name": "Cleanlab",
     "name_ar": "Cleanlab",
     "category": "Analytics",
@@ -38142,7 +37944,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2120",
+    "id": "2109",
     "name": "whylogs",
     "name_ar": "whylogs",
     "category": "Analytics",
@@ -38160,7 +37962,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2121",
+    "id": "2110",
     "name": "Soda Core",
     "name_ar": "Soda Core",
     "category": "Analytics",
@@ -38178,7 +37980,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2122",
+    "id": "2111",
     "name": "DataProfiler",
     "name_ar": "DataProfiler",
     "category": "Analytics",
@@ -38196,97 +37998,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2123",
-    "name": "Pandas Profiling",
-    "name_ar": "Pandas Profiling",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/pandas-profiling/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 69,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2124",
-    "name": "Sweetviz",
-    "name_ar": "Sweetviz",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/sweetviz/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 80,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2125",
-    "name": "Autoviz",
-    "name_ar": "Autoviz",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/autoviz/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 79,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2126",
-    "name": "D-Tale",
-    "name_ar": "D-Tale",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/d-tale/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 48,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2127",
-    "name": "missingno",
-    "name_ar": "missingno",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/missingno/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 88,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2128",
+    "id": "2112",
     "name": "PyOD",
     "name_ar": "PyOD",
     "category": "Analytics",
@@ -38304,7 +38016,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2129",
+    "id": "2113",
     "name": "River",
     "name_ar": "River",
     "category": "Analytics",
@@ -38322,7 +38034,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2130",
+    "id": "2114",
     "name": "Imbalanced-learn",
     "name_ar": "Imbalanced-learn",
     "category": "Analytics",
@@ -38340,25 +38052,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2131",
-    "name": "Yellowbrick",
-    "name_ar": "Yellowbrick",
-    "category": "Analytics",
-    "category_ar": "التحليلات",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Analytics tool for data, dashboards, metrics, reporting, and insights.",
-    "description_ar": "أداة للتحليلات والبيانات ولوحات التحكم والتقارير والرؤى.",
-    "website": "https://pypi.org/project/yellowbrick/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 44,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2132",
+    "id": "2115",
     "name": "Optuna",
     "name_ar": "Optuna",
     "category": "Analytics",
@@ -38376,7 +38070,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2133",
+    "id": "2116",
     "name": "Hyperopt",
     "name_ar": "Hyperopt",
     "category": "Analytics",
@@ -38394,7 +38088,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2134",
+    "id": "2117",
     "name": "Ray",
     "name_ar": "Ray",
     "category": "Analytics",
@@ -38412,7 +38106,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2135",
+    "id": "2118",
     "name": "Joblib",
     "name_ar": "Joblib",
     "category": "Analytics",
@@ -38430,7 +38124,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2136",
+    "id": "2119",
     "name": "DVC",
     "name_ar": "DVC",
     "category": "Analytics",
@@ -38448,7 +38142,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2137",
+    "id": "2120",
     "name": "Pachyderm",
     "name_ar": "Pachyderm",
     "category": "Analytics",
@@ -38466,7 +38160,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2138",
+    "id": "2121",
     "name": "LakeFS",
     "name_ar": "LakeFS",
     "category": "Analytics",
@@ -38484,7 +38178,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2139",
+    "id": "2122",
     "name": "Feast",
     "name_ar": "Feast",
     "category": "Analytics",
@@ -38502,7 +38196,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2140",
+    "id": "2123",
     "name": "Transformers",
     "name_ar": "Transformers",
     "category": "Research",
@@ -38520,7 +38214,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2141",
+    "id": "2124",
     "name": "Datasets",
     "name_ar": "Datasets",
     "category": "Research",
@@ -38538,7 +38232,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2142",
+    "id": "2125",
     "name": "Tokenizers",
     "name_ar": "Tokenizers",
     "category": "Research",
@@ -38556,7 +38250,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2143",
+    "id": "2126",
     "name": "Accelerate",
     "name_ar": "Accelerate",
     "category": "Research",
@@ -38574,7 +38268,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2144",
+    "id": "2127",
     "name": "Diffusers",
     "name_ar": "Diffusers",
     "category": "Research",
@@ -38592,7 +38286,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2145",
+    "id": "2128",
     "name": "Sentence Transformers",
     "name_ar": "Sentence Transformers",
     "category": "Research",
@@ -38610,7 +38304,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2146",
+    "id": "2129",
     "name": "PyAutoGen",
     "name_ar": "PyAutoGen",
     "category": "Research",
@@ -38628,7 +38322,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2147",
+    "id": "2130",
     "name": "Guidance",
     "name_ar": "Guidance",
     "category": "Research",
@@ -38646,7 +38340,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2148",
+    "id": "2131",
     "name": "Instructor",
     "name_ar": "Instructor",
     "category": "Research",
@@ -38664,7 +38358,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2149",
+    "id": "2132",
     "name": "LiteLLM",
     "name_ar": "LiteLLM",
     "category": "Research",
@@ -38682,7 +38376,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2150",
+    "id": "2133",
     "name": "Ollama Python",
     "name_ar": "Ollama Python",
     "category": "Research",
@@ -38700,7 +38394,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2151",
+    "id": "2134",
     "name": "OpenAI Python",
     "name_ar": "OpenAI Python",
     "category": "Research",
@@ -38718,7 +38412,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2152",
+    "id": "2135",
     "name": "Anthropic Python",
     "name_ar": "Anthropic Python",
     "category": "Research",
@@ -38736,7 +38430,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2153",
+    "id": "2136",
     "name": "Google Gen AI",
     "name_ar": "Google Gen AI",
     "category": "Research",
@@ -38754,7 +38448,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2154",
+    "id": "2137",
     "name": "Groq Python",
     "name_ar": "Groq Python",
     "category": "Research",
@@ -38772,7 +38466,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2155",
+    "id": "2138",
     "name": "Cohere Python",
     "name_ar": "Cohere Python",
     "category": "Research",
@@ -38790,7 +38484,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2156",
+    "id": "2139",
     "name": "Mistral AI Python",
     "name_ar": "Mistral AI Python",
     "category": "Research",
@@ -38808,7 +38502,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2157",
+    "id": "2140",
     "name": "Together AI Python",
     "name_ar": "Together AI Python",
     "category": "Research",
@@ -38826,7 +38520,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2158",
+    "id": "2141",
     "name": "Qdrant Client",
     "name_ar": "Qdrant Client",
     "category": "Research",
@@ -38844,7 +38538,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2159",
+    "id": "2142",
     "name": "ChromaDB",
     "name_ar": "ChromaDB",
     "category": "Research",
@@ -38862,7 +38556,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2160",
+    "id": "2143",
     "name": "Weaviate Client",
     "name_ar": "Weaviate Client",
     "category": "Research",
@@ -38880,7 +38574,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2161",
+    "id": "2144",
     "name": "PyMilvus",
     "name_ar": "PyMilvus",
     "category": "Research",
@@ -38898,7 +38592,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2162",
+    "id": "2145",
     "name": "faiss-cpu",
     "name_ar": "faiss-cpu",
     "category": "Research",
@@ -38916,7 +38610,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2163",
+    "id": "2146",
     "name": "hnswlib",
     "name_ar": "hnswlib",
     "category": "Research",
@@ -38934,7 +38628,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2164",
+    "id": "2147",
     "name": "Annoy",
     "name_ar": "Annoy",
     "category": "Research",
@@ -38952,7 +38646,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2165",
+    "id": "2148",
     "name": "rank-bm25",
     "name_ar": "rank-bm25",
     "category": "Research",
@@ -38970,7 +38664,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2166",
+    "id": "2149",
     "name": "NLTK",
     "name_ar": "NLTK",
     "category": "Research",
@@ -38988,7 +38682,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2167",
+    "id": "2150",
     "name": "Gensim",
     "name_ar": "Gensim",
     "category": "Research",
@@ -39006,7 +38700,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2168",
+    "id": "2151",
     "name": "SHAP",
     "name_ar": "SHAP",
     "category": "Research",
@@ -39024,7 +38718,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2169",
+    "id": "2152",
     "name": "LIME",
     "name_ar": "LIME",
     "category": "Research",
@@ -39042,7 +38736,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2170",
+    "id": "2153",
     "name": "Alibi Detect",
     "name_ar": "Alibi Detect",
     "category": "Research",
@@ -39060,7 +38754,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2171",
+    "id": "2154",
     "name": "ONNX Runtime",
     "name_ar": "ONNX Runtime",
     "category": "Research",
@@ -39078,7 +38772,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2172",
+    "id": "2155",
     "name": "OpenVINO",
     "name_ar": "OpenVINO",
     "category": "Research",
@@ -39096,7 +38790,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2173",
+    "id": "2156",
     "name": "XGBoost",
     "name_ar": "XGBoost",
     "category": "Research",
@@ -39114,7 +38808,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2174",
+    "id": "2157",
     "name": "LightGBM",
     "name_ar": "LightGBM",
     "category": "Research",
@@ -39132,7 +38826,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2175",
+    "id": "2158",
     "name": "CatBoost",
     "name_ar": "CatBoost",
     "category": "Research",
@@ -39150,7 +38844,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2176",
+    "id": "2159",
     "name": "PyCaret",
     "name_ar": "PyCaret",
     "category": "Research",
@@ -39168,7 +38862,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2177",
+    "id": "2160",
     "name": "AutoGluon",
     "name_ar": "AutoGluon",
     "category": "Research",
@@ -39186,7 +38880,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2178",
+    "id": "2161",
     "name": "EvalML",
     "name_ar": "EvalML",
     "category": "Research",
@@ -39204,7 +38898,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2179",
+    "id": "2162",
     "name": "FLAML",
     "name_ar": "FLAML",
     "category": "Research",
@@ -39222,7 +38916,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2180",
+    "id": "2163",
     "name": "Ludwig",
     "name_ar": "Ludwig",
     "category": "Research",
@@ -39240,7 +38934,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2181",
+    "id": "2164",
     "name": "H2O AutoML",
     "name_ar": "H2O AutoML",
     "category": "Research",
@@ -39258,7 +38952,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2182",
+    "id": "2165",
     "name": "Vowpal Wabbit",
     "name_ar": "Vowpal Wabbit",
     "category": "Research",
@@ -39276,7 +38970,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2183",
+    "id": "2166",
     "name": "FastText",
     "name_ar": "FastText",
     "category": "Research",
@@ -39294,7 +38988,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2184",
+    "id": "2167",
     "name": "BERTopic",
     "name_ar": "BERTopic",
     "category": "Research",
@@ -39312,7 +39006,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2185",
+    "id": "2168",
     "name": "TextBlob",
     "name_ar": "TextBlob",
     "category": "Research",
@@ -39330,7 +39024,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2186",
+    "id": "2169",
     "name": "Polyglot",
     "name_ar": "Polyglot",
     "category": "Research",
@@ -39348,7 +39042,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2187",
+    "id": "2170",
     "name": "Stanza",
     "name_ar": "Stanza",
     "category": "Research",
@@ -39366,7 +39060,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2188",
+    "id": "2171",
     "name": "Presidio Analyzer",
     "name_ar": "Presidio Analyzer",
     "category": "Research",
@@ -39384,7 +39078,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2189",
+    "id": "2172",
     "name": "Presidio Anonymizer",
     "name_ar": "Presidio Anonymizer",
     "category": "Research",
@@ -39402,7 +39096,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2190",
+    "id": "2173",
     "name": "DeepSpeed",
     "name_ar": "DeepSpeed",
     "category": "Research",
@@ -39420,7 +39114,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2191",
+    "id": "2174",
     "name": "FairScale",
     "name_ar": "FairScale",
     "category": "Research",
@@ -39438,7 +39132,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2192",
+    "id": "2175",
     "name": "PyTorch Lightning",
     "name_ar": "PyTorch Lightning",
     "category": "Research",
@@ -39456,7 +39150,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2193",
+    "id": "2176",
     "name": "Lightning Fabric",
     "name_ar": "Lightning Fabric",
     "category": "Research",
@@ -39474,7 +39168,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2194",
+    "id": "2177",
     "name": "Einops",
     "name_ar": "Einops",
     "category": "Research",
@@ -39492,7 +39186,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2195",
+    "id": "2178",
     "name": "Timm",
     "name_ar": "Timm",
     "category": "Research",
@@ -39510,7 +39204,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2196",
+    "id": "2179",
     "name": "MMDetection",
     "name_ar": "MMDetection",
     "category": "Research",
@@ -39528,7 +39222,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2197",
+    "id": "2180",
     "name": "MMEngine",
     "name_ar": "MMEngine",
     "category": "Research",
@@ -39546,7 +39240,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2198",
+    "id": "2181",
     "name": "Detectron2",
     "name_ar": "Detectron2",
     "category": "Research",
@@ -39564,7 +39258,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2199",
+    "id": "2182",
     "name": "Ultralytics",
     "name_ar": "Ultralytics",
     "category": "Research",
@@ -39582,7 +39276,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2200",
+    "id": "2183",
     "name": "Supervision",
     "name_ar": "Supervision",
     "category": "Research",
@@ -39600,7 +39294,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2201",
+    "id": "2184",
     "name": "Roboflow Inference",
     "name_ar": "Roboflow Inference",
     "category": "Research",
@@ -39618,7 +39312,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2202",
+    "id": "2185",
     "name": "Label Studio SDK",
     "name_ar": "Label Studio SDK",
     "category": "Research",
@@ -39636,7 +39330,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2203",
+    "id": "2186",
     "name": "Prodigy",
     "name_ar": "Prodigy",
     "category": "Research",
@@ -39654,7 +39348,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2204",
+    "id": "2187",
     "name": "Rubrix",
     "name_ar": "Rubrix",
     "category": "Research",
@@ -39672,7 +39366,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2205",
+    "id": "2188",
     "name": "Argilla",
     "name_ar": "Argilla",
     "category": "Research",
@@ -39690,7 +39384,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2206",
+    "id": "2189",
     "name": "Ragas",
     "name_ar": "Ragas",
     "category": "Research",
@@ -39708,7 +39402,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2207",
+    "id": "2190",
     "name": "TruLens",
     "name_ar": "TruLens",
     "category": "Research",
@@ -39726,7 +39420,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2208",
+    "id": "2191",
     "name": "Phoenix Evals",
     "name_ar": "Phoenix Evals",
     "category": "Research",
@@ -39744,871 +39438,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2209",
-    "name": "Pillow",
-    "name_ar": "Pillow",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pillow/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 66,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2210",
-    "name": "OpenCV Python",
-    "name_ar": "OpenCV Python",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/opencv-python/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 59,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2211",
-    "name": "scikit-image",
-    "name_ar": "scikit-image",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/scikit-image/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 92,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2212",
-    "name": "imageio",
-    "name_ar": "imageio",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/imageio/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 56,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2213",
-    "name": "MoviePy",
-    "name_ar": "MoviePy",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/moviepy/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 93,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2214",
-    "name": "ffmpeg-python",
-    "name_ar": "ffmpeg-python",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/ffmpeg-python/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 68,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2215",
-    "name": "Pydub",
-    "name_ar": "Pydub",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pydub/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 61,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2216",
-    "name": "Librosa",
-    "name_ar": "Librosa",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/librosa/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 41,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2217",
-    "name": "SoundFile",
-    "name_ar": "SoundFile",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/soundfile/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 65,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2218",
-    "name": "Torchaudio",
-    "name_ar": "Torchaudio",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/torchaudio/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 92,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2219",
-    "name": "Audiomentations",
-    "name_ar": "Audiomentations",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/audiomentations/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 88,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2220",
-    "name": "Albumentations",
-    "name_ar": "Albumentations",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/albumentations/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 88,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2221",
-    "name": "rembg",
-    "name_ar": "rembg",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/rembg/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 70,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2222",
-    "name": "EasyOCR",
-    "name_ar": "EasyOCR",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/easyocr/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 65,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2223",
-    "name": "pytesseract",
-    "name_ar": "pytesseract",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pytesseract/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 92,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2224",
-    "name": "Open3D",
-    "name_ar": "Open3D",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/open3d/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 66,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2225",
-    "name": "Trimesh",
-    "name_ar": "Trimesh",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/trimesh/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 57,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2226",
-    "name": "CadQuery",
-    "name_ar": "CadQuery",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/cadquery/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 68,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2227",
-    "name": "Manim",
-    "name_ar": "Manim",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/manim/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 43,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2228",
-    "name": "CairoSVG",
-    "name_ar": "CairoSVG",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/cairosvg/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 59,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2229",
-    "name": "Wand",
-    "name_ar": "Wand",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/wand/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 49,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2230",
-    "name": "imgaug",
-    "name_ar": "imgaug",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/imgaug/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 69,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2231",
-    "name": "AugLy",
-    "name_ar": "AugLy",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/augly/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 82,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2232",
-    "name": "Kornia",
-    "name_ar": "Kornia",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/kornia/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 47,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2233",
-    "name": "Mediapipe",
-    "name_ar": "Mediapipe",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/mediapipe/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 70,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2234",
-    "name": "VidGear",
-    "name_ar": "VidGear",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/vidgear/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 54,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2235",
-    "name": "PySceneDetect",
-    "name_ar": "PySceneDetect",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pyscenedetect/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 71,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2236",
-    "name": "WhisperX",
-    "name_ar": "WhisperX",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/whisperx/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 41,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2237",
-    "name": "Whisper Timestamped",
-    "name_ar": "Whisper Timestamped",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/whisper-timestamped/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 89,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2238",
-    "name": "SpeechRecognition",
-    "name_ar": "SpeechRecognition",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/speechrecognition/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 88,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2239",
-    "name": "pyannote.audio",
-    "name_ar": "pyannote.audio",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pyannote.audio/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 64,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2240",
-    "name": "Resampy",
-    "name_ar": "Resampy",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/resampy/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 62,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2241",
-    "name": "Essentia",
-    "name_ar": "Essentia",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/essentia/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 43,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2242",
-    "name": "Demucs",
-    "name_ar": "Demucs",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/demucs/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 44,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2243",
-    "name": "Spleeter",
-    "name_ar": "Spleeter",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/spleeter/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 51,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2244",
-    "name": "Madmom",
-    "name_ar": "Madmom",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/madmom/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 93,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2245",
-    "name": "Music21",
-    "name_ar": "Music21",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/music21/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 47,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2246",
-    "name": "pretty_midi",
-    "name_ar": "pretty_midi",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pretty_midi/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 79,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2247",
-    "name": "Mido",
-    "name_ar": "Mido",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/mido/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 48,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2248",
-    "name": "PyDub Silence",
-    "name_ar": "PyDub Silence",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pydub-silence/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 53,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2249",
-    "name": "TTS",
-    "name_ar": "TTS",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/tts/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 71,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2250",
-    "name": "Coqui STT",
-    "name_ar": "Coqui STT",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/coqui-stt/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 66,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2251",
-    "name": "Edge TTS",
-    "name_ar": "Edge TTS",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/edge-tts/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 91,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2252",
-    "name": "gTTS",
-    "name_ar": "gTTS",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/gtts/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 64,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2253",
-    "name": "Piper TTS",
-    "name_ar": "Piper TTS",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/piper-tts/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 65,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2254",
-    "name": "VoiceFixer",
-    "name_ar": "VoiceFixer",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/voicefixer/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 62,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2255",
-    "name": "Noisereduce",
-    "name_ar": "Noisereduce",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/noisereduce/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": true,
-    "trendingScore": 82,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2256",
-    "name": "Pedalboard",
-    "name_ar": "Pedalboard",
-    "category": "Image",
-    "category_ar": "الصور",
-    "pricing": "Free",
-    "pricing_ar": "مجاني",
-    "description": "Image tool for editing, generation, optimization, and visual assets.",
-    "description_ar": "أداة للصور والتحرير والتوليد والتحسين والأصول البصرية.",
-    "website": "https://pypi.org/project/pedalboard/",
-    "logo": "https://img.logo.dev/pypi.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
-    "isTrending": false,
-    "trendingScore": 56,
-    "subscriptionPrice": "",
-    "trialInfo": "",
-    "trialInfo_ar": ""
-  },
-  {
-    "id": "2257",
+    "id": "2192",
     "name": "react-query",
     "name_ar": "react-query",
     "category": "Developer",
@@ -40626,7 +39456,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2258",
+    "id": "2193",
     "name": "tanstack-router",
     "name_ar": "tanstack-router",
     "category": "Developer",
@@ -40644,7 +39474,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2259",
+    "id": "2194",
     "name": "tanstack-table",
     "name_ar": "tanstack-table",
     "category": "Developer",
@@ -40662,7 +39492,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2260",
+    "id": "2195",
     "name": "zustand",
     "name_ar": "zustand",
     "category": "Developer",
@@ -40680,7 +39510,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2261",
+    "id": "2196",
     "name": "jotai",
     "name_ar": "jotai",
     "category": "Developer",
@@ -40698,7 +39528,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2262",
+    "id": "2197",
     "name": "redux-toolkit",
     "name_ar": "redux-toolkit",
     "category": "Developer",
@@ -40716,7 +39546,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2263",
+    "id": "2198",
     "name": "mobx",
     "name_ar": "mobx",
     "category": "Developer",
@@ -40734,7 +39564,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2264",
+    "id": "2199",
     "name": "xstate",
     "name_ar": "xstate",
     "category": "Developer",
@@ -40752,7 +39582,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2265",
+    "id": "2200",
     "name": "zod",
     "name_ar": "zod",
     "category": "Developer",
@@ -40770,7 +39600,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2266",
+    "id": "2201",
     "name": "yup",
     "name_ar": "yup",
     "category": "Developer",
@@ -40788,7 +39618,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2267",
+    "id": "2202",
     "name": "valibot",
     "name_ar": "valibot",
     "category": "Developer",
@@ -40806,7 +39636,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2268",
+    "id": "2203",
     "name": "formik",
     "name_ar": "formik",
     "category": "Developer",
@@ -40824,7 +39654,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2269",
+    "id": "2204",
     "name": "react-hook-form",
     "name_ar": "react-hook-form",
     "category": "Developer",
@@ -40842,7 +39672,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2270",
+    "id": "2205",
     "name": "swr",
     "name_ar": "swr",
     "category": "Developer",
@@ -40860,7 +39690,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2271",
+    "id": "2206",
     "name": "axios",
     "name_ar": "axios",
     "category": "Developer",
@@ -40878,7 +39708,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2272",
+    "id": "2207",
     "name": "ky",
     "name_ar": "ky",
     "category": "Developer",
@@ -40896,7 +39726,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2273",
+    "id": "2208",
     "name": "sequelize",
     "name_ar": "sequelize",
     "category": "Developer",
@@ -40914,7 +39744,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2274",
+    "id": "2209",
     "name": "typeorm",
     "name_ar": "typeorm",
     "category": "Developer",
@@ -40932,7 +39762,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2275",
+    "id": "2210",
     "name": "knex",
     "name_ar": "knex",
     "category": "Developer",
@@ -40950,7 +39780,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2276",
+    "id": "2211",
     "name": "mongoose",
     "name_ar": "mongoose",
     "category": "Developer",
@@ -40968,7 +39798,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2277",
+    "id": "2212",
     "name": "express",
     "name_ar": "express",
     "category": "Developer",
@@ -40986,7 +39816,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2278",
+    "id": "2213",
     "name": "fastify",
     "name_ar": "fastify",
     "category": "Developer",
@@ -41004,7 +39834,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2279",
+    "id": "2214",
     "name": "koa",
     "name_ar": "koa",
     "category": "Developer",
@@ -41022,7 +39852,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2280",
+    "id": "2215",
     "name": "hono",
     "name_ar": "hono",
     "category": "Developer",
@@ -41040,7 +39870,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2281",
+    "id": "2216",
     "name": "nestjs",
     "name_ar": "nestjs",
     "category": "Developer",
@@ -41058,7 +39888,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2282",
+    "id": "2217",
     "name": "socket.io",
     "name_ar": "socket.io",
     "category": "Developer",
@@ -41076,7 +39906,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2283",
+    "id": "2218",
     "name": "trpc",
     "name_ar": "trpc",
     "category": "Developer",
@@ -41094,7 +39924,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2284",
+    "id": "2219",
     "name": "graphql-yoga",
     "name_ar": "graphql-yoga",
     "category": "Developer",
@@ -41112,7 +39942,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2285",
+    "id": "2220",
     "name": "apollo-server",
     "name_ar": "apollo-server",
     "category": "Developer",
@@ -41130,7 +39960,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2286",
+    "id": "2221",
     "name": "sinon",
     "name_ar": "sinon",
     "category": "Developer",
@@ -41148,7 +39978,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2287",
+    "id": "2222",
     "name": "eslint",
     "name_ar": "eslint",
     "category": "Developer",
@@ -41166,7 +39996,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2288",
+    "id": "2223",
     "name": "prettier",
     "name_ar": "prettier",
     "category": "Developer",
@@ -41184,7 +40014,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2289",
+    "id": "2224",
     "name": "biome",
     "name_ar": "biome",
     "category": "Developer",
@@ -41202,7 +40032,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2290",
+    "id": "2225",
     "name": "stylelint",
     "name_ar": "stylelint",
     "category": "Developer",
@@ -41220,7 +40050,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2291",
+    "id": "2226",
     "name": "commitlint",
     "name_ar": "commitlint",
     "category": "Developer",
@@ -41238,7 +40068,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2292",
+    "id": "2227",
     "name": "husky",
     "name_ar": "husky",
     "category": "Developer",
@@ -41256,7 +40086,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2293",
+    "id": "2228",
     "name": "lint-staged",
     "name_ar": "lint-staged",
     "category": "Developer",
@@ -41274,7 +40104,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2294",
+    "id": "2229",
     "name": "changesets",
     "name_ar": "changesets",
     "category": "Developer",
@@ -41292,7 +40122,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2295",
+    "id": "2230",
     "name": "semantic-release",
     "name_ar": "semantic-release",
     "category": "Developer",
@@ -41310,7 +40140,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2296",
+    "id": "2231",
     "name": "nx",
     "name_ar": "nx",
     "category": "Developer",
@@ -41328,7 +40158,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2297",
+    "id": "2232",
     "name": "turborepo",
     "name_ar": "turborepo",
     "category": "Developer",
@@ -41346,7 +40176,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2298",
+    "id": "2233",
     "name": "pnpm",
     "name_ar": "pnpm",
     "category": "Developer",
@@ -41364,7 +40194,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2299",
+    "id": "2234",
     "name": "yarn",
     "name_ar": "yarn",
     "category": "Developer",
@@ -41382,7 +40212,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2300",
+    "id": "2235",
     "name": "rollup",
     "name_ar": "rollup",
     "category": "Developer",
@@ -41400,7 +40230,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2301",
+    "id": "2236",
     "name": "webpack",
     "name_ar": "webpack",
     "category": "Developer",
@@ -41418,7 +40248,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2302",
+    "id": "2237",
     "name": "parcel",
     "name_ar": "parcel",
     "category": "Developer",
@@ -41436,7 +40266,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2303",
+    "id": "2238",
     "name": "tsup",
     "name_ar": "tsup",
     "category": "Developer",
@@ -41454,7 +40284,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2304",
+    "id": "2239",
     "name": "unbuild",
     "name_ar": "unbuild",
     "category": "Developer",
@@ -41472,7 +40302,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2305",
+    "id": "2240",
     "name": "nodemon",
     "name_ar": "nodemon",
     "category": "Developer",
@@ -41490,7 +40320,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2306",
+    "id": "2241",
     "name": "pm2",
     "name_ar": "pm2",
     "category": "Developer",
@@ -41508,7 +40338,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2307",
+    "id": "2242",
     "name": "dotenv",
     "name_ar": "dotenv",
     "category": "Developer",
@@ -41526,7 +40356,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2308",
+    "id": "2243",
     "name": "env-cmd",
     "name_ar": "env-cmd",
     "category": "Developer",
@@ -41544,7 +40374,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2309",
+    "id": "2244",
     "name": "commander",
     "name_ar": "commander",
     "category": "Developer",
@@ -41562,7 +40392,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2310",
+    "id": "2245",
     "name": "yargs",
     "name_ar": "yargs",
     "category": "Developer",
@@ -41580,7 +40410,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2311",
+    "id": "2246",
     "name": "inquirer",
     "name_ar": "inquirer",
     "category": "Developer",
@@ -41598,7 +40428,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2312",
+    "id": "2247",
     "name": "chalk",
     "name_ar": "chalk",
     "category": "Developer",
@@ -41616,7 +40446,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2313",
+    "id": "2248",
     "name": "ora",
     "name_ar": "ora",
     "category": "Developer",
@@ -41634,7 +40464,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2314",
+    "id": "2249",
     "name": "consola",
     "name_ar": "consola",
     "category": "Developer",
@@ -41652,7 +40482,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2315",
+    "id": "2250",
     "name": "pino",
     "name_ar": "pino",
     "category": "Developer",
@@ -41670,7 +40500,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2316",
+    "id": "2251",
     "name": "winston",
     "name_ar": "winston",
     "category": "Developer",
@@ -41688,7 +40518,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2317",
+    "id": "2252",
     "name": "date-fns",
     "name_ar": "date-fns",
     "category": "Developer",
@@ -41706,7 +40536,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2318",
+    "id": "2253",
     "name": "dayjs",
     "name_ar": "dayjs",
     "category": "Developer",
@@ -41724,7 +40554,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2319",
+    "id": "2254",
     "name": "luxon",
     "name_ar": "luxon",
     "category": "Developer",
@@ -41742,7 +40572,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2320",
+    "id": "2255",
     "name": "lodash",
     "name_ar": "lodash",
     "category": "Developer",
@@ -41760,7 +40590,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2321",
+    "id": "2256",
     "name": "ramda",
     "name_ar": "ramda",
     "category": "Developer",
@@ -41778,7 +40608,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2322",
+    "id": "2257",
     "name": "immer",
     "name_ar": "immer",
     "category": "Developer",
@@ -41796,7 +40626,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2323",
+    "id": "2258",
     "name": "nanoid",
     "name_ar": "nanoid",
     "category": "Developer",
@@ -41814,7 +40644,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2324",
+    "id": "2259",
     "name": "uuid",
     "name_ar": "uuid",
     "category": "Developer",
@@ -41832,7 +40662,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2325",
+    "id": "2260",
     "name": "ajv",
     "name_ar": "ajv",
     "category": "Developer",
@@ -41850,7 +40680,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2326",
+    "id": "2261",
     "name": "joi",
     "name_ar": "joi",
     "category": "Developer",
@@ -41868,7 +40698,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2327",
+    "id": "2262",
     "name": "Argo CD",
     "name_ar": "Argo CD",
     "category": "Automation",
@@ -41886,7 +40716,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2328",
+    "id": "2263",
     "name": "Tekton",
     "name_ar": "Tekton",
     "category": "Automation",
@@ -41904,7 +40734,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2329",
+    "id": "2264",
     "name": "Harbor",
     "name_ar": "Harbor",
     "category": "Hosting",
@@ -41922,7 +40752,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2330",
+    "id": "2265",
     "name": "Traefik",
     "name_ar": "Traefik",
     "category": "Hosting",
@@ -41940,7 +40770,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2331",
+    "id": "2266",
     "name": "Caddy",
     "name_ar": "Caddy",
     "category": "Hosting",
@@ -41958,7 +40788,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2332",
+    "id": "2267",
     "name": "NGINX",
     "name_ar": "NGINX",
     "category": "Hosting",
@@ -41976,7 +40806,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2333",
+    "id": "2268",
     "name": "HAProxy",
     "name_ar": "HAProxy",
     "category": "Hosting",
@@ -41994,7 +40824,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2334",
+    "id": "2269",
     "name": "Chef",
     "name_ar": "Chef",
     "category": "Automation",
@@ -42012,7 +40842,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2335",
+    "id": "2270",
     "name": "Puppet",
     "name_ar": "Puppet",
     "category": "Automation",
@@ -42030,7 +40860,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2336",
+    "id": "2271",
     "name": "Jenkins",
     "name_ar": "Jenkins",
     "category": "Automation",
@@ -42048,7 +40878,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2337",
+    "id": "2272",
     "name": "Drone CI",
     "name_ar": "Drone CI",
     "category": "Automation",
@@ -42066,7 +40896,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2338",
+    "id": "2273",
     "name": "Woodpecker CI",
     "name_ar": "Woodpecker CI",
     "category": "Automation",
@@ -42084,7 +40914,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2339",
+    "id": "2274",
     "name": "Buildkite",
     "name_ar": "Buildkite",
     "category": "Automation",
@@ -42102,7 +40932,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2340",
+    "id": "2275",
     "name": "Travis CI",
     "name_ar": "Travis CI",
     "category": "Automation",
@@ -42120,7 +40950,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2341",
+    "id": "2276",
     "name": "Loki",
     "name_ar": "Loki",
     "category": "Analytics",
@@ -42138,7 +40968,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2342",
+    "id": "2277",
     "name": "Tempo",
     "name_ar": "Tempo",
     "category": "Analytics",
@@ -42156,7 +40986,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2343",
+    "id": "2278",
     "name": "Jaeger",
     "name_ar": "Jaeger",
     "category": "Analytics",
@@ -42174,7 +41004,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2344",
+    "id": "2279",
     "name": "Fluentd",
     "name_ar": "Fluentd",
     "category": "Analytics",
@@ -42192,7 +41022,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2345",
+    "id": "2280",
     "name": "Fluent Bit",
     "name_ar": "Fluent Bit",
     "category": "Analytics",
@@ -42210,7 +41040,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2346",
+    "id": "2281",
     "name": "Vector",
     "name_ar": "Vector",
     "category": "Analytics",
@@ -42228,7 +41058,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2347",
+    "id": "2282",
     "name": "Logstash",
     "name_ar": "Logstash",
     "category": "Analytics",
@@ -42246,7 +41076,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2348",
+    "id": "2283",
     "name": "Graylog",
     "name_ar": "Graylog",
     "category": "Analytics",
@@ -42264,7 +41094,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2349",
+    "id": "2284",
     "name": "Uptime Kuma",
     "name_ar": "Uptime Kuma",
     "category": "Analytics",
@@ -42282,7 +41112,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2350",
+    "id": "2285",
     "name": "Netdata",
     "name_ar": "Netdata",
     "category": "Analytics",
@@ -42300,7 +41130,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2351",
+    "id": "2286",
     "name": "Zabbix",
     "name_ar": "Zabbix",
     "category": "Analytics",
@@ -42318,7 +41148,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2352",
+    "id": "2287",
     "name": "Apache NiFi",
     "name_ar": "Apache NiFi",
     "category": "Automation",
@@ -42336,7 +41166,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2353",
+    "id": "2288",
     "name": "Camunda",
     "name_ar": "Camunda",
     "category": "Automation",
@@ -42354,7 +41184,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2354",
+    "id": "2289",
     "name": "Zeebe",
     "name_ar": "Zeebe",
     "category": "Automation",
@@ -42372,7 +41202,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2355",
+    "id": "2290",
     "name": "Contentful",
     "name_ar": "Contentful",
     "category": "Business",
@@ -42390,7 +41220,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2356",
+    "id": "2291",
     "name": "Storyblok",
     "name_ar": "Storyblok",
     "category": "Business",
@@ -42408,7 +41238,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2357",
+    "id": "2292",
     "name": "Hygraph",
     "name_ar": "Hygraph",
     "category": "Business",
@@ -42426,7 +41256,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2358",
+    "id": "2293",
     "name": "DatoCMS",
     "name_ar": "DatoCMS",
     "category": "Business",
@@ -42444,7 +41274,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2359",
+    "id": "2294",
     "name": "Morgen",
     "name_ar": "Morgen",
     "category": "Productivity",
@@ -42462,7 +41292,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2360",
+    "id": "2295",
     "name": "Routine",
     "name_ar": "Routine",
     "category": "Productivity",
@@ -42480,7 +41310,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2361",
+    "id": "2296",
     "name": "Walling",
     "name_ar": "Walling",
     "category": "Productivity",
@@ -42498,7 +41328,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2362",
+    "id": "2297",
     "name": "Scrintal",
     "name_ar": "Scrintal",
     "category": "Productivity",
@@ -42516,7 +41346,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2363",
+    "id": "2298",
     "name": "Instapaper",
     "name_ar": "Instapaper",
     "category": "Productivity",
@@ -42534,7 +41364,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2364",
+    "id": "2299",
     "name": "Shortcut",
     "name_ar": "Shortcut",
     "category": "Productivity",
@@ -42552,7 +41382,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2365",
+    "id": "2300",
     "name": "Plane",
     "name_ar": "Plane",
     "category": "Productivity",
@@ -42570,7 +41400,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2366",
+    "id": "2301",
     "name": "Redmine",
     "name_ar": "Redmine",
     "category": "Productivity",
@@ -42588,7 +41418,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2367",
+    "id": "2302",
     "name": "YouTrack",
     "name_ar": "YouTrack",
     "category": "Productivity",
@@ -42606,7 +41436,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2368",
+    "id": "2303",
     "name": "Spark Mail",
     "name_ar": "Spark Mail",
     "category": "Communication",
@@ -42624,7 +41454,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2369",
+    "id": "2304",
     "name": "Mimestream",
     "name_ar": "Mimestream",
     "category": "Communication",
@@ -42642,7 +41472,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2370",
+    "id": "2305",
     "name": "Smartlead",
     "name_ar": "Smartlead",
     "category": "Sales",
@@ -42660,7 +41490,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2371",
+    "id": "2306",
     "name": "Screaming Frog",
     "name_ar": "Screaming Frog",
     "category": "SEO",
@@ -42678,7 +41508,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2372",
+    "id": "2307",
     "name": "Moz Pro",
     "name_ar": "Moz Pro",
     "category": "SEO",
@@ -42696,7 +41526,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2373",
+    "id": "2308",
     "name": "UserVoice",
     "name_ar": "UserVoice",
     "category": "Support",
@@ -42714,7 +41544,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2374",
+    "id": "2309",
     "name": "Canny",
     "name_ar": "Canny",
     "category": "Support",
@@ -42732,7 +41562,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2375",
+    "id": "2310",
     "name": "Featurebase",
     "name_ar": "Featurebase",
     "category": "Support",
@@ -42750,7 +41580,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2376",
+    "id": "2311",
     "name": "Productboard",
     "name_ar": "Productboard",
     "category": "Business",
@@ -42768,7 +41598,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2377",
+    "id": "2312",
     "name": "ChurnZero",
     "name_ar": "ChurnZero",
     "category": "CRM",
@@ -42786,7 +41616,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2378",
+    "id": "2313",
     "name": "Gainsight",
     "name_ar": "Gainsight",
     "category": "CRM",
@@ -42804,7 +41634,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2379",
+    "id": "2314",
     "name": "Totango",
     "name_ar": "Totango",
     "category": "CRM",
@@ -42822,7 +41652,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2380",
+    "id": "2315",
     "name": "Userpilot",
     "name_ar": "Userpilot",
     "category": "CRM",
@@ -42840,7 +41670,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2381",
+    "id": "2316",
     "name": "Folk CRM",
     "name_ar": "Folk CRM",
     "category": "CRM",
@@ -42858,7 +41688,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2382",
+    "id": "2317",
     "name": "Affinity Photo",
     "name_ar": "Affinity Photo",
     "category": "Image",
@@ -42876,7 +41706,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2383",
+    "id": "2318",
     "name": "Pixelmator Pro",
     "name_ar": "Pixelmator Pro",
     "category": "Image",
@@ -42894,7 +41724,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2384",
+    "id": "2319",
     "name": "Principle",
     "name_ar": "Principle",
     "category": "Design",
@@ -42912,7 +41742,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2385",
+    "id": "2320",
     "name": "Origami Studio",
     "name_ar": "Origami Studio",
     "category": "Design",
@@ -42930,7 +41760,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2386",
+    "id": "2321",
     "name": "IconScout",
     "name_ar": "IconScout",
     "category": "Design",
@@ -42948,7 +41778,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2387",
+    "id": "2322",
     "name": "Streamline Icons",
     "name_ar": "Streamline Icons",
     "category": "Design",
@@ -42966,7 +41796,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2388",
+    "id": "2323",
     "name": "Get Waves",
     "name_ar": "Get Waves",
     "category": "Design",
@@ -42984,7 +41814,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2389",
+    "id": "2324",
     "name": "ScreenPal",
     "name_ar": "ScreenPal",
     "category": "Video",
@@ -43002,7 +41832,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2390",
+    "id": "2325",
     "name": "Tella",
     "name_ar": "Tella",
     "category": "Video",
@@ -43020,7 +41850,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2391",
+    "id": "2326",
     "name": "Claap",
     "name_ar": "Claap",
     "category": "Video",
@@ -43038,7 +41868,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2392",
+    "id": "2327",
     "name": "Overleaf Templates",
     "name_ar": "Overleaf Templates",
     "category": "Resume",
@@ -43056,7 +41886,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2393",
+    "id": "2328",
     "name": "Clio",
     "name_ar": "Clio",
     "category": "Legal",
@@ -43074,7 +41904,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2394",
+    "id": "2329",
     "name": "PracticePanther",
     "name_ar": "PracticePanther",
     "category": "Legal",
@@ -43092,7 +41922,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2395",
+    "id": "2330",
     "name": "Maxio",
     "name_ar": "Maxio",
     "category": "Payments",
@@ -43110,7 +41940,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2396",
+    "id": "2331",
     "name": "Jotform",
     "name_ar": "Jotform",
     "category": "Forms",
@@ -43128,7 +41958,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2397",
+    "id": "2332",
     "name": "SurveySparrow",
     "name_ar": "SurveySparrow",
     "category": "Forms",
@@ -43146,7 +41976,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2398",
+    "id": "2333",
     "name": "GPT Pilot",
     "name_ar": "GPT Pilot",
     "category": "Coding",
@@ -43164,7 +41994,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2399",
+    "id": "2334",
     "name": "ShellGPT",
     "name_ar": "ShellGPT",
     "category": "Coding",
@@ -43182,7 +42012,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2400",
+    "id": "2335",
     "name": "PrivateGPT",
     "name_ar": "PrivateGPT",
     "category": "Coding",
@@ -43200,7 +42030,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2401",
+    "id": "2336",
     "name": "Quivr",
     "name_ar": "Quivr",
     "category": "Coding",
@@ -43218,7 +42048,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2402",
+    "id": "2337",
     "name": "Danswer",
     "name_ar": "Danswer",
     "category": "Coding",
@@ -43236,7 +42066,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2403",
+    "id": "2338",
     "name": "LocalAI",
     "name_ar": "LocalAI",
     "category": "Coding",
@@ -43254,7 +42084,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2404",
+    "id": "2339",
     "name": "llama.cpp",
     "name_ar": "llama.cpp",
     "category": "Coding",
@@ -43272,7 +42102,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2405",
+    "id": "2340",
     "name": "vLLM",
     "name_ar": "vLLM",
     "category": "Coding",
@@ -43290,7 +42120,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2406",
+    "id": "2341",
     "name": "Text Generation WebUI",
     "name_ar": "Text Generation WebUI",
     "category": "Coding",
@@ -43308,7 +42138,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2407",
+    "id": "2342",
     "name": "Stable Diffusion WebUI",
     "name_ar": "Stable Diffusion WebUI",
     "category": "Coding",
@@ -43326,7 +42156,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2408",
+    "id": "2343",
     "name": "InvokeAI",
     "name_ar": "InvokeAI",
     "category": "Coding",
@@ -43344,7 +42174,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2409",
+    "id": "2344",
     "name": "Kohya SS",
     "name_ar": "Kohya SS",
     "category": "Coding",
@@ -43362,7 +42192,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2410",
+    "id": "2345",
     "name": "Open-Sora",
     "name_ar": "Open-Sora",
     "category": "Coding",
@@ -43380,7 +42210,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2411",
+    "id": "2346",
     "name": "SadTalker",
     "name_ar": "SadTalker",
     "category": "Coding",
@@ -43398,7 +42228,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2412",
+    "id": "2347",
     "name": "Wav2Lip",
     "name_ar": "Wav2Lip",
     "category": "Coding",
@@ -43416,7 +42246,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2413",
+    "id": "2348",
     "name": "RVC",
     "name_ar": "RVC",
     "category": "Coding",
@@ -43434,7 +42264,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2414",
+    "id": "2349",
     "name": "Bark",
     "name_ar": "Bark",
     "category": "Coding",
@@ -43452,7 +42282,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2415",
+    "id": "2350",
     "name": "Whisper.cpp",
     "name_ar": "Whisper.cpp",
     "category": "Coding",
@@ -43470,7 +42300,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2416",
+    "id": "2351",
     "name": "OpenAI Whisper",
     "name_ar": "OpenAI Whisper",
     "category": "Coding",
@@ -43488,7 +42318,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2417",
+    "id": "2352",
     "name": "Faster Whisper",
     "name_ar": "Faster Whisper",
     "category": "Coding",
@@ -43506,7 +42336,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2418",
+    "id": "2353",
     "name": "Mozilla TTS",
     "name_ar": "Mozilla TTS",
     "category": "Coding",
@@ -43524,7 +42354,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2419",
+    "id": "2354",
     "name": "Semantic Kernel",
     "name_ar": "Semantic Kernel",
     "category": "Coding",
@@ -43542,7 +42372,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2420",
+    "id": "2355",
     "name": "AutoGPT",
     "name_ar": "AutoGPT",
     "category": "Coding",
@@ -43560,7 +42390,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2421",
+    "id": "2356",
     "name": "BabyAGI",
     "name_ar": "BabyAGI",
     "category": "Coding",
@@ -43578,7 +42408,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2422",
+    "id": "2357",
     "name": "AgentGPT",
     "name_ar": "AgentGPT",
     "category": "Coding",
@@ -43596,7 +42426,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2423",
+    "id": "2358",
     "name": "OpenDevin",
     "name_ar": "OpenDevin",
     "category": "Coding",
@@ -43614,7 +42444,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2424",
+    "id": "2359",
     "name": "SuperAGI",
     "name_ar": "SuperAGI",
     "category": "Coding",
@@ -43632,7 +42462,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2425",
+    "id": "2360",
     "name": "MetaGPT",
     "name_ar": "MetaGPT",
     "category": "Coding",
@@ -43650,7 +42480,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2426",
+    "id": "2361",
     "name": "AgentOps",
     "name_ar": "AgentOps",
     "category": "Coding",
@@ -43668,7 +42498,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2427",
+    "id": "2362",
     "name": "CrewAI GitHub",
     "name_ar": "CrewAI GitHub",
     "category": "Coding",
@@ -43686,7 +42516,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2428",
+    "id": "2363",
     "name": "MemGPT",
     "name_ar": "MemGPT",
     "category": "Coding",
@@ -43704,7 +42534,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2429",
+    "id": "2364",
     "name": "LlamaIndex GitHub",
     "name_ar": "LlamaIndex GitHub",
     "category": "Coding",
@@ -43722,7 +42552,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2430",
+    "id": "2365",
     "name": "LangChain GitHub",
     "name_ar": "LangChain GitHub",
     "category": "Coding",
@@ -43740,7 +42570,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2431",
+    "id": "2366",
     "name": "Promptfoo GitHub",
     "name_ar": "Promptfoo GitHub",
     "category": "Coding",
@@ -43758,7 +42588,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2432",
+    "id": "2367",
     "name": "Evals",
     "name_ar": "Evals",
     "category": "Coding",
@@ -43776,7 +42606,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2433",
+    "id": "2368",
     "name": "OpenRouter Docs",
     "name_ar": "OpenRouter Docs",
     "category": "Coding",
@@ -43794,7 +42624,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2434",
+    "id": "2369",
     "name": "OpenLLM",
     "name_ar": "OpenLLM",
     "category": "Coding",
@@ -43812,7 +42642,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2435",
+    "id": "2370",
     "name": "ModelScope",
     "name_ar": "ModelScope",
     "category": "Coding",
@@ -43830,7 +42660,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2436",
+    "id": "2371",
     "name": "Hugging Face Hub Python",
     "name_ar": "Hugging Face Hub Python",
     "category": "Coding",
@@ -43848,7 +42678,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2437",
+    "id": "2372",
     "name": "Sentence Transformers GitHub",
     "name_ar": "Sentence Transformers GitHub",
     "category": "Coding",
@@ -43866,7 +42696,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2438",
+    "id": "2373",
     "name": "FastChat",
     "name_ar": "FastChat",
     "category": "Coding",
@@ -43884,7 +42714,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2439",
+    "id": "2374",
     "name": "lit-gpt",
     "name_ar": "lit-gpt",
     "category": "Coding",
@@ -43902,7 +42732,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2440",
+    "id": "2375",
     "name": "axolotl",
     "name_ar": "axolotl",
     "category": "Coding",
@@ -43920,7 +42750,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2441",
+    "id": "2376",
     "name": "torchtune",
     "name_ar": "torchtune",
     "category": "Coding",
@@ -43938,7 +42768,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2442",
+    "id": "2377",
     "name": "unsloth",
     "name_ar": "unsloth",
     "category": "Coding",
@@ -43956,7 +42786,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2443",
+    "id": "2378",
     "name": "OpenRLHF",
     "name_ar": "OpenRLHF",
     "category": "Coding",
@@ -43974,7 +42804,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2444",
+    "id": "2379",
     "name": "TRL",
     "name_ar": "TRL",
     "category": "Coding",
@@ -43992,7 +42822,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2445",
+    "id": "2380",
     "name": "PEFT",
     "name_ar": "PEFT",
     "category": "Coding",
@@ -44010,7 +42840,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2446",
+    "id": "2381",
     "name": "bitsandbytes",
     "name_ar": "bitsandbytes",
     "category": "Coding",
@@ -44028,7 +42858,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2447",
+    "id": "2382",
     "name": "llama-cpp-python",
     "name_ar": "llama-cpp-python",
     "category": "Coding",
@@ -44046,7 +42876,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2448",
+    "id": "2383",
     "name": "Instructor GitHub",
     "name_ar": "Instructor GitHub",
     "category": "Coding",
@@ -44064,7 +42894,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2449",
+    "id": "2384",
     "name": "LiteLLM GitHub",
     "name_ar": "LiteLLM GitHub",
     "category": "Coding",
@@ -44082,7 +42912,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2450",
+    "id": "2385",
     "name": "RAGFlow",
     "name_ar": "RAGFlow",
     "category": "Coding",
@@ -44100,7 +42930,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2451",
+    "id": "2386",
     "name": "Verba",
     "name_ar": "Verba",
     "category": "Coding",
@@ -44118,7 +42948,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2452",
+    "id": "2387",
     "name": "DocsGPT",
     "name_ar": "DocsGPT",
     "category": "Coding",
@@ -44136,7 +42966,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2453",
+    "id": "2388",
     "name": "OpenGpts",
     "name_ar": "OpenGpts",
     "category": "Coding",
@@ -44154,7 +42984,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2454",
+    "id": "2389",
     "name": "TruLens GitHub",
     "name_ar": "TruLens GitHub",
     "category": "Coding",
@@ -44172,7 +43002,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2455",
+    "id": "2390",
     "name": "Ragas GitHub",
     "name_ar": "Ragas GitHub",
     "category": "Coding",
@@ -44190,7 +43020,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2456",
+    "id": "2391",
     "name": "DeepEval GitHub",
     "name_ar": "DeepEval GitHub",
     "category": "Coding",
@@ -44208,7 +43038,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2457",
+    "id": "2392",
     "name": "Guardrails AI",
     "name_ar": "Guardrails AI",
     "category": "Coding",
@@ -44226,7 +43056,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2458",
+    "id": "2393",
     "name": "NeMo Guardrails",
     "name_ar": "NeMo Guardrails",
     "category": "Coding",
@@ -44244,7 +43074,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2459",
+    "id": "2394",
     "name": "Presidio",
     "name_ar": "Presidio",
     "category": "Coding",
@@ -44262,7 +43092,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2460",
+    "id": "2395",
     "name": "FiftyOne",
     "name_ar": "FiftyOne",
     "category": "Coding",
@@ -44280,7 +43110,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2461",
+    "id": "2396",
     "name": "Label Studio GitHub",
     "name_ar": "Label Studio GitHub",
     "category": "Coding",
@@ -44298,7 +43128,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2462",
+    "id": "2397",
     "name": "CVAT",
     "name_ar": "CVAT",
     "category": "Coding",
@@ -44316,7 +43146,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2463",
+    "id": "2398",
     "name": "Zoho Social",
     "name_ar": "Zoho Social",
     "category": "Social Media",
@@ -44334,7 +43164,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2464",
+    "id": "2399",
     "name": "Tailwind App",
     "name_ar": "Tailwind App",
     "category": "Social Media",
@@ -44352,7 +43182,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2465",
+    "id": "2400",
     "name": "Talkwalker",
     "name_ar": "Talkwalker",
     "category": "Social Media",
@@ -44370,7 +43200,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2466",
+    "id": "2401",
     "name": "Brandwatch",
     "name_ar": "Brandwatch",
     "category": "Social Media",
@@ -44388,7 +43218,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2467",
+    "id": "2402",
     "name": "Meltwater",
     "name_ar": "Meltwater",
     "category": "Social Media",
@@ -44406,7 +43236,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2468",
+    "id": "2403",
     "name": "Emplifi",
     "name_ar": "Emplifi",
     "category": "Social Media",
@@ -44424,7 +43254,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2469",
+    "id": "2404",
     "name": "Rival IQ",
     "name_ar": "Rival IQ",
     "category": "Social Media",
@@ -44442,7 +43272,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2470",
+    "id": "2405",
     "name": "Keyhole",
     "name_ar": "Keyhole",
     "category": "Social Media",
@@ -44460,7 +43290,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2471",
+    "id": "2406",
     "name": "Socialinsider",
     "name_ar": "Socialinsider",
     "category": "Social Media",
@@ -44478,7 +43308,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2472",
+    "id": "2407",
     "name": "Sprinklr",
     "name_ar": "Sprinklr",
     "category": "Social Media",
@@ -44496,7 +43326,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2473",
+    "id": "2408",
     "name": "Keyword Cupid",
     "name_ar": "Keyword Cupid",
     "category": "SEO",
@@ -44514,7 +43344,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2474",
+    "id": "2409",
     "name": "LowFruits",
     "name_ar": "LowFruits",
     "category": "SEO",
@@ -44532,7 +43362,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2475",
+    "id": "2410",
     "name": "WebCEO",
     "name_ar": "WebCEO",
     "category": "SEO",
@@ -44550,7 +43380,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2476",
+    "id": "2411",
     "name": "Advanced Web Ranking",
     "name_ar": "Advanced Web Ranking",
     "category": "SEO",
@@ -44568,7 +43398,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2477",
+    "id": "2412",
     "name": "Labrika",
     "name_ar": "Labrika",
     "category": "SEO",
@@ -44586,7 +43416,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2478",
+    "id": "2413",
     "name": "Semji",
     "name_ar": "Semji",
     "category": "SEO",
@@ -44604,7 +43434,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2479",
+    "id": "2414",
     "name": "Tripetto",
     "name_ar": "Tripetto",
     "category": "Forms",
@@ -44622,7 +43452,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2480",
+    "id": "2415",
     "name": "Heyflow",
     "name_ar": "Heyflow",
     "category": "Forms",
@@ -44640,7 +43470,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2481",
+    "id": "2416",
     "name": "involve.me",
     "name_ar": "involve.me",
     "category": "Forms",
@@ -44658,7 +43488,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2482",
+    "id": "2417",
     "name": "Ycode",
     "name_ar": "Ycode",
     "category": "No-Code",
@@ -44676,7 +43506,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2483",
+    "id": "2418",
     "name": "CodeSignal",
     "name_ar": "CodeSignal",
     "category": "Education",
@@ -44694,7 +43524,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2484",
+    "id": "2419",
     "name": "Mimo",
     "name_ar": "Mimo",
     "category": "Education",
@@ -44712,7 +43542,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2485",
+    "id": "2420",
     "name": "Formative",
     "name_ar": "Formative",
     "category": "Education",
@@ -44730,7 +43560,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2486",
+    "id": "2421",
     "name": "Padlet",
     "name_ar": "Padlet",
     "category": "Education",
@@ -44748,7 +43578,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2487",
+    "id": "2422",
     "name": "Wakelet",
     "name_ar": "Wakelet",
     "category": "Education",
@@ -44766,7 +43596,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2488",
+    "id": "2423",
     "name": "Smartling",
     "name_ar": "Smartling",
     "category": "Translation",
@@ -44784,7 +43614,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2489",
+    "id": "2424",
     "name": "Butter",
     "name_ar": "Butter",
     "category": "Communication",
@@ -44802,7 +43632,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2490",
+    "id": "2425",
     "name": "Airmeet",
     "name_ar": "Airmeet",
     "category": "Communication",
@@ -44820,7 +43650,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2491",
+    "id": "2426",
     "name": "Livestorm",
     "name_ar": "Livestorm",
     "category": "Communication",
@@ -44838,7 +43668,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2492",
+    "id": "2427",
     "name": "Pumble",
     "name_ar": "Pumble",
     "category": "Communication",
@@ -44856,7 +43686,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2493",
+    "id": "2428",
     "name": "SumUp",
     "name_ar": "SumUp",
     "category": "Payments",
@@ -44874,7 +43704,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2494",
+    "id": "2429",
     "name": "GoCardless",
     "name_ar": "GoCardless",
     "category": "Payments",
@@ -44892,7 +43722,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2495",
+    "id": "2430",
     "name": "Flutterwave",
     "name_ar": "Flutterwave",
     "category": "Payments",
@@ -44910,7 +43740,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2496",
+    "id": "2431",
     "name": "FastSpring",
     "name_ar": "FastSpring",
     "category": "Payments",
@@ -44928,7 +43758,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2497",
+    "id": "2432",
     "name": "Eversign",
     "name_ar": "Eversign",
     "category": "Legal",
@@ -44946,7 +43776,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2498",
+    "id": "2433",
     "name": "OneSpan Sign",
     "name_ar": "OneSpan Sign",
     "category": "Legal",
@@ -44964,7 +43794,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2499",
+    "id": "2434",
     "name": "Bonsai",
     "name_ar": "Bonsai",
     "category": "Legal",
@@ -44982,7 +43812,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2500",
+    "id": "2435",
     "name": "Legal Templates",
     "name_ar": "Legal Templates",
     "category": "Legal",
@@ -45000,7 +43830,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2501",
+    "id": "2436",
     "name": "Timetics",
     "name_ar": "Timetics",
     "category": "Payments",
@@ -45018,7 +43848,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2502",
+    "id": "2437",
     "name": "Kinetix",
     "name_ar": "Kinetix",
     "category": "3D",
@@ -45036,7 +43866,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2503",
+    "id": "2438",
     "name": "Prezo",
     "name_ar": "Prezo",
     "category": "Presentation",
@@ -45054,7 +43884,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2504",
+    "id": "2439",
     "name": "Corrector App",
     "name_ar": "Corrector App",
     "category": "Support",
@@ -45072,7 +43902,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2505",
+    "id": "2440",
     "name": "Penelope AI",
     "name_ar": "Penelope AI",
     "category": "Editing",
@@ -45090,7 +43920,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2506",
+    "id": "2441",
     "name": "Pollinations",
     "name_ar": "Pollinations",
     "category": "Forms",
@@ -45108,7 +43938,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2507",
+    "id": "2442",
     "name": "Applaime",
     "name_ar": "Applaime",
     "category": "Resume",
@@ -45126,7 +43956,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2508",
+    "id": "2443",
     "name": "AI Social Bio",
     "name_ar": "AI Social Bio",
     "category": "Voice",
@@ -45144,7 +43974,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2509",
+    "id": "2444",
     "name": "One AI",
     "name_ar": "One AI",
     "category": "Sales",
@@ -45162,7 +43992,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2510",
+    "id": "2445",
     "name": "LiveReacting AI",
     "name_ar": "LiveReacting AI",
     "category": "Hosting",
@@ -45180,7 +44010,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2511",
+    "id": "2446",
     "name": "HarmonAI",
     "name_ar": "HarmonAI",
     "category": "Audio",
@@ -45198,7 +44028,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2512",
+    "id": "2447",
     "name": "Addy AI",
     "name_ar": "Addy AI",
     "category": "Communication",
@@ -45216,7 +44046,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2513",
+    "id": "2448",
     "name": "Pencil",
     "name_ar": "Pencil",
     "category": "Marketing",
@@ -45234,7 +44064,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2514",
+    "id": "2449",
     "name": "Comment Generator",
     "name_ar": "Comment Generator",
     "category": "Translation",
@@ -45252,7 +44082,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2515",
+    "id": "2450",
     "name": "Vondy AI",
     "name_ar": "Vondy AI",
     "category": "Chat",
@@ -45270,7 +44100,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2516",
+    "id": "2451",
     "name": "Suggest Gift",
     "name_ar": "Suggest Gift",
     "category": "Finance",
@@ -45288,7 +44118,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2517",
+    "id": "2452",
     "name": "WTF Does This Company Do?",
     "name_ar": "WTF Does This Company Do?",
     "category": "Business",
@@ -45306,7 +44136,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2518",
+    "id": "2453",
     "name": "TwitterBio",
     "name_ar": "TwitterBio",
     "category": "Social Media",
@@ -45324,7 +44154,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2519",
+    "id": "2454",
     "name": "Cody",
     "name_ar": "Cody",
     "category": "Automation",
@@ -45342,7 +44172,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2520",
+    "id": "2455",
     "name": "DoNotPay",
     "name_ar": "DoNotPay",
     "category": "Legal",
@@ -45360,7 +44190,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2521",
+    "id": "2456",
     "name": "Promptly",
     "name_ar": "Promptly",
     "category": "No-Code",
@@ -45378,7 +44208,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2522",
+    "id": "2457",
     "name": "Sellesta",
     "name_ar": "Sellesta",
     "category": "SEO",
@@ -45396,7 +44226,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2523",
+    "id": "2458",
     "name": "TutorAI",
     "name_ar": "TutorAI",
     "category": "Education",
@@ -45414,7 +44244,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2524",
+    "id": "2459",
     "name": "WatchNow AI",
     "name_ar": "WatchNow AI",
     "category": "Video",
@@ -45432,7 +44262,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2525",
+    "id": "2460",
     "name": "REimagine Home",
     "name_ar": "REimagine Home",
     "category": "Design",
@@ -45450,7 +44280,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2526",
+    "id": "2461",
     "name": "Piggy",
     "name_ar": "Piggy",
     "category": "Writing",
@@ -45468,7 +44298,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2527",
+    "id": "2462",
     "name": "Scribble Diffusion",
     "name_ar": "Scribble Diffusion",
     "category": "Productivity",
@@ -45486,7 +44316,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2528",
+    "id": "2463",
     "name": "Arcwise",
     "name_ar": "Arcwise",
     "category": "Analytics",
@@ -45504,7 +44334,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2529",
+    "id": "2464",
     "name": "Stable Diffusion",
     "name_ar": "Stable Diffusion",
     "category": "Image",
@@ -45522,7 +44352,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2530",
+    "id": "2465",
     "name": "PaperBrain",
     "name_ar": "PaperBrain",
     "category": "Research",
@@ -45540,7 +44370,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2531",
+    "id": "2466",
     "name": "Scene One",
     "name_ar": "Scene One",
     "category": "Development",
@@ -45558,7 +44388,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2532",
+    "id": "2467",
     "name": "MarsX",
     "name_ar": "MarsX",
     "category": "Coding",
@@ -45576,7 +44406,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2533",
+    "id": "2468",
     "name": "Laion",
     "name_ar": "Laion",
     "category": "Developer",
@@ -45594,7 +44424,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2534",
+    "id": "2469",
     "name": "Lucidpic",
     "name_ar": "Lucidpic",
     "category": "3D",
@@ -45612,7 +44442,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2535",
+    "id": "2470",
     "name": "Wondershare Presentory",
     "name_ar": "Wondershare Presentory",
     "category": "Presentation",
@@ -45630,7 +44460,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2536",
+    "id": "2471",
     "name": "NetworkAI",
     "name_ar": "NetworkAI",
     "category": "Support",
@@ -45648,7 +44478,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2537",
+    "id": "2472",
     "name": "Neon AI",
     "name_ar": "Neon AI",
     "category": "Editing",
@@ -45666,7 +44496,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2538",
+    "id": "2473",
     "name": "Moonbeam",
     "name_ar": "Moonbeam",
     "category": "Forms",
@@ -45684,7 +44514,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2539",
+    "id": "2474",
     "name": "CoverDoc.ai",
     "name_ar": "CoverDoc.ai",
     "category": "Resume",
@@ -45702,7 +44532,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2540",
+    "id": "2475",
     "name": "Yoodli AI",
     "name_ar": "Yoodli AI",
     "category": "Voice",
@@ -45720,7 +44550,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2541",
+    "id": "2476",
     "name": "Finta",
     "name_ar": "Finta",
     "category": "Sales",
@@ -45738,7 +44568,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2542",
+    "id": "2477",
     "name": "Podcast",
     "name_ar": "Podcast",
     "category": "Audio",
@@ -45756,7 +44586,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2543",
+    "id": "2478",
     "name": "Olympia",
     "name_ar": "Olympia",
     "category": "Communication",
@@ -45774,7 +44604,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2544",
+    "id": "2479",
     "name": "OpenRead",
     "name_ar": "OpenRead",
     "category": "Marketing",
@@ -45792,7 +44622,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2545",
+    "id": "2480",
     "name": "AskCSV",
     "name_ar": "AskCSV",
     "category": "Translation",
@@ -45810,7 +44640,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2546",
+    "id": "2481",
     "name": "Personal AI",
     "name_ar": "Personal AI",
     "category": "Chat",
@@ -45828,7 +44658,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2547",
+    "id": "2482",
     "name": "Finalle",
     "name_ar": "Finalle",
     "category": "Finance",
@@ -45846,7 +44676,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2548",
+    "id": "2483",
     "name": "PromptDrive.ai",
     "name_ar": "PromptDrive.ai",
     "category": "Business",
@@ -45864,7 +44694,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2549",
+    "id": "2484",
     "name": "Syllaby",
     "name_ar": "Syllaby",
     "category": "Social Media",
@@ -45882,7 +44712,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2550",
+    "id": "2485",
     "name": "PowerMode AI",
     "name_ar": "PowerMode AI",
     "category": "Automation",
@@ -45900,7 +44730,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2551",
+    "id": "2486",
     "name": "Xipher",
     "name_ar": "Xipher",
     "category": "Legal",
@@ -45918,7 +44748,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2552",
+    "id": "2487",
     "name": "Wrytr AI",
     "name_ar": "Wrytr AI",
     "category": "SEO",
@@ -45936,7 +44766,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2553",
+    "id": "2488",
     "name": "JungleAI",
     "name_ar": "JungleAI",
     "category": "Education",
@@ -45954,7 +44784,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2554",
+    "id": "2489",
     "name": "TubeMagic",
     "name_ar": "TubeMagic",
     "category": "Video",
@@ -45972,7 +44802,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2555",
+    "id": "2490",
     "name": "GPTGO",
     "name_ar": "GPTGO",
     "category": "Design",
@@ -45990,7 +44820,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2556",
+    "id": "2491",
     "name": "Notion AI",
     "name_ar": "Notion AI",
     "category": "Writing",
@@ -46008,7 +44838,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2557",
+    "id": "2492",
     "name": "ThumbnailAi",
     "name_ar": "ThumbnailAi",
     "category": "Productivity",
@@ -46026,7 +44856,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2558",
+    "id": "2493",
     "name": "Aidaptive",
     "name_ar": "Aidaptive",
     "category": "Analytics",
@@ -46044,7 +44874,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2559",
+    "id": "2494",
     "name": "Stunning",
     "name_ar": "Stunning",
     "category": "Image",
@@ -46062,7 +44892,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2560",
+    "id": "2495",
     "name": "Stocknews AI",
     "name_ar": "Stocknews AI",
     "category": "Research",
@@ -46080,7 +44910,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2561",
+    "id": "2496",
     "name": "Auto Backend",
     "name_ar": "Auto Backend",
     "category": "Development",
@@ -46098,7 +44928,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2562",
+    "id": "2497",
     "name": "Safurai",
     "name_ar": "Safurai",
     "category": "Coding",
@@ -46116,7 +44946,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2563",
+    "id": "2498",
     "name": "OSS Insight",
     "name_ar": "OSS Insight",
     "category": "Developer",
@@ -46134,7 +44964,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2564",
+    "id": "2499",
     "name": "Vizcom",
     "name_ar": "Vizcom",
     "category": "3D",
@@ -46152,7 +44982,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2565",
+    "id": "2500",
     "name": "PresentationAI",
     "name_ar": "PresentationAI",
     "category": "Presentation",
@@ -46170,7 +45000,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2566",
+    "id": "2501",
     "name": "Notability.ai",
     "name_ar": "Notability.ai",
     "category": "Support",
@@ -46188,7 +45018,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2567",
+    "id": "2502",
     "name": "Alethea",
     "name_ar": "Alethea",
     "category": "Editing",
@@ -46206,7 +45036,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2568",
+    "id": "2503",
     "name": "DiffusionBee",
     "name_ar": "DiffusionBee",
     "category": "Forms",
@@ -46224,7 +45054,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2569",
+    "id": "2504",
     "name": "RightJoin",
     "name_ar": "RightJoin",
     "category": "Resume",
@@ -46242,7 +45072,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2570",
+    "id": "2505",
     "name": "echowin",
     "name_ar": "echowin",
     "category": "Voice",
@@ -46260,7 +45090,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2571",
+    "id": "2506",
     "name": "Journey",
     "name_ar": "Journey",
     "category": "Sales",
@@ -46278,7 +45108,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2572",
+    "id": "2507",
     "name": "Easy Peasy AI",
     "name_ar": "Easy Peasy AI",
     "category": "Audio",
@@ -46296,7 +45126,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2573",
+    "id": "2508",
     "name": "Promptmetheus",
     "name_ar": "Promptmetheus",
     "category": "Communication",
@@ -46314,7 +45144,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2574",
+    "id": "2509",
     "name": "AdsGency AI",
     "name_ar": "AdsGency AI",
     "category": "Marketing",
@@ -46332,7 +45162,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2575",
+    "id": "2510",
     "name": "Signapse",
     "name_ar": "Signapse",
     "category": "Translation",
@@ -46350,7 +45180,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2576",
+    "id": "2511",
     "name": "Greynights",
     "name_ar": "Greynights",
     "category": "Chat",
@@ -46368,7 +45198,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2577",
+    "id": "2512",
     "name": "Jua AI",
     "name_ar": "Jua AI",
     "category": "Finance",
@@ -46386,7 +45216,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2578",
+    "id": "2513",
     "name": "PromptFolder",
     "name_ar": "PromptFolder",
     "category": "Business",
@@ -46404,7 +45234,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2579",
+    "id": "2514",
     "name": "Creatus.AI",
     "name_ar": "Creatus.AI",
     "category": "Social Media",
@@ -46422,7 +45252,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2580",
+    "id": "2515",
     "name": "SheetAI.app",
     "name_ar": "SheetAI.app",
     "category": "Automation",
@@ -46440,7 +45270,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2581",
+    "id": "2516",
     "name": "Bidlytics",
     "name_ar": "Bidlytics",
     "category": "Legal",
@@ -46458,7 +45288,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2582",
+    "id": "2517",
     "name": "RoboReply",
     "name_ar": "RoboReply",
     "category": "SEO",
@@ -46476,7 +45306,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2583",
+    "id": "2518",
     "name": "ELI5",
     "name_ar": "ELI5",
     "category": "Education",
@@ -46494,7 +45324,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2584",
+    "id": "2519",
     "name": "AI Studios",
     "name_ar": "AI Studios",
     "category": "Video",
@@ -46512,7 +45342,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2585",
+    "id": "2520",
     "name": "NightCafe Studio",
     "name_ar": "NightCafe Studio",
     "category": "Design",
@@ -46530,7 +45360,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2586",
+    "id": "2521",
     "name": "Public Prompts",
     "name_ar": "Public Prompts",
     "category": "Writing",
@@ -46548,7 +45378,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2587",
+    "id": "2522",
     "name": "IngestAI",
     "name_ar": "IngestAI",
     "category": "Productivity",
@@ -46566,7 +45396,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2588",
+    "id": "2523",
     "name": "hoopsAI",
     "name_ar": "hoopsAI",
     "category": "Analytics",
@@ -46584,7 +45414,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2589",
+    "id": "2524",
     "name": "Fy! Studio",
     "name_ar": "Fy! Studio",
     "category": "Image",
@@ -46602,7 +45432,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2590",
+    "id": "2525",
     "name": "Lookup",
     "name_ar": "Lookup",
     "category": "Research",
@@ -46620,7 +45450,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2591",
+    "id": "2526",
     "name": "Enzyme",
     "name_ar": "Enzyme",
     "category": "Development",
@@ -46638,7 +45468,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2592",
+    "id": "2527",
     "name": "Teachable Machine",
     "name_ar": "Teachable Machine",
     "category": "Coding",
@@ -46656,7 +45486,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2593",
+    "id": "2528",
     "name": "Papers GPT",
     "name_ar": "Papers GPT",
     "category": "Developer",
@@ -46674,7 +45504,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2594",
+    "id": "2529",
     "name": "Lumiere 3D",
     "name_ar": "Lumiere 3D",
     "category": "3D",
@@ -46692,7 +45522,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2595",
+    "id": "2530",
     "name": "Insou",
     "name_ar": "Insou",
     "category": "Presentation",
@@ -46710,7 +45540,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2596",
+    "id": "2531",
     "name": "Finding Words",
     "name_ar": "Finding Words",
     "category": "Support",
@@ -46728,7 +45558,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2597",
+    "id": "2532",
     "name": "GPTionary",
     "name_ar": "GPTionary",
     "category": "Editing",
@@ -46746,7 +45576,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2598",
+    "id": "2533",
     "name": "Tiledesk",
     "name_ar": "Tiledesk",
     "category": "Forms",
@@ -46764,7 +45594,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2599",
+    "id": "2534",
     "name": "AI Cover Letter Generator",
     "name_ar": "AI Cover Letter Generator",
     "category": "Resume",
@@ -46782,7 +45612,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2600",
+    "id": "2535",
     "name": "Heyday",
     "name_ar": "Heyday",
     "category": "Voice",
@@ -46800,7 +45630,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2601",
+    "id": "2536",
     "name": "Tekmatix",
     "name_ar": "Tekmatix",
     "category": "Sales",
@@ -46818,7 +45648,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2602",
+    "id": "2537",
     "name": "Rewind",
     "name_ar": "Rewind",
     "category": "Audio",
@@ -46836,7 +45666,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2603",
+    "id": "2538",
     "name": "Subject Line Generator",
     "name_ar": "Subject Line Generator",
     "category": "Communication",
@@ -46854,7 +45684,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2604",
+    "id": "2539",
     "name": "QuantPlus",
     "name_ar": "QuantPlus",
     "category": "Marketing",
@@ -46872,7 +45702,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2605",
+    "id": "2540",
     "name": "DrugCard",
     "name_ar": "DrugCard",
     "category": "Translation",
@@ -46890,7 +45720,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2606",
+    "id": "2541",
     "name": "AutoEasy",
     "name_ar": "AutoEasy",
     "category": "Chat",
@@ -46908,7 +45738,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2607",
+    "id": "2542",
     "name": "AvanazAI",
     "name_ar": "AvanazAI",
     "category": "Finance",
@@ -46926,7 +45756,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2608",
+    "id": "2543",
     "name": "Outfits AI",
     "name_ar": "Outfits AI",
     "category": "Business",
@@ -46944,7 +45774,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2609",
+    "id": "2544",
     "name": "DeepMotion",
     "name_ar": "DeepMotion",
     "category": "Social Media",
@@ -46962,7 +45792,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2610",
+    "id": "2545",
     "name": "Excel Formula Bot",
     "name_ar": "Excel Formula Bot",
     "category": "Automation",
@@ -46980,7 +45810,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2611",
+    "id": "2546",
     "name": "Robin AI",
     "name_ar": "Robin AI",
     "category": "Legal",
@@ -46998,7 +45828,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2612",
+    "id": "2547",
     "name": "HiFive",
     "name_ar": "HiFive",
     "category": "SEO",
@@ -47016,7 +45846,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2613",
+    "id": "2548",
     "name": "TalkPal",
     "name_ar": "TalkPal",
     "category": "Education",
@@ -47034,7 +45864,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2614",
+    "id": "2549",
     "name": "Klap",
     "name_ar": "Klap",
     "category": "Video",
@@ -47052,7 +45882,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2615",
+    "id": "2550",
     "name": "MidJourney Prompt Helper",
     "name_ar": "MidJourney Prompt Helper",
     "category": "Design",
@@ -47070,7 +45900,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2616",
+    "id": "2551",
     "name": "AirOps",
     "name_ar": "AirOps",
     "category": "Writing",
@@ -47088,7 +45918,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2617",
+    "id": "2552",
     "name": "Namy.ai",
     "name_ar": "Namy.ai",
     "category": "Productivity",
@@ -47106,7 +45936,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2618",
+    "id": "2553",
     "name": "StockGPT",
     "name_ar": "StockGPT",
     "category": "Analytics",
@@ -47124,7 +45954,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2619",
+    "id": "2554",
     "name": "Profile Picture AI",
     "name_ar": "Profile Picture AI",
     "category": "Image",
@@ -47142,7 +45972,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2620",
+    "id": "2555",
     "name": "Uptrends.ai",
     "name_ar": "Uptrends.ai",
     "category": "Research",
@@ -47160,7 +45990,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2621",
+    "id": "2556",
     "name": "Bricabrac",
     "name_ar": "Bricabrac",
     "category": "Development",
@@ -47178,7 +46008,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2622",
+    "id": "2557",
     "name": "Softr Studio",
     "name_ar": "Softr Studio",
     "category": "Coding",
@@ -47196,7 +46026,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2623",
+    "id": "2558",
     "name": "Mindgrasp AI",
     "name_ar": "Mindgrasp AI",
     "category": "Developer",
@@ -47214,7 +46044,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2624",
+    "id": "2559",
     "name": "Avaturn",
     "name_ar": "Avaturn",
     "category": "3D",
@@ -47232,7 +46062,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2625",
+    "id": "2560",
     "name": "Rephrasely",
     "name_ar": "Rephrasely",
     "category": "Support",
@@ -47250,7 +46080,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2626",
+    "id": "2561",
     "name": "Promptomania",
     "name_ar": "Promptomania",
     "category": "Editing",
@@ -47268,7 +46098,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2627",
+    "id": "2562",
     "name": "Henshu.ai",
     "name_ar": "Henshu.ai",
     "category": "Forms",
@@ -47286,7 +46116,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2628",
+    "id": "2563",
     "name": "Canyon",
     "name_ar": "Canyon",
     "category": "Resume",
@@ -47304,7 +46134,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2629",
+    "id": "2564",
     "name": "Open Voice OS",
     "name_ar": "Open Voice OS",
     "category": "Voice",
@@ -47322,7 +46152,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2630",
+    "id": "2565",
     "name": "Jazon - AI SDR",
     "name_ar": "Jazon - AI SDR",
     "category": "Sales",
@@ -47340,7 +46170,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2631",
+    "id": "2566",
     "name": "Endel",
     "name_ar": "Endel",
     "category": "Audio",
@@ -47358,7 +46188,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2632",
+    "id": "2567",
     "name": "Rizemail",
     "name_ar": "Rizemail",
     "category": "Communication",
@@ -47376,7 +46206,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2633",
+    "id": "2568",
     "name": "WiziShop",
     "name_ar": "WiziShop",
     "category": "Marketing",
@@ -47394,7 +46224,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2634",
+    "id": "2569",
     "name": "Immersive Translate",
     "name_ar": "Immersive Translate",
     "category": "Translation",
@@ -47412,7 +46242,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2635",
+    "id": "2570",
     "name": "Grason",
     "name_ar": "Grason",
     "category": "Chat",
@@ -47430,7 +46260,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2636",
+    "id": "2571",
     "name": "CoinScreener",
     "name_ar": "CoinScreener",
     "category": "Finance",
@@ -47448,7 +46278,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2637",
+    "id": "2572",
     "name": "Travelnaut",
     "name_ar": "Travelnaut",
     "category": "Business",
@@ -47466,7 +46296,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2638",
+    "id": "2573",
     "name": "Repl AI",
     "name_ar": "Repl AI",
     "category": "Social Media",
@@ -47484,7 +46314,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2639",
+    "id": "2574",
     "name": "GitFluence",
     "name_ar": "GitFluence",
     "category": "Automation",
@@ -47502,7 +46332,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2640",
+    "id": "2575",
     "name": "Aporia",
     "name_ar": "Aporia",
     "category": "Legal",
@@ -47520,7 +46350,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2641",
+    "id": "2576",
     "name": "Collato",
     "name_ar": "Collato",
     "category": "SEO",
@@ -47538,7 +46368,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2642",
+    "id": "2577",
     "name": "StudyCrumb",
     "name_ar": "StudyCrumb",
     "category": "Education",
@@ -47556,7 +46386,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2643",
+    "id": "2578",
     "name": "Gen-2 by Runway",
     "name_ar": "Gen-2 by Runway",
     "category": "Video",
@@ -47574,7 +46404,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2644",
+    "id": "2579",
     "name": "MarketingBlocks",
     "name_ar": "MarketingBlocks",
     "category": "Design",
@@ -47592,7 +46422,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2645",
+    "id": "2580",
     "name": "Magic Type AI",
     "name_ar": "Magic Type AI",
     "category": "Writing",
@@ -47610,7 +46440,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2646",
+    "id": "2581",
     "name": "Artflow ai",
     "name_ar": "Artflow ai",
     "category": "Productivity",
@@ -47628,7 +46458,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2647",
+    "id": "2582",
     "name": "GAJIX",
     "name_ar": "GAJIX",
     "category": "Analytics",
@@ -47646,7 +46476,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2648",
+    "id": "2583",
     "name": "Creative Reality Studio (D-ID)",
     "name_ar": "Creative Reality Studio (D-ID)",
     "category": "Image",
@@ -47664,7 +46494,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2649",
+    "id": "2584",
     "name": "Wallpapers.fyi",
     "name_ar": "Wallpapers.fyi",
     "category": "Research",
@@ -47682,7 +46512,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2650",
+    "id": "2585",
     "name": "Gamma.ai",
     "name_ar": "Gamma.ai",
     "category": "Development",
@@ -47700,7 +46530,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2651",
+    "id": "2586",
     "name": "Jigso",
     "name_ar": "Jigso",
     "category": "Coding",
@@ -47718,7 +46548,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2652",
+    "id": "2587",
     "name": "Mental Models AI",
     "name_ar": "Mental Models AI",
     "category": "Developer",
@@ -47736,7 +46566,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2653",
+    "id": "2588",
     "name": "Ponzu",
     "name_ar": "Ponzu",
     "category": "3D",
@@ -47754,7 +46584,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2654",
+    "id": "2589",
     "name": "ContractReader.io",
     "name_ar": "ContractReader.io",
     "category": "Support",
@@ -47772,7 +46602,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2655",
+    "id": "2590",
     "name": "Subtxt",
     "name_ar": "Subtxt",
     "category": "Editing",
@@ -47790,7 +46620,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2656",
+    "id": "2591",
     "name": "CandyIcons",
     "name_ar": "CandyIcons",
     "category": "Forms",
@@ -47808,7 +46638,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2657",
+    "id": "2592",
     "name": "Dictation IO",
     "name_ar": "Dictation IO",
     "category": "Voice",
@@ -47826,7 +46656,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2658",
+    "id": "2593",
     "name": "My Real Estate Brochure",
     "name_ar": "My Real Estate Brochure",
     "category": "Sales",
@@ -47844,7 +46674,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2659",
+    "id": "2594",
     "name": "Murf",
     "name_ar": "Murf",
     "category": "Audio",
@@ -47862,7 +46692,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2660",
+    "id": "2595",
     "name": "Snack Prompt",
     "name_ar": "Snack Prompt",
     "category": "Communication",
@@ -47880,7 +46710,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2661",
+    "id": "2596",
     "name": "Daydrm.ai",
     "name_ar": "Daydrm.ai",
     "category": "Marketing",
@@ -47898,7 +46728,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2662",
+    "id": "2597",
     "name": "DaLMatian",
     "name_ar": "DaLMatian",
     "category": "Translation",
@@ -47916,7 +46746,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2663",
+    "id": "2598",
     "name": "Sanctum AI",
     "name_ar": "Sanctum AI",
     "category": "Chat",
@@ -47934,7 +46764,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2664",
+    "id": "2599",
     "name": "Geldhelden.AI",
     "name_ar": "Geldhelden.AI",
     "category": "Finance",
@@ -47952,7 +46782,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2665",
+    "id": "2600",
     "name": "HelloScribe",
     "name_ar": "HelloScribe",
     "category": "Business",
@@ -47970,7 +46800,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2666",
+    "id": "2601",
     "name": "Social Media Bio Generator",
     "name_ar": "Social Media Bio Generator",
     "category": "Social Media",
@@ -47988,7 +46818,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2667",
+    "id": "2602",
     "name": "Cron AI",
     "name_ar": "Cron AI",
     "category": "Automation",
@@ -48006,7 +46836,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2668",
+    "id": "2603",
     "name": "Kira Systems",
     "name_ar": "Kira Systems",
     "category": "Legal",
@@ -48024,7 +46854,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2669",
+    "id": "2604",
     "name": "ProsePilot",
     "name_ar": "ProsePilot",
     "category": "SEO",
@@ -48042,7 +46872,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2670",
+    "id": "2605",
     "name": "Langotalk",
     "name_ar": "Langotalk",
     "category": "Education",
@@ -48060,7 +46890,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2671",
+    "id": "2606",
     "name": "EbSynth",
     "name_ar": "EbSynth",
     "category": "Video",
@@ -48078,7 +46908,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2672",
+    "id": "2607",
     "name": "Predict AI",
     "name_ar": "Predict AI",
     "category": "Design",
@@ -48096,7 +46926,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2673",
+    "id": "2608",
     "name": "SEO GPT",
     "name_ar": "SEO GPT",
     "category": "Writing",
@@ -48114,7 +46944,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2674",
+    "id": "2609",
     "name": "PlayArti",
     "name_ar": "PlayArti",
     "category": "Productivity",
@@ -48132,7 +46962,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2675",
+    "id": "2610",
     "name": "RhetorAI",
     "name_ar": "RhetorAI",
     "category": "Analytics",
@@ -48150,7 +46980,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2676",
+    "id": "2611",
     "name": "Imagecolorizer",
     "name_ar": "Imagecolorizer",
     "category": "Image",
@@ -48168,7 +46998,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2677",
+    "id": "2612",
     "name": "NeevaAI",
     "name_ar": "NeevaAI",
     "category": "Research",
@@ -48186,7 +47016,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2678",
+    "id": "2613",
     "name": "Rapport",
     "name_ar": "Rapport",
     "category": "Development",
@@ -48204,7 +47034,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2679",
+    "id": "2614",
     "name": "CodeAssist",
     "name_ar": "CodeAssist",
     "category": "Coding",
@@ -48222,7 +47052,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2680",
+    "id": "2615",
     "name": "Illustroke",
     "name_ar": "Illustroke",
     "category": "Developer",
@@ -48240,7 +47070,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2681",
+    "id": "2616",
     "name": "Motionshift",
     "name_ar": "Motionshift",
     "category": "3D",
@@ -48258,7 +47088,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2682",
+    "id": "2617",
     "name": "Sprite Fusion",
     "name_ar": "Sprite Fusion",
     "category": "Support",
@@ -48276,7 +47106,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2683",
+    "id": "2618",
     "name": "Theoasis",
     "name_ar": "Theoasis",
     "category": "Editing",
@@ -48294,7 +47124,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2684",
+    "id": "2619",
     "name": "TLDR this",
     "name_ar": "TLDR this",
     "category": "Forms",
@@ -48312,7 +47142,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2685",
+    "id": "2620",
     "name": "Talknotes",
     "name_ar": "Talknotes",
     "category": "Voice",
@@ -48330,7 +47160,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2686",
+    "id": "2621",
     "name": "B2b Rocket",
     "name_ar": "B2b Rocket",
     "category": "Sales",
@@ -48348,7 +47178,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2687",
+    "id": "2622",
     "name": "Voxwave AI",
     "name_ar": "Voxwave AI",
     "category": "Audio",
@@ -48366,7 +47196,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2688",
+    "id": "2623",
     "name": "Chat Prompt Genius",
     "name_ar": "Chat Prompt Genius",
     "category": "Communication",
@@ -48384,7 +47214,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2689",
+    "id": "2624",
     "name": "Marketing Strategy Generator",
     "name_ar": "Marketing Strategy Generator",
     "category": "Marketing",
@@ -48402,7 +47232,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2690",
+    "id": "2625",
     "name": "Kippy",
     "name_ar": "Kippy",
     "category": "Translation",
@@ -48420,7 +47250,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2691",
+    "id": "2626",
     "name": "Inkey.ai",
     "name_ar": "Inkey.ai",
     "category": "Chat",
@@ -48438,7 +47268,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2692",
+    "id": "2627",
     "name": "EarningsEdge",
     "name_ar": "EarningsEdge",
     "category": "Finance",
@@ -48456,7 +47286,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2693",
+    "id": "2628",
     "name": "Paraphraser",
     "name_ar": "Paraphraser",
     "category": "Business",
@@ -48474,7 +47304,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2694",
+    "id": "2629",
     "name": "HypeIndex",
     "name_ar": "HypeIndex",
     "category": "Social Media",
@@ -48492,7 +47322,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2695",
+    "id": "2630",
     "name": "GPT for Sheets and Docs",
     "name_ar": "GPT for Sheets and Docs",
     "category": "Automation",
@@ -48510,7 +47340,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2696",
+    "id": "2631",
     "name": "LegalOn",
     "name_ar": "LegalOn",
     "category": "Legal",
@@ -48528,7 +47358,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2697",
+    "id": "2632",
     "name": "SEOlligence",
     "name_ar": "SEOlligence",
     "category": "SEO",
@@ -48546,7 +47376,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2698",
+    "id": "2633",
     "name": "Samwell AI",
     "name_ar": "Samwell AI",
     "category": "Education",
@@ -48564,7 +47394,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2699",
+    "id": "2634",
     "name": "MovieToEmoji",
     "name_ar": "MovieToEmoji",
     "category": "Video",
@@ -48582,7 +47412,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2700",
+    "id": "2635",
     "name": "Build AI",
     "name_ar": "Build AI",
     "category": "Design",
@@ -48600,7 +47430,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2701",
+    "id": "2636",
     "name": "Casper AI",
     "name_ar": "Casper AI",
     "category": "Writing",
@@ -48618,7 +47448,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2702",
+    "id": "2637",
     "name": "Ordinary People Prompts",
     "name_ar": "Ordinary People Prompts",
     "category": "Productivity",
@@ -48636,7 +47466,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2703",
+    "id": "2638",
     "name": "Nextatlas",
     "name_ar": "Nextatlas",
     "category": "Analytics",
@@ -48654,7 +47484,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2704",
+    "id": "2639",
     "name": "Bright Eye",
     "name_ar": "Bright Eye",
     "category": "Image",
@@ -48672,7 +47502,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2705",
+    "id": "2640",
     "name": "Patterned AI",
     "name_ar": "Patterned AI",
     "category": "Research",
@@ -48690,7 +47520,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2706",
+    "id": "2641",
     "name": "EzeGym",
     "name_ar": "EzeGym",
     "category": "Development",
@@ -48708,7 +47538,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2707",
+    "id": "2642",
     "name": "Stratup.ai",
     "name_ar": "Stratup.ai",
     "category": "Coding",
@@ -48726,7 +47556,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2708",
+    "id": "2643",
     "name": "Aigur.dev",
     "name_ar": "Aigur.dev",
     "category": "Developer",
@@ -48744,7 +47574,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2709",
+    "id": "2644",
     "name": "G3DAI {Jedi}",
     "name_ar": "G3DAI {Jedi}",
     "category": "3D",
@@ -48762,7 +47592,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2710",
+    "id": "2645",
     "name": "Kintext",
     "name_ar": "Kintext",
     "category": "Support",
@@ -48780,7 +47610,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2711",
+    "id": "2646",
     "name": "Strut",
     "name_ar": "Strut",
     "category": "Editing",
@@ -48798,7 +47628,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2712",
+    "id": "2647",
     "name": "LinkedIn Post Generator",
     "name_ar": "LinkedIn Post Generator",
     "category": "Forms",
@@ -48816,7 +47646,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2713",
+    "id": "2648",
     "name": "BeeBee AI",
     "name_ar": "BeeBee AI",
     "category": "Voice",
@@ -48834,7 +47664,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2714",
+    "id": "2649",
     "name": "Plumb",
     "name_ar": "Plumb",
     "category": "Sales",
@@ -48852,7 +47682,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2715",
+    "id": "2650",
     "name": "Audio Strip",
     "name_ar": "Audio Strip",
     "category": "Audio",
@@ -48870,7 +47700,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2716",
+    "id": "2651",
     "name": "TalkToHim",
     "name_ar": "TalkToHim",
     "category": "Communication",
@@ -48888,7 +47718,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2717",
+    "id": "2652",
     "name": "Briefly",
     "name_ar": "Briefly",
     "category": "Marketing",
@@ -48906,7 +47736,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2718",
+    "id": "2653",
     "name": "TextQL",
     "name_ar": "TextQL",
     "category": "Translation",
@@ -48924,7 +47754,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2719",
+    "id": "2654",
     "name": "Devassistant.ai",
     "name_ar": "Devassistant.ai",
     "category": "Chat",
@@ -48942,7 +47772,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2720",
+    "id": "2655",
     "name": "MyInvestment-AI",
     "name_ar": "MyInvestment-AI",
     "category": "Finance",
@@ -48960,7 +47790,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2721",
+    "id": "2656",
     "name": "Dataspot",
     "name_ar": "Dataspot",
     "category": "Business",
@@ -48978,7 +47808,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2722",
+    "id": "2657",
     "name": "Trumpet House",
     "name_ar": "Trumpet House",
     "category": "Social Media",
@@ -48996,7 +47826,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2723",
+    "id": "2658",
     "name": "Eightify",
     "name_ar": "Eightify",
     "category": "Automation",
@@ -49014,7 +47844,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2724",
+    "id": "2659",
     "name": "Leya",
     "name_ar": "Leya",
     "category": "Legal",
@@ -49032,7 +47862,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2725",
+    "id": "2660",
     "name": "Texo",
     "name_ar": "Texo",
     "category": "SEO",
@@ -49050,7 +47880,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2726",
+    "id": "2661",
     "name": "Studyable",
     "name_ar": "Studyable",
     "category": "Education",
@@ -49068,7 +47898,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2727",
+    "id": "2662",
     "name": "Phenaki",
     "name_ar": "Phenaki",
     "category": "Video",
@@ -49086,7 +47916,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2728",
+    "id": "2663",
     "name": "StudioGPT by Latent Labs",
     "name_ar": "StudioGPT by Latent Labs",
     "category": "Design",
@@ -49104,7 +47934,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2729",
+    "id": "2664",
     "name": "MagicForm",
     "name_ar": "MagicForm",
     "category": "Writing",
@@ -49122,7 +47952,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2730",
+    "id": "2665",
     "name": "Drayk It",
     "name_ar": "Drayk It",
     "category": "Productivity",
@@ -49140,7 +47970,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2731",
+    "id": "2666",
     "name": "AIBrane",
     "name_ar": "AIBrane",
     "category": "Analytics",
@@ -49158,7 +47988,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2732",
+    "id": "2667",
     "name": "Pixelicious",
     "name_ar": "Pixelicious",
     "category": "Image",
@@ -49176,7 +48006,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2733",
+    "id": "2668",
     "name": "Exoname",
     "name_ar": "Exoname",
     "category": "Research",
@@ -49194,7 +48024,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2734",
+    "id": "2669",
     "name": "YACSS",
     "name_ar": "YACSS",
     "category": "Development",
@@ -49212,7 +48042,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2735",
+    "id": "2670",
     "name": "Spellbox",
     "name_ar": "Spellbox",
     "category": "Coding",
@@ -49230,7 +48060,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2736",
+    "id": "2671",
     "name": "Virtual House Flip",
     "name_ar": "Virtual House Flip",
     "category": "Developer",
@@ -49248,7 +48078,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2737",
+    "id": "2672",
     "name": "Role Model AI",
     "name_ar": "Role Model AI",
     "category": "3D",
@@ -49266,7 +48096,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2738",
+    "id": "2673",
     "name": "CheatGPT",
     "name_ar": "CheatGPT",
     "category": "Support",
@@ -49284,7 +48114,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2739",
+    "id": "2674",
     "name": "Entry Point",
     "name_ar": "Entry Point",
     "category": "Editing",
@@ -49302,7 +48132,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2740",
+    "id": "2675",
     "name": "Stellaris AI",
     "name_ar": "Stellaris AI",
     "category": "Forms",
@@ -49320,7 +48150,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2741",
+    "id": "2676",
     "name": "Calligrapher AI",
     "name_ar": "Calligrapher AI",
     "category": "Voice",
@@ -49338,7 +48168,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2742",
+    "id": "2677",
     "name": "ChatSpot",
     "name_ar": "ChatSpot",
     "category": "Sales",
@@ -49356,7 +48186,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2743",
+    "id": "2678",
     "name": "Ai|coustics",
     "name_ar": "Ai|coustics",
     "category": "Audio",
@@ -49374,7 +48204,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2744",
+    "id": "2679",
     "name": "ChatX",
     "name_ar": "ChatX",
     "category": "Communication",
@@ -49392,7 +48222,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2745",
+    "id": "2680",
     "name": "Great Headlines",
     "name_ar": "Great Headlines",
     "category": "Marketing",
@@ -49410,7 +48240,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2746",
+    "id": "2681",
     "name": "TaxGPT",
     "name_ar": "TaxGPT",
     "category": "Chat",
@@ -49428,7 +48258,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2747",
+    "id": "2682",
     "name": "Arya.ai",
     "name_ar": "Arya.ai",
     "category": "Finance",
@@ -49446,7 +48276,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2748",
+    "id": "2683",
     "name": "Travel Plan AI",
     "name_ar": "Travel Plan AI",
     "category": "Business",
@@ -49464,7 +48294,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2749",
+    "id": "2684",
     "name": "Bogar.AI",
     "name_ar": "Bogar.AI",
     "category": "Social Media",
@@ -49482,7 +48312,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2750",
+    "id": "2685",
     "name": "Text Generator Plugin",
     "name_ar": "Text Generator Plugin",
     "category": "Automation",
@@ -49500,7 +48330,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2751",
+    "id": "2686",
     "name": "Fynk",
     "name_ar": "Fynk",
     "category": "Legal",
@@ -49518,7 +48348,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2752",
+    "id": "2687",
     "name": "AI ASO Manager",
     "name_ar": "AI ASO Manager",
     "category": "SEO",
@@ -49536,7 +48366,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2753",
+    "id": "2688",
     "name": "PracticeTalking",
     "name_ar": "PracticeTalking",
     "category": "Education",
@@ -49554,7 +48384,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2754",
+    "id": "2689",
     "name": "vidIQ",
     "name_ar": "vidIQ",
     "category": "Video",
@@ -49572,7 +48402,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2755",
+    "id": "2690",
     "name": "Chatbase",
     "name_ar": "Chatbase",
     "category": "Design",
@@ -49590,7 +48420,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2756",
+    "id": "2691",
     "name": "HoppyCopy",
     "name_ar": "HoppyCopy",
     "category": "Writing",
@@ -49608,7 +48438,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2757",
+    "id": "2692",
     "name": "Zapt",
     "name_ar": "Zapt",
     "category": "Productivity",
@@ -49626,7 +48456,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2758",
+    "id": "2693",
     "name": "Upheal",
     "name_ar": "Upheal",
     "category": "Analytics",
@@ -49644,7 +48474,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2759",
+    "id": "2694",
     "name": "Pixela AI",
     "name_ar": "Pixela AI",
     "category": "Image",
@@ -49662,7 +48492,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2760",
+    "id": "2695",
     "name": "AI SWOT Analysis",
     "name_ar": "AI SWOT Analysis",
     "category": "Research",
@@ -49680,7 +48510,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2761",
+    "id": "2696",
     "name": "Cognitivemill",
     "name_ar": "Cognitivemill",
     "category": "Development",
@@ -49698,7 +48528,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2762",
+    "id": "2697",
     "name": "Cosine AI",
     "name_ar": "Cosine AI",
     "category": "Coding",
@@ -49716,7 +48546,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2763",
+    "id": "2698",
     "name": "Datature",
     "name_ar": "Datature",
     "category": "Developer",
@@ -49734,7 +48564,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2764",
+    "id": "2699",
     "name": "Movmi",
     "name_ar": "Movmi",
     "category": "3D",
@@ -49752,7 +48582,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2765",
+    "id": "2700",
     "name": "Shakespeare AI Toolbar",
     "name_ar": "Shakespeare AI Toolbar",
     "category": "Support",
@@ -49770,7 +48600,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2766",
+    "id": "2701",
     "name": "Rayst Gradients",
     "name_ar": "Rayst Gradients",
     "category": "Editing",
@@ -49788,7 +48618,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2767",
+    "id": "2702",
     "name": "iAsk.AI",
     "name_ar": "iAsk.AI",
     "category": "Forms",
@@ -49806,7 +48636,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2768",
+    "id": "2703",
     "name": "DupDub",
     "name_ar": "DupDub",
     "category": "Voice",
@@ -49824,7 +48654,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2769",
+    "id": "2704",
     "name": "Drippi.ai",
     "name_ar": "Drippi.ai",
     "category": "Sales",
@@ -49842,7 +48672,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2770",
+    "id": "2705",
     "name": "MyVocal AI",
     "name_ar": "MyVocal AI",
     "category": "Audio",
@@ -49860,7 +48690,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2771",
+    "id": "2706",
     "name": "Finchat.io",
     "name_ar": "Finchat.io",
     "category": "Communication",
@@ -49878,7 +48708,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2772",
+    "id": "2707",
     "name": "Peachly AI",
     "name_ar": "Peachly AI",
     "category": "Marketing",
@@ -49896,7 +48726,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2773",
+    "id": "2708",
     "name": "Beeyond AI",
     "name_ar": "Beeyond AI",
     "category": "Chat",
@@ -49914,7 +48744,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2774",
+    "id": "2709",
     "name": "Alphathena",
     "name_ar": "Alphathena",
     "category": "Finance",
@@ -49932,7 +48762,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2775",
+    "id": "2710",
     "name": "Swifty",
     "name_ar": "Swifty",
     "category": "Business",
@@ -49950,7 +48780,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2776",
+    "id": "2711",
     "name": "EasyGen",
     "name_ar": "EasyGen",
     "category": "Social Media",
@@ -49968,7 +48798,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2777",
+    "id": "2712",
     "name": "Vacay",
     "name_ar": "Vacay",
     "category": "Automation",
@@ -49986,7 +48816,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2778",
+    "id": "2713",
     "name": "Holistic AI",
     "name_ar": "Holistic AI",
     "category": "Legal",
@@ -50004,7 +48834,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2779",
+    "id": "2714",
     "name": "BlitzBear",
     "name_ar": "BlitzBear",
     "category": "SEO",
@@ -50022,7 +48852,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2780",
+    "id": "2715",
     "name": "Triv AI",
     "name_ar": "Triv AI",
     "category": "Education",
@@ -50040,7 +48870,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2781",
+    "id": "2716",
     "name": "KeywordSearch",
     "name_ar": "KeywordSearch",
     "category": "Video",
@@ -50058,7 +48888,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2782",
+    "id": "2717",
     "name": "Quizgecko",
     "name_ar": "Quizgecko",
     "category": "Design",
@@ -50076,7 +48906,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2783",
+    "id": "2718",
     "name": "STORYD",
     "name_ar": "STORYD",
     "category": "Writing",
@@ -50094,7 +48924,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2784",
+    "id": "2719",
     "name": "PPLEGPT",
     "name_ar": "PPLEGPT",
     "category": "Productivity",
@@ -50112,7 +48942,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2785",
+    "id": "2720",
     "name": "TheLoops",
     "name_ar": "TheLoops",
     "category": "Analytics",
@@ -50130,7 +48960,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2786",
+    "id": "2721",
     "name": "InteriorAI",
     "name_ar": "InteriorAI",
     "category": "Image",
@@ -50148,7 +48978,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2787",
+    "id": "2722",
     "name": "MachineTranslation",
     "name_ar": "MachineTranslation",
     "category": "Research",
@@ -50166,7 +48996,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2788",
+    "id": "2723",
     "name": "Elastic",
     "name_ar": "Elastic",
     "category": "Development",
@@ -50184,7 +49014,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2789",
+    "id": "2724",
     "name": "Liner.ai",
     "name_ar": "Liner.ai",
     "category": "Coding",
@@ -50202,7 +49032,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2790",
+    "id": "2725",
     "name": "Rose AI",
     "name_ar": "Rose AI",
     "category": "Developer",
@@ -50220,7 +49050,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2791",
+    "id": "2726",
     "name": "3DFY",
     "name_ar": "3DFY",
     "category": "3D",
@@ -50238,7 +49068,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2792",
+    "id": "2727",
     "name": "Knowbase.ai",
     "name_ar": "Knowbase.ai",
     "category": "Support",
@@ -50256,7 +49086,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2793",
+    "id": "2728",
     "name": "EnhanceAI",
     "name_ar": "EnhanceAI",
     "category": "Editing",
@@ -50274,7 +49104,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2794",
+    "id": "2729",
     "name": "Formula Generator",
     "name_ar": "Formula Generator",
     "category": "Forms",
@@ -50292,7 +49122,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2795",
+    "id": "2730",
     "name": "Call Annie",
     "name_ar": "Call Annie",
     "category": "Voice",
@@ -50310,7 +49140,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2796",
+    "id": "2731",
     "name": "Chorus",
     "name_ar": "Chorus",
     "category": "Sales",
@@ -50328,7 +49158,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2797",
+    "id": "2732",
     "name": "Brain.fm",
     "name_ar": "Brain.fm",
     "category": "Audio",
@@ -50346,7 +49176,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2798",
+    "id": "2733",
     "name": "FinalScout",
     "name_ar": "FinalScout",
     "category": "Communication",
@@ -50364,7 +49194,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2799",
+    "id": "2734",
     "name": "MakerBox",
     "name_ar": "MakerBox",
     "category": "Marketing",
@@ -50382,7 +49212,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2800",
+    "id": "2735",
     "name": "Altera",
     "name_ar": "Altera",
     "category": "Chat",
@@ -50400,7 +49230,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2801",
+    "id": "2736",
     "name": "Bluesheets",
     "name_ar": "Bluesheets",
     "category": "Finance",
@@ -50418,7 +49248,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2802",
+    "id": "2737",
     "name": "Mymealplan",
     "name_ar": "Mymealplan",
     "category": "Business",
@@ -50436,7 +49266,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2803",
+    "id": "2738",
     "name": "Tribescaler",
     "name_ar": "Tribescaler",
     "category": "Social Media",
@@ -50454,7 +49284,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2804",
+    "id": "2739",
     "name": "Once Upon A Bot",
     "name_ar": "Once Upon A Bot",
     "category": "Automation",
@@ -50472,7 +49302,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2805",
+    "id": "2740",
     "name": "Laws of Motion",
     "name_ar": "Laws of Motion",
     "category": "Legal",
@@ -50490,7 +49320,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2806",
+    "id": "2741",
     "name": "Katalis AI",
     "name_ar": "Katalis AI",
     "category": "SEO",
@@ -50508,7 +49338,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2807",
+    "id": "2742",
     "name": "EducatorLab",
     "name_ar": "EducatorLab",
     "category": "Education",
@@ -50526,7 +49356,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2808",
+    "id": "2743",
     "name": "FineShare FineCam",
     "name_ar": "FineShare FineCam",
     "category": "Video",
@@ -50544,7 +49374,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2809",
+    "id": "2744",
     "name": "GetFloorPlan",
     "name_ar": "GetFloorPlan",
     "category": "Design",
@@ -50562,7 +49392,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2810",
+    "id": "2745",
     "name": "Upword",
     "name_ar": "Upword",
     "category": "Writing",
@@ -50580,7 +49410,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2811",
+    "id": "2746",
     "name": "GitaGPT",
     "name_ar": "GitaGPT",
     "category": "Productivity",
@@ -50598,7 +49428,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2812",
+    "id": "2747",
     "name": "Postly",
     "name_ar": "Postly",
     "category": "Analytics",
@@ -50616,7 +49446,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2813",
+    "id": "2748",
     "name": "Roamaround",
     "name_ar": "Roamaround",
     "category": "Image",
@@ -50634,7 +49464,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2814",
+    "id": "2749",
     "name": "Metaforms",
     "name_ar": "Metaforms",
     "category": "Research",
@@ -50652,7 +49482,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2815",
+    "id": "2750",
     "name": "Everlaw",
     "name_ar": "Everlaw",
     "category": "Development",
@@ -50670,7 +49500,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2816",
+    "id": "2751",
     "name": "Safebet",
     "name_ar": "Safebet",
     "category": "Coding",
@@ -50688,7 +49518,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2817",
+    "id": "2752",
     "name": "Vanna AI",
     "name_ar": "Vanna AI",
     "category": "Developer",
@@ -50706,7 +49536,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2818",
+    "id": "2753",
     "name": "Masterpiece Studio",
     "name_ar": "Masterpiece Studio",
     "category": "3D",
@@ -50724,7 +49554,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2819",
+    "id": "2754",
     "name": "Threado AI",
     "name_ar": "Threado AI",
     "category": "Support",
@@ -50742,7 +49572,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2820",
+    "id": "2755",
     "name": "Pentest Copilot",
     "name_ar": "Pentest Copilot",
     "category": "Editing",
@@ -50760,7 +49590,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2821",
+    "id": "2756",
     "name": "Textomap",
     "name_ar": "Textomap",
     "category": "Forms",
@@ -50778,7 +49608,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2822",
+    "id": "2757",
     "name": "SpeechGen",
     "name_ar": "SpeechGen",
     "category": "Voice",
@@ -50796,7 +49626,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2823",
+    "id": "2758",
     "name": "Conversica",
     "name_ar": "Conversica",
     "category": "Sales",
@@ -50814,7 +49644,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2824",
+    "id": "2759",
     "name": "Chatmind",
     "name_ar": "Chatmind",
     "category": "Audio",
@@ -50832,7 +49662,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2825",
+    "id": "2760",
     "name": "LlamaChat",
     "name_ar": "LlamaChat",
     "category": "Communication",
@@ -50850,7 +49680,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2826",
+    "id": "2761",
     "name": "Social Var",
     "name_ar": "Social Var",
     "category": "Marketing",
@@ -50868,7 +49698,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2827",
+    "id": "2762",
     "name": "Dispute Panda",
     "name_ar": "Dispute Panda",
     "category": "Finance",
@@ -50886,7 +49716,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2828",
+    "id": "2763",
     "name": "MealPractice",
     "name_ar": "MealPractice",
     "category": "Business",
@@ -50904,7 +49734,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2829",
+    "id": "2764",
     "name": "CaliberAI",
     "name_ar": "CaliberAI",
     "category": "Social Media",
@@ -50922,7 +49752,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2830",
+    "id": "2765",
     "name": "SchoolHack",
     "name_ar": "SchoolHack",
     "category": "Automation",
@@ -50940,7 +49770,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2831",
+    "id": "2766",
     "name": "SupplyScope",
     "name_ar": "SupplyScope",
     "category": "Legal",
@@ -50958,7 +49788,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2832",
+    "id": "2767",
     "name": "Knowlee AI",
     "name_ar": "Knowlee AI",
     "category": "Education",
@@ -50976,7 +49806,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2833",
+    "id": "2768",
     "name": "ChatGPT for YouTube",
     "name_ar": "ChatGPT for YouTube",
     "category": "Video",
@@ -50994,7 +49824,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2834",
+    "id": "2769",
     "name": "Scrip AI",
     "name_ar": "Scrip AI",
     "category": "Design",
@@ -51012,7 +49842,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2835",
+    "id": "2770",
     "name": "Find Your Next Book",
     "name_ar": "Find Your Next Book",
     "category": "Writing",
@@ -51030,7 +49860,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2836",
+    "id": "2771",
     "name": "Rosebud",
     "name_ar": "Rosebud",
     "category": "Productivity",
@@ -51048,7 +49878,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2837",
+    "id": "2772",
     "name": "Wand AI",
     "name_ar": "Wand AI",
     "category": "Analytics",
@@ -51066,7 +49896,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2838",
+    "id": "2773",
     "name": "This Model Does Not Exist",
     "name_ar": "This Model Does Not Exist",
     "category": "Image",
@@ -51084,7 +49914,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2839",
+    "id": "2774",
     "name": "Tailor",
     "name_ar": "Tailor",
     "category": "Research",
@@ -51102,7 +49932,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2840",
+    "id": "2775",
     "name": "Athina",
     "name_ar": "Athina",
     "category": "Development",
@@ -51120,7 +49950,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2841",
+    "id": "2776",
     "name": "Cogniflow",
     "name_ar": "Cogniflow",
     "category": "Coding",
@@ -51138,7 +49968,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2842",
+    "id": "2777",
     "name": "LMQL",
     "name_ar": "LMQL",
     "category": "Developer",
@@ -51156,7 +49986,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2843",
+    "id": "2778",
     "name": "Plask",
     "name_ar": "Plask",
     "category": "3D",
@@ -51174,7 +50004,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2844",
+    "id": "2779",
     "name": "Tradytics",
     "name_ar": "Tradytics",
     "category": "Support",
@@ -51192,7 +50022,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2845",
+    "id": "2780",
     "name": "Stellar",
     "name_ar": "Stellar",
     "category": "Editing",
@@ -51210,7 +50040,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2846",
+    "id": "2781",
     "name": "Block Survey",
     "name_ar": "Block Survey",
     "category": "Forms",
@@ -51228,7 +50058,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2847",
+    "id": "2782",
     "name": "Voiceful.io",
     "name_ar": "Voiceful.io",
     "category": "Voice",
@@ -51246,7 +50076,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2848",
+    "id": "2783",
     "name": "Frontnow",
     "name_ar": "Frontnow",
     "category": "Sales",
@@ -51264,7 +50094,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2849",
+    "id": "2784",
     "name": "Castmagic",
     "name_ar": "Castmagic",
     "category": "Audio",
@@ -51282,7 +50112,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2850",
+    "id": "2785",
     "name": "OSS Chat",
     "name_ar": "OSS Chat",
     "category": "Communication",
@@ -51300,7 +50130,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2851",
+    "id": "2786",
     "name": "Lebesgue",
     "name_ar": "Lebesgue",
     "category": "Marketing",
@@ -51318,7 +50148,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2852",
+    "id": "2787",
     "name": "Transparently.AI",
     "name_ar": "Transparently.AI",
     "category": "Finance",
@@ -51336,7 +50166,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2853",
+    "id": "2788",
     "name": "WanderGenie",
     "name_ar": "WanderGenie",
     "category": "Business",
@@ -51354,7 +50184,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2854",
+    "id": "2789",
     "name": "Radaar",
     "name_ar": "Radaar",
     "category": "Social Media",
@@ -51372,7 +50202,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2855",
+    "id": "2790",
     "name": "Luminal",
     "name_ar": "Luminal",
     "category": "Automation",
@@ -51390,7 +50220,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2856",
+    "id": "2791",
     "name": "Sourcely.net",
     "name_ar": "Sourcely.net",
     "category": "Education",
@@ -51408,7 +50238,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2857",
+    "id": "2792",
     "name": "WOXO VidGPT",
     "name_ar": "WOXO VidGPT",
     "category": "Video",
@@ -51426,7 +50256,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2858",
+    "id": "2793",
     "name": "Dreamlike.art",
     "name_ar": "Dreamlike.art",
     "category": "Design",
@@ -51444,7 +50274,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2859",
+    "id": "2794",
     "name": "Yaara",
     "name_ar": "Yaara",
     "category": "Writing",
@@ -51462,7 +50292,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2860",
+    "id": "2795",
     "name": "Soofy",
     "name_ar": "Soofy",
     "category": "Productivity",
@@ -51480,7 +50310,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2861",
+    "id": "2796",
     "name": "Symbl.ai",
     "name_ar": "Symbl.ai",
     "category": "Analytics",
@@ -51498,7 +50328,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2862",
+    "id": "2797",
     "name": "Chromox",
     "name_ar": "Chromox",
     "category": "Image",
@@ -51516,7 +50346,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2863",
+    "id": "2798",
     "name": "Zevi.ai",
     "name_ar": "Zevi.ai",
     "category": "Research",
@@ -51534,7 +50364,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2864",
+    "id": "2799",
     "name": "Amlgo Labs",
     "name_ar": "Amlgo Labs",
     "category": "Development",
@@ -51552,7 +50382,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2865",
+    "id": "2800",
     "name": "Pickaxe",
     "name_ar": "Pickaxe",
     "category": "Coding",
@@ -51570,7 +50400,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2866",
+    "id": "2801",
     "name": "Talktotables",
     "name_ar": "Talktotables",
     "category": "Developer",
@@ -51588,7 +50418,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2867",
+    "id": "2802",
     "name": "Zeg AI",
     "name_ar": "Zeg AI",
     "category": "3D",
@@ -51606,7 +50436,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2868",
+    "id": "2803",
     "name": "Hey Internet",
     "name_ar": "Hey Internet",
     "category": "Support",
@@ -51624,7 +50454,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2869",
+    "id": "2804",
     "name": "LoginLlama",
     "name_ar": "LoginLlama",
     "category": "Editing",
@@ -51642,7 +50472,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2870",
+    "id": "2805",
     "name": "Avanty",
     "name_ar": "Avanty",
     "category": "Forms",
@@ -51660,7 +50490,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2871",
+    "id": "2806",
     "name": "Postfluencer",
     "name_ar": "Postfluencer",
     "category": "Voice",
@@ -51678,7 +50508,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2872",
+    "id": "2807",
     "name": "Full Venue",
     "name_ar": "Full Venue",
     "category": "Sales",
@@ -51696,7 +50526,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2873",
+    "id": "2808",
     "name": "Shownotes",
     "name_ar": "Shownotes",
     "category": "Audio",
@@ -51714,7 +50544,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2874",
+    "id": "2809",
     "name": "Recapext",
     "name_ar": "Recapext",
     "category": "Communication",
@@ -51732,7 +50562,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2875",
+    "id": "2810",
     "name": "Finsheet",
     "name_ar": "Finsheet",
     "category": "Marketing",
@@ -51750,7 +50580,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2876",
+    "id": "2811",
     "name": "Tulsk.io",
     "name_ar": "Tulsk.io",
     "category": "Business",
@@ -51768,7 +50598,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2877",
+    "id": "2812",
     "name": "MagicPost",
     "name_ar": "MagicPost",
     "category": "Social Media",
@@ -51786,7 +50616,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2878",
+    "id": "2813",
     "name": "Corpora",
     "name_ar": "Corpora",
     "category": "Automation",
@@ -51804,7 +50634,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2879",
+    "id": "2814",
     "name": "Quazel",
     "name_ar": "Quazel",
     "category": "Education",
@@ -51822,7 +50652,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2880",
+    "id": "2815",
     "name": "Dezgo",
     "name_ar": "Dezgo",
     "category": "Video",
@@ -51840,7 +50670,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2881",
+    "id": "2816",
     "name": "BrandScript Generator",
     "name_ar": "BrandScript Generator",
     "category": "Design",
@@ -51858,7 +50688,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2882",
+    "id": "2817",
     "name": "Natural Language Playlist",
     "name_ar": "Natural Language Playlist",
     "category": "Writing",
@@ -51876,7 +50706,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2883",
+    "id": "2818",
     "name": "Cohesive",
     "name_ar": "Cohesive",
     "category": "Productivity",
@@ -51894,7 +50724,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2884",
+    "id": "2819",
     "name": "Seek",
     "name_ar": "Seek",
     "category": "Analytics",
@@ -51912,7 +50742,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2885",
+    "id": "2820",
     "name": "RestorePhotos",
     "name_ar": "RestorePhotos",
     "category": "Image",
@@ -51930,7 +50760,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2886",
+    "id": "2821",
     "name": "Heuristica",
     "name_ar": "Heuristica",
     "category": "Research",
@@ -51948,7 +50778,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2887",
+    "id": "2822",
     "name": "Cadea",
     "name_ar": "Cadea",
     "category": "Development",
@@ -51966,7 +50796,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2888",
+    "id": "2823",
     "name": "AI Code Mentor",
     "name_ar": "AI Code Mentor",
     "category": "Coding",
@@ -51984,7 +50814,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2889",
+    "id": "2824",
     "name": "AI Vercel Playground",
     "name_ar": "AI Vercel Playground",
     "category": "Developer",
@@ -52002,7 +50832,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2890",
+    "id": "2825",
     "name": "Draw3D",
     "name_ar": "Draw3D",
     "category": "3D",
@@ -52020,7 +50850,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2891",
+    "id": "2826",
     "name": "Zoom AI Companion",
     "name_ar": "Zoom AI Companion",
     "category": "Support",
@@ -52038,7 +50868,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2892",
+    "id": "2827",
     "name": "Modl",
     "name_ar": "Modl",
     "category": "Editing",
@@ -52056,7 +50886,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2893",
+    "id": "2828",
     "name": "Thumbsnap",
     "name_ar": "Thumbsnap",
     "category": "Forms",
@@ -52074,7 +50904,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2894",
+    "id": "2829",
     "name": "Bria",
     "name_ar": "Bria",
     "category": "Voice",
@@ -52092,7 +50922,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2895",
+    "id": "2830",
     "name": "Luna",
     "name_ar": "Luna",
     "category": "Sales",
@@ -52110,7 +50940,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2896",
+    "id": "2831",
     "name": "Songtell",
     "name_ar": "Songtell",
     "category": "Audio",
@@ -52128,7 +50958,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2897",
+    "id": "2832",
     "name": "Magai",
     "name_ar": "Magai",
     "category": "Communication",
@@ -52146,7 +50976,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2898",
+    "id": "2833",
     "name": "ParallelGPT",
     "name_ar": "ParallelGPT",
     "category": "Marketing",
@@ -52164,7 +50994,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2899",
+    "id": "2834",
     "name": "Writingmate",
     "name_ar": "Writingmate",
     "category": "Business",
@@ -52182,7 +51012,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2900",
+    "id": "2835",
     "name": "Simplebio",
     "name_ar": "Simplebio",
     "category": "Social Media",
@@ -52200,7 +51030,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2901",
+    "id": "2836",
     "name": "Fluent",
     "name_ar": "Fluent",
     "category": "Automation",
@@ -52218,7 +51048,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2902",
+    "id": "2837",
     "name": "Magic School AI",
     "name_ar": "Magic School AI",
     "category": "Education",
@@ -52236,7 +51066,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2903",
+    "id": "2838",
     "name": "2short.ai",
     "name_ar": "2short.ai",
     "category": "Video",
@@ -52254,7 +51084,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2904",
+    "id": "2839",
     "name": "BrandBastion",
     "name_ar": "BrandBastion",
     "category": "Design",
@@ -52272,7 +51102,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2905",
+    "id": "2840",
     "name": "Lunaa",
     "name_ar": "Lunaa",
     "category": "Writing",
@@ -52290,7 +51120,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2906",
+    "id": "2841",
     "name": "PromptBase",
     "name_ar": "PromptBase",
     "category": "Productivity",
@@ -52308,7 +51138,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2907",
+    "id": "2842",
     "name": "Census GPT",
     "name_ar": "Census GPT",
     "category": "Analytics",
@@ -52326,7 +51156,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2908",
+    "id": "2843",
     "name": "ImageCreator",
     "name_ar": "ImageCreator",
     "category": "Image",
@@ -52344,7 +51174,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2909",
+    "id": "2844",
     "name": "Upcat",
     "name_ar": "Upcat",
     "category": "Research",
@@ -52362,7 +51192,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2910",
+    "id": "2845",
     "name": "Inference.ai",
     "name_ar": "Inference.ai",
     "category": "Development",
@@ -52380,7 +51210,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2911",
+    "id": "2846",
     "name": "Helper",
     "name_ar": "Helper",
     "category": "Coding",
@@ -52398,7 +51228,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2912",
+    "id": "2847",
     "name": "TableTalk",
     "name_ar": "TableTalk",
     "category": "Developer",
@@ -52416,7 +51246,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2913",
+    "id": "2848",
     "name": "Polyhive",
     "name_ar": "Polyhive",
     "category": "3D",
@@ -52434,7 +51264,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2914",
+    "id": "2849",
     "name": "IPscreener",
     "name_ar": "IPscreener",
     "category": "Support",
@@ -52452,7 +51282,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2915",
+    "id": "2850",
     "name": "Profluent Bio",
     "name_ar": "Profluent Bio",
     "category": "Editing",
@@ -52470,7 +51300,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2916",
+    "id": "2851",
     "name": "PicSo",
     "name_ar": "PicSo",
     "category": "Forms",
@@ -52488,7 +51318,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2917",
+    "id": "2852",
     "name": "Unreal Speech",
     "name_ar": "Unreal Speech",
     "category": "Voice",
@@ -52506,7 +51336,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2918",
+    "id": "2853",
     "name": "Monocle",
     "name_ar": "Monocle",
     "category": "Sales",
@@ -52524,7 +51354,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2919",
+    "id": "2854",
     "name": "TuneFlow",
     "name_ar": "TuneFlow",
     "category": "Audio",
@@ -52542,7 +51372,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2920",
+    "id": "2855",
     "name": "ConversAI",
     "name_ar": "ConversAI",
     "category": "Communication",
@@ -52560,7 +51390,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2921",
+    "id": "2856",
     "name": "ADLN",
     "name_ar": "ADLN",
     "category": "Marketing",
@@ -52578,7 +51408,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2922",
+    "id": "2857",
     "name": "Baseplate",
     "name_ar": "Baseplate",
     "category": "Business",
@@ -52596,7 +51426,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2923",
+    "id": "2858",
     "name": "AutoTextGenie AI",
     "name_ar": "AutoTextGenie AI",
     "category": "Social Media",
@@ -52614,7 +51444,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2924",
+    "id": "2859",
     "name": "Heylibby.ai",
     "name_ar": "Heylibby.ai",
     "category": "Automation",
@@ -52632,7 +51462,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2925",
+    "id": "2860",
     "name": "Atlas",
     "name_ar": "Atlas",
     "category": "Education",
@@ -52650,7 +51480,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2926",
+    "id": "2861",
     "name": "Video to Blog",
     "name_ar": "Video to Blog",
     "category": "Video",
@@ -52668,7 +51498,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2927",
+    "id": "2862",
     "name": "GPTAgent",
     "name_ar": "GPTAgent",
     "category": "Design",
@@ -52686,7 +51516,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2928",
+    "id": "2863",
     "name": "Maester.app",
     "name_ar": "Maester.app",
     "category": "Writing",
@@ -52704,7 +51534,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2929",
+    "id": "2864",
     "name": "Graham AI",
     "name_ar": "Graham AI",
     "category": "Productivity",
@@ -52722,7 +51552,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2930",
+    "id": "2865",
     "name": "Vetted",
     "name_ar": "Vetted",
     "category": "Analytics",
@@ -52740,7 +51570,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2931",
+    "id": "2866",
     "name": "Photo AI",
     "name_ar": "Photo AI",
     "category": "Image",
@@ -52758,7 +51588,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2932",
+    "id": "2867",
     "name": "Convai",
     "name_ar": "Convai",
     "category": "Research",
@@ -52776,7 +51606,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2933",
+    "id": "2868",
     "name": "Lumana",
     "name_ar": "Lumana",
     "category": "Development",
@@ -52794,7 +51624,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2934",
+    "id": "2869",
     "name": "TattoosAI",
     "name_ar": "TattoosAI",
     "category": "Coding",
@@ -52812,7 +51642,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2935",
+    "id": "2870",
     "name": "Eden AI",
     "name_ar": "Eden AI",
     "category": "Developer",
@@ -52830,7 +51660,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2936",
+    "id": "2871",
     "name": "Snowpixel",
     "name_ar": "Snowpixel",
     "category": "3D",
@@ -52848,7 +51678,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2937",
+    "id": "2872",
     "name": "Yuna",
     "name_ar": "Yuna",
     "category": "Support",
@@ -52866,7 +51696,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2938",
+    "id": "2873",
     "name": "AILayer",
     "name_ar": "AILayer",
     "category": "Editing",
@@ -52884,7 +51714,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2939",
+    "id": "2874",
     "name": "Texture Lab",
     "name_ar": "Texture Lab",
     "category": "Forms",
@@ -52902,7 +51732,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2940",
+    "id": "2875",
     "name": "Beepbooply",
     "name_ar": "Beepbooply",
     "category": "Voice",
@@ -52920,7 +51750,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2941",
+    "id": "2876",
     "name": "Xaver",
     "name_ar": "Xaver",
     "category": "Sales",
@@ -52938,7 +51768,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2942",
+    "id": "2877",
     "name": "CloneDub",
     "name_ar": "CloneDub",
     "category": "Audio",
@@ -52956,7 +51786,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2943",
+    "id": "2878",
     "name": "MailMaestro",
     "name_ar": "MailMaestro",
     "category": "Communication",
@@ -52974,7 +51804,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2944",
+    "id": "2879",
     "name": "AdswithAI",
     "name_ar": "AdswithAI",
     "category": "Marketing",
@@ -52992,7 +51822,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2945",
+    "id": "2880",
     "name": "Lean Canvas AI",
     "name_ar": "Lean Canvas AI",
     "category": "Business",
@@ -53010,7 +51840,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2946",
+    "id": "2881",
     "name": "Profile Crafter",
     "name_ar": "Profile Crafter",
     "category": "Social Media",
@@ -53028,7 +51858,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2947",
+    "id": "2882",
     "name": "Proposal Genie",
     "name_ar": "Proposal Genie",
     "category": "Automation",
@@ -53046,7 +51876,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2948",
+    "id": "2883",
     "name": "eSkilled AI Course Creator",
     "name_ar": "eSkilled AI Course Creator",
     "category": "Education",
@@ -53064,7 +51894,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2949",
+    "id": "2884",
     "name": "Peech",
     "name_ar": "Peech",
     "category": "Video",
@@ -53082,7 +51912,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2950",
+    "id": "2885",
     "name": "Tugan.ai",
     "name_ar": "Tugan.ai",
     "category": "Design",
@@ -53100,7 +51930,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2951",
+    "id": "2886",
     "name": "CopyMonkey",
     "name_ar": "CopyMonkey",
     "category": "Writing",
@@ -53118,7 +51948,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2952",
+    "id": "2887",
     "name": "PromptHero",
     "name_ar": "PromptHero",
     "category": "Productivity",
@@ -53136,7 +51966,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2953",
+    "id": "2888",
     "name": "Crypto Co-Pilot",
     "name_ar": "Crypto Co-Pilot",
     "category": "Analytics",
@@ -53154,7 +51984,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2954",
+    "id": "2889",
     "name": "Stable Horde",
     "name_ar": "Stable Horde",
     "category": "Image",
@@ -53172,7 +52002,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2955",
+    "id": "2890",
     "name": "MyMemo AI",
     "name_ar": "MyMemo AI",
     "category": "Research",
@@ -53190,7 +52020,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2956",
+    "id": "2891",
     "name": "WebscrapeAi",
     "name_ar": "WebscrapeAi",
     "category": "Coding",
@@ -53208,7 +52038,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2957",
+    "id": "2892",
     "name": "K8sGPT",
     "name_ar": "K8sGPT",
     "category": "Developer",
@@ -53226,7 +52056,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2958",
+    "id": "2893",
     "name": "Neuralangelo by NVIDIA",
     "name_ar": "Neuralangelo by NVIDIA",
     "category": "3D",
@@ -53244,7 +52074,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2959",
+    "id": "2894",
     "name": "Abby",
     "name_ar": "Abby",
     "category": "Support",
@@ -53262,7 +52092,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2960",
+    "id": "2895",
     "name": "CitrusX",
     "name_ar": "CitrusX",
     "category": "Editing",
@@ -53280,7 +52110,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2961",
+    "id": "2896",
     "name": "Insyte AI",
     "name_ar": "Insyte AI",
     "category": "Forms",
@@ -53298,7 +52128,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2962",
+    "id": "2897",
     "name": "Conju",
     "name_ar": "Conju",
     "category": "Voice",
@@ -53316,7 +52146,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2963",
+    "id": "2898",
     "name": "XFactor",
     "name_ar": "XFactor",
     "category": "Sales",
@@ -53334,7 +52164,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2964",
+    "id": "2899",
     "name": "Article.Audio",
     "name_ar": "Article.Audio",
     "category": "Audio",
@@ -53352,7 +52182,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2965",
+    "id": "2900",
     "name": "Rabbi AI",
     "name_ar": "Rabbi AI",
     "category": "Communication",
@@ -53370,7 +52200,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2966",
+    "id": "2901",
     "name": "Influencer Marketing AI",
     "name_ar": "Influencer Marketing AI",
     "category": "Marketing",
@@ -53388,7 +52218,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2967",
+    "id": "2902",
     "name": "BeeDone",
     "name_ar": "BeeDone",
     "category": "Business",
@@ -53406,7 +52236,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2968",
+    "id": "2903",
     "name": "Tappy",
     "name_ar": "Tappy",
     "category": "Social Media",
@@ -53424,7 +52254,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2969",
+    "id": "2904",
     "name": "Coinfeeds",
     "name_ar": "Coinfeeds",
     "category": "Automation",
@@ -53442,7 +52272,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2970",
+    "id": "2905",
     "name": "Homeworkify.im",
     "name_ar": "Homeworkify.im",
     "category": "Education",
@@ -53460,7 +52290,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2971",
+    "id": "2906",
     "name": "Unscreen.com",
     "name_ar": "Unscreen.com",
     "category": "Video",
@@ -53478,7 +52308,7 @@
     "trialInfo_ar": "7 أيام"
   },
   {
-    "id": "2972",
+    "id": "2907",
     "name": "Toolbuilder",
     "name_ar": "Toolbuilder",
     "category": "Design",
@@ -53496,7 +52326,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2973",
+    "id": "2908",
     "name": "eCommerce Prompt Generator",
     "name_ar": "eCommerce Prompt Generator",
     "category": "Writing",
@@ -53514,7 +52344,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2974",
+    "id": "2909",
     "name": "B12",
     "name_ar": "B12",
     "category": "Productivity",
@@ -53532,7 +52362,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2975",
+    "id": "2910",
     "name": "Osum",
     "name_ar": "Osum",
     "category": "Analytics",
@@ -53550,7 +52380,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2976",
+    "id": "2911",
     "name": "Caspa AI",
     "name_ar": "Caspa AI",
     "category": "Image",
@@ -53568,7 +52398,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2977",
+    "id": "2912",
     "name": "GapScout",
     "name_ar": "GapScout",
     "category": "Research",
@@ -53586,7 +52416,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2978",
+    "id": "2913",
     "name": "FGenEds",
     "name_ar": "FGenEds",
     "category": "Coding",
@@ -53604,7 +52434,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2979",
+    "id": "2914",
     "name": "Slated",
     "name_ar": "Slated",
     "category": "Developer",
@@ -53622,7 +52452,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2980",
+    "id": "2915",
     "name": "Finch 3D",
     "name_ar": "Finch 3D",
     "category": "3D",
@@ -53640,7 +52470,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2981",
+    "id": "2916",
     "name": "Artificial Labs",
     "name_ar": "Artificial Labs",
     "category": "Support",
@@ -53658,7 +52488,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2982",
+    "id": "2917",
     "name": "Foundational",
     "name_ar": "Foundational",
     "category": "Editing",
@@ -53676,7 +52506,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2983",
+    "id": "2918",
     "name": "Orbofi",
     "name_ar": "Orbofi",
     "category": "Forms",
@@ -53694,7 +52524,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2984",
+    "id": "2919",
     "name": "Simple Phones",
     "name_ar": "Simple Phones",
     "category": "Voice",
@@ -53712,7 +52542,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2985",
+    "id": "2920",
     "name": "Infinite Drum",
     "name_ar": "Infinite Drum",
     "category": "Audio",
@@ -53730,7 +52560,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2986",
+    "id": "2921",
     "name": "GPTHotline",
     "name_ar": "GPTHotline",
     "category": "Communication",
@@ -53748,7 +52578,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2987",
+    "id": "2922",
     "name": "Tweet Monk",
     "name_ar": "Tweet Monk",
     "category": "Marketing",
@@ -53766,7 +52596,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2988",
+    "id": "2923",
     "name": "Aithor",
     "name_ar": "Aithor",
     "category": "Business",
@@ -53784,7 +52614,7 @@
     "trialInfo_ar": "تجربة مجانية"
   },
   {
-    "id": "2989",
+    "id": "2924",
     "name": "Reacti",
     "name_ar": "Reacti",
     "category": "Social Media",
@@ -53802,7 +52632,7 @@
     "trialInfo_ar": "14 يوم"
   },
   {
-    "id": "2990",
+    "id": "2925",
     "name": "AI Lawyer",
     "name_ar": "AI Lawyer",
     "category": "Automation",
@@ -53820,7 +52650,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2991",
+    "id": "2926",
     "name": "Loora",
     "name_ar": "Loora",
     "category": "Education",
@@ -53838,7 +52668,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2992",
+    "id": "2927",
     "name": "Thumbly",
     "name_ar": "Thumbly",
     "category": "Video",
@@ -53856,7 +52686,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2993",
+    "id": "2928",
     "name": "Contents",
     "name_ar": "Contents",
     "category": "Design",
@@ -53874,7 +52704,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2994",
+    "id": "2929",
     "name": "Free AI Essay Writer",
     "name_ar": "Free AI Essay Writer",
     "category": "Writing",
@@ -53892,7 +52722,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2995",
+    "id": "2930",
     "name": "Analogenie",
     "name_ar": "Analogenie",
     "category": "Productivity",
@@ -53910,7 +52740,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2996",
+    "id": "2931",
     "name": "The Drive AI",
     "name_ar": "The Drive AI",
     "category": "Analytics",
@@ -53928,7 +52758,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2997",
+    "id": "2932",
     "name": "Avatar AI",
     "name_ar": "Avatar AI",
     "category": "Image",
@@ -53946,7 +52776,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2998",
+    "id": "2933",
     "name": "Algolia",
     "name_ar": "Algolia",
     "category": "Research",
@@ -53964,7 +52794,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "2999",
+    "id": "2934",
     "name": "Invicta AI",
     "name_ar": "Invicta AI",
     "category": "Coding",
@@ -53982,7 +52812,7 @@
     "trialInfo_ar": ""
   },
   {
-    "id": "3000",
+    "id": "2935",
     "name": "Lean Canvas",
     "name_ar": "Lean Canvas",
     "category": "Developer",
