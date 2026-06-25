@@ -1,7 +1,9 @@
 {
-  "latestVersion": "2.3.19",
-  "latestVersionCode": 269,
-  "updateUrl": "https://play.google.com/store/apps/details?id=com.khalid.mowazziapp",
-  "message_en": "A new version of Mowazzi is available with improvements and fixes.",
-  "message_ar": "يتوفر الآن تحديث جديد للتطبيق يحتوي على تحسينات في الأداء وإصلاحات مهمة لتجربة أفضل."
+  "enabled": true,
+  "latestAndroidVersionCode": 277,
+  "title_en": "New update available",
+  "title_ar": "تحديث جديد متاح",
+  "message_en": "A new version of Mowazzi is available with new improvements and features.",
+  "message_ar": "يوجد إصدار جديد من موازى يحتوي على تحسينات ومميزات جديدة.",
+  "playStoreUrl": "https://play.google.com/store/apps/details?id=com.khalid.mowazziapp"
 }
