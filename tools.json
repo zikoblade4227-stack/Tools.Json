@@ -14894,5 +14894,229 @@
     "subscriptionPrice": "",
     "trialInfo": "",
     "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-542",
+    "name": "Firecrawl",
+    "name_ar": "Firecrawl",
+    "category": "Developer",
+    "category_ar": "المطورين",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Web data API for turning websites into clean, LLM-ready markdown and structured data.",
+    "description_ar": "واجهة بيانات ويب تحول المواقع إلى Markdown وبيانات منظمة جاهزة للاستخدام مع نماذج الذكاء الاصطناعي.",
+    "bestFor": [
+      "Feeding AI agents with clean website content for RAG pipelines",
+      "Converting messy web pages into structured markdown or JSON",
+      "Developers building search, scraping, and knowledge ingestion workflows"
+    ],
+    "bestFor_ar": [
+      "تغذية وكلاء الذكاء الاصطناعي بمحتوى مواقع نظيف لمسارات RAG",
+      "تحويل صفحات الويب غير المنظمة إلى Markdown أو JSON منظم",
+      "المطورون الذين يبنون سير عمل للبحث والسكرابينج وإدخال المعرفة"
+    ],
+    "website": "https://www.firecrawl.dev",
+    "logo": "https://img.logo.dev/firecrawl.dev?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-543",
+    "name": "Browser Use",
+    "name_ar": "Browser Use",
+    "category": "Automation",
+    "category_ar": "الأتمتة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI browser automation platform that helps agents use websites and complete tasks online.",
+    "description_ar": "منصة أتمتة للمتصفح بالذكاء الاصطناعي تساعد الوكلاء على استخدام المواقع وتنفيذ المهام أونلاين.",
+    "bestFor": [
+      "Letting AI agents navigate websites through browser actions",
+      "Testing autonomous workflows that click, type, and read pages",
+      "Teams experimenting with web agents before building custom automation"
+    ],
+    "bestFor_ar": [
+      "تمكين وكلاء الذكاء الاصطناعي من تصفح المواقع عبر إجراءات المتصفح",
+      "اختبار سير عمل ذاتي يضغط ويكتب ويقرأ الصفحات",
+      "الفرق التي تجرب وكلاء الويب قبل بناء أتمتة مخصصة"
+    ],
+    "website": "https://browser-use.com",
+    "logo": "https://img.logo.dev/browser-use.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-544",
+    "name": "Browserbase",
+    "name_ar": "Browserbase",
+    "category": "Developer",
+    "category_ar": "المطورين",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Cloud browser platform for building and deploying AI agents that interact with websites.",
+    "description_ar": "منصة متصفحات سحابية لبناء ونشر وكلاء ذكاء اصطناعي يتفاعلون مع المواقع.",
+    "bestFor": [
+      "Running reliable browser sessions for AI agents in the cloud",
+      "Scaling web automation without maintaining browser infrastructure",
+      "Developers shipping agents that log in, browse, and complete website steps"
+    ],
+    "bestFor_ar": [
+      "تشغيل جلسات متصفح موثوقة لوكلاء الذكاء الاصطناعي على السحابة",
+      "توسيع أتمتة الويب بدون إدارة بنية المتصفحات",
+      "المطورون الذين يطلقون وكلاء يسجلون الدخول ويتصفحون وينفذون خطوات على المواقع"
+    ],
+    "website": "https://www.browserbase.com",
+    "logo": "https://img.logo.dev/browserbase.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-545",
+    "name": "Steel.dev",
+    "name_ar": "Steel.dev",
+    "category": "Developer",
+    "category_ar": "المطورين",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Open-source headless browser API for AI agents and web automation workflows.",
+    "description_ar": "واجهة متصفح Headless مفتوحة المصدر لوكلاء الذكاء الاصطناعي وسير عمل أتمتة الويب.",
+    "bestFor": [
+      "Managing fleets of cloud browsers for agent products",
+      "Adding headless browsing to AI systems without custom browser ops",
+      "Technical teams building infrastructure-heavy browser automation"
+    ],
+    "bestFor_ar": [
+      "إدارة مجموعات متصفحات سحابية لمنتجات الوكلاء الذكية",
+      "إضافة تصفح Headless لأنظمة الذكاء الاصطناعي بدون تشغيل متصفحات مخصص",
+      "الفرق التقنية التي تبني أتمتة متصفح تعتمد على بنية قوية"
+    ],
+    "website": "https://steel.dev",
+    "logo": "https://img.logo.dev/steel.dev?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-546",
+    "name": "Skyvern",
+    "name_ar": "Skyvern",
+    "category": "Automation",
+    "category_ar": "الأتمتة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI browser automation tool that completes website tasks from plain English instructions.",
+    "description_ar": "أداة أتمتة متصفح بالذكاء الاصطناعي تنفذ مهام المواقع من تعليمات إنجليزية بسيطة.",
+    "bestFor": [
+      "Automating form filling and multi-step website workflows",
+      "Handling websites that change layout or need visual understanding",
+      "Operations teams replacing brittle scripts with AI-driven browser runs"
+    ],
+    "bestFor_ar": [
+      "أتمتة ملء النماذج وسير العمل متعدد الخطوات على المواقع",
+      "التعامل مع مواقع يتغير تصميمها أو تحتاج فهما بصريا",
+      "فرق التشغيل التي تستبدل السكربتات الهشة بتشغيل متصفح مدعوم بالذكاء الاصطناعي"
+    ],
+    "website": "https://www.skyvern.com",
+    "logo": "https://img.logo.dev/skyvern.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-547",
+    "name": "ScrapeGraphAI",
+    "name_ar": "ScrapeGraphAI",
+    "category": "Developer",
+    "category_ar": "المطورين",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AI-powered web scraping API for extracting structured data from websites using natural language.",
+    "description_ar": "واجهة سكرابينج ذكية لاستخراج بيانات منظمة من المواقع باستخدام اللغة الطبيعية.",
+    "bestFor": [
+      "Extracting structured fields from pages using natural-language prompts",
+      "Turning website research targets into clean datasets for AI workflows",
+      "Builders who need prompt-driven scraping instead of handcrafted parsers"
+    ],
+    "bestFor_ar": [
+      "استخراج حقول منظمة من الصفحات باستخدام أوامر باللغة الطبيعية",
+      "تحويل أهداف البحث على المواقع إلى مجموعات بيانات نظيفة لسير عمل الذكاء الاصطناعي",
+      "البناؤون الذين يحتاجون سكرابينج موجها بالأوامر بدلا من Parsers يدوية"
+    ],
+    "website": "https://scrapegraphai.com",
+    "logo": "https://img.logo.dev/scrapegraphai.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-548",
+    "name": "Relevance AI",
+    "name_ar": "Relevance AI",
+    "category": "Automation",
+    "category_ar": "الأتمتة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Low-code AI agent platform for building multi-agent teams and automated business workflows.",
+    "description_ar": "منصة وكلاء ذكاء اصطناعي قليلة الكود لبناء فرق متعددة الوكلاء وسير عمل تجاري مؤتمت.",
+    "bestFor": [
+      "Building AI agent teams for sales, research, and operations",
+      "Combining tools, data, and automations inside a visual agent builder",
+      "Business teams creating repeatable agent workflows without full coding"
+    ],
+    "bestFor_ar": [
+      "بناء فرق وكلاء ذكاء اصطناعي للمبيعات والبحث والتشغيل",
+      "دمج الأدوات والبيانات والأتمتة داخل منشئ وكلاء بصري",
+      "فرق الأعمال التي تنشئ سير عمل وكلاء متكرر بدون برمجة كاملة"
+    ],
+    "website": "https://relevanceai.com",
+    "logo": "https://img.logo.dev/relevanceai.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-549",
+    "name": "Cassidy AI",
+    "name_ar": "Cassidy AI",
+    "category": "Automation",
+    "category_ar": "الأتمتة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "AI automation platform for building business agents and workflows powered by company knowledge.",
+    "description_ar": "منصة أتمتة بالذكاء الاصطناعي لبناء وكلاء وسير عمل للأعمال اعتمادا على معرفة الشركة.",
+    "bestFor": [
+      "Creating business agents that understand internal knowledge bases",
+      "Designing approval-aware workflows for sales, support, and operations",
+      "Teams turning company documents into practical assistants and automations"
+    ],
+    "bestFor_ar": [
+      "إنشاء وكلاء أعمال يفهمون قواعد المعرفة الداخلية",
+      "تصميم سير عمل يراعي الموافقات للمبيعات والدعم والتشغيل",
+      "الفرق التي تحول مستندات الشركة إلى مساعدين وأتمتة عملية"
+    ],
+    "website": "https://www.cassidyai.com",
+    "logo": "https://img.logo.dev/cassidyai.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 92,
+    "subscriptionPrice": "",
+    "trialInfo": "14-day free trial",
+    "trialInfo_ar": "14 يوم"
   }
 ]
