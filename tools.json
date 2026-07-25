@@ -15118,5 +15118,33 @@
     "subscriptionPrice": "",
     "trialInfo": "14-day free trial",
     "trialInfo_ar": "14 يوم"
+  },
+  {
+    "id": "tool-550",
+    "name": "Duck.ai",
+    "name_ar": "Duck.ai",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Private AI chat from DuckDuckGo for asking questions, comparing models, and getting everyday help.",
+    "description_ar": "شات ذكاء اصطناعي خاص من DuckDuckGo لطرح الأسئلة ومقارنة النماذج والحصول على مساعدة يومية.",
+    "bestFor": [
+      "Chatting with multiple AI models in a privacy-focused interface",
+      "Asking everyday questions without creating a separate AI account",
+      "Users who want quick AI help with less personal tracking"
+    ],
+    "bestFor_ar": [
+      "الدردشة مع عدة نماذج ذكاء اصطناعي داخل واجهة تركز على الخصوصية",
+      "طرح أسئلة يومية بدون إنشاء حساب ذكاء اصطناعي منفصل",
+      "المستخدمون الذين يريدون مساعدة سريعة مع تتبع شخصي أقل"
+    ],
+    "website": "https://duck.ai",
+    "logo": "https://img.logo.dev/duck.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
   }
 ]
