@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "latestAndroidVersionCode": 279,
+  "latestAndroidVersionCode": 280,
   "title_en": "New update available",
   "title_ar": "تحديث جديد متاح",
-  "message_en": "A new version of Mowazzi is available with new improvements and features.",
-  "message_ar": "يوجد إصدار جديد من موازى يحتوي على تحسينات ومميزات جديدة.",
+  "message_en": "Update Mowazzi now to get the new Daily Gift, smart reminders, performance improvements, and more",
+    "message_ar": "النسخة الجديدة من موازى وصلت، حدّث دلوقتي وجرب الهدية اليومية وتحسينات السرعة والأداء.",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.khalid.mowazziapp"
 }
