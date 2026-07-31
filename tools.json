@@ -15146,5 +15146,2777 @@
     "subscriptionPrice": "",
     "trialInfo": "",
     "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-551",
+    "name": "HuggingChat",
+    "name_ar": "HuggingChat",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "HuggingChat is a browser-based AI chat tool for practical online workflows.",
+    "description_ar": "HuggingChat أداة الدردشة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Asking questions and getting quick AI help in the browser",
+      "Drafting, summarizing, and comparing information",
+      "Users who want a simple AI assistant without extra installation"
+    ],
+    "bestFor_ar": [
+      "طرح الأسئلة والحصول على مساعدة سريعة من المتصفح",
+      "الكتابة والتلخيص ومقارنة المعلومات",
+      "المستخدمون الذين يريدون مساعد ذكاء اصطناعي بسيط بدون تثبيت إضافي"
+    ],
+    "website": "https://huggingface.co/chat",
+    "logo": "https://img.logo.dev/huggingface.co?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-552",
+    "name": "Cerebras Inference",
+    "name_ar": "Cerebras Inference",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Cerebras Inference is a browser-based AI chat tool for practical online workflows.",
+    "description_ar": "Cerebras Inference أداة الدردشة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Asking questions and getting quick AI help in the browser",
+      "Drafting, summarizing, and comparing information",
+      "Users who want a simple AI assistant without extra installation"
+    ],
+    "bestFor_ar": [
+      "طرح الأسئلة والحصول على مساعدة سريعة من المتصفح",
+      "الكتابة والتلخيص ومقارنة المعلومات",
+      "المستخدمون الذين يريدون مساعد ذكاء اصطناعي بسيط بدون تثبيت إضافي"
+    ],
+    "website": "https://inference.cerebras.ai",
+    "logo": "https://img.logo.dev/inference.cerebras.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-553",
+    "name": "Komo AI",
+    "name_ar": "Komo AI",
+    "category": "Research",
+    "category_ar": "البحث",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Komo AI is a browser-based AI research tool for practical online workflows.",
+    "description_ar": "Komo AI أداة البحث بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Researching topics and organizing findings",
+      "Summarizing documents, papers, and web information",
+      "Students, analysts, and knowledge workers"
+    ],
+    "bestFor_ar": [
+      "البحث في الموضوعات وتنظيم النتائج",
+      "تلخيص المستندات والأبحاث ومعلومات الويب",
+      "الطلاب والمحللون والعاملون في المعرفة"
+    ],
+    "website": "https://komo.ai",
+    "logo": "https://img.logo.dev/komo.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-554",
+    "name": "Ora.ai",
+    "name_ar": "Ora.ai",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Ora.ai is a browser-based AI chat tool for practical online workflows.",
+    "description_ar": "Ora.ai أداة الدردشة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Asking questions and getting quick AI help in the browser",
+      "Drafting, summarizing, and comparing information",
+      "Users who want a simple AI assistant without extra installation"
+    ],
+    "bestFor_ar": [
+      "طرح الأسئلة والحصول على مساعدة سريعة من المتصفح",
+      "الكتابة والتلخيص ومقارنة المعلومات",
+      "المستخدمون الذين يريدون مساعد ذكاء اصطناعي بسيط بدون تثبيت إضافي"
+    ],
+    "website": "https://ora.ai",
+    "logo": "https://img.logo.dev/ora.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-555",
+    "name": "HIX Chat",
+    "name_ar": "HIX Chat",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "HIX Chat is a browser-based AI chat tool for practical online workflows.",
+    "description_ar": "HIX Chat أداة الدردشة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Asking questions and getting quick AI help in the browser",
+      "Drafting, summarizing, and comparing information",
+      "Users who want a simple AI assistant without extra installation"
+    ],
+    "bestFor_ar": [
+      "طرح الأسئلة والحصول على مساعدة سريعة من المتصفح",
+      "الكتابة والتلخيص ومقارنة المعلومات",
+      "المستخدمون الذين يريدون مساعد ذكاء اصطناعي بسيط بدون تثبيت إضافي"
+    ],
+    "website": "https://hix.ai/chat",
+    "logo": "https://img.logo.dev/hix.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-556",
+    "name": "LobeChat",
+    "name_ar": "LobeChat",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "LobeChat is a browser-based AI chat tool for practical online workflows.",
+    "description_ar": "LobeChat أداة الدردشة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Asking questions and getting quick AI help in the browser",
+      "Drafting, summarizing, and comparing information",
+      "Users who want a simple AI assistant without extra installation"
+    ],
+    "bestFor_ar": [
+      "طرح الأسئلة والحصول على مساعدة سريعة من المتصفح",
+      "الكتابة والتلخيص ومقارنة المعلومات",
+      "المستخدمون الذين يريدون مساعد ذكاء اصطناعي بسيط بدون تثبيت إضافي"
+    ],
+    "website": "https://lobechat.com",
+    "logo": "https://img.logo.dev/lobechat.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-557",
+    "name": "Sourcery",
+    "name_ar": "Sourcery",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Sourcery is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "Sourcery أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://sourcery.ai",
+    "logo": "https://img.logo.dev/sourcery.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-558",
+    "name": "Greptile",
+    "name_ar": "Greptile",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Greptile is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "Greptile أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://www.greptile.com",
+    "logo": "https://img.logo.dev/greptile.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-559",
+    "name": "CodeAnt AI",
+    "name_ar": "CodeAnt AI",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "CodeAnt AI is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "CodeAnt AI أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://www.codeant.ai",
+    "logo": "https://img.logo.dev/codeant.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-560",
+    "name": "Bito",
+    "name_ar": "Bito",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Bito is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "Bito أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://bito.ai",
+    "logo": "https://img.logo.dev/bito.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-561",
+    "name": "Firebase Studio",
+    "name_ar": "Firebase Studio",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Firebase Studio is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "Firebase Studio أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://firebase.studio",
+    "logo": "https://img.logo.dev/firebase.studio?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-562",
+    "name": "Base44",
+    "name_ar": "Base44",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Base44 is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "Base44 أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://base44.com",
+    "logo": "https://img.logo.dev/base44.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-563",
+    "name": "Create.xyz",
+    "name_ar": "Create.xyz",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Create.xyz is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "Create.xyz أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://www.create.xyz",
+    "logo": "https://img.logo.dev/create.xyz?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-564",
+    "name": "Databutton",
+    "name_ar": "Databutton",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Databutton is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "Databutton أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://databutton.com",
+    "logo": "https://img.logo.dev/databutton.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-565",
+    "name": "TeleportHQ",
+    "name_ar": "TeleportHQ",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "TeleportHQ is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "TeleportHQ أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://teleporthq.io",
+    "logo": "https://img.logo.dev/teleporthq.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-566",
+    "name": "Pineapple Builder",
+    "name_ar": "Pineapple Builder",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Pineapple Builder is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Pineapple Builder أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://www.pineapplebuilder.com",
+    "logo": "https://img.logo.dev/pineapplebuilder.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-567",
+    "name": "Anima",
+    "name_ar": "Anima",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Anima is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Anima أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://www.animaapp.com",
+    "logo": "https://img.logo.dev/animaapp.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-568",
+    "name": "Galileo AI",
+    "name_ar": "Galileo AI",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Galileo AI is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Galileo AI أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://www.usegalileo.ai",
+    "logo": "https://img.logo.dev/usegalileo.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-569",
+    "name": "Napkin AI",
+    "name_ar": "Napkin AI",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Napkin AI is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Napkin AI أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://www.napkin.ai",
+    "logo": "https://img.logo.dev/napkin.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-570",
+    "name": "Eraser AI",
+    "name_ar": "Eraser AI",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Eraser AI is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Eraser AI أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://www.eraser.io/ai",
+    "logo": "https://img.logo.dev/eraser.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-571",
+    "name": "Excalidraw AI",
+    "name_ar": "Excalidraw AI",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Excalidraw AI is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Excalidraw AI أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://excalidraw.com",
+    "logo": "https://img.logo.dev/excalidraw.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-572",
+    "name": "Fal.ai",
+    "name_ar": "Fal.ai",
+    "category": "Image",
+    "category_ar": "الصور",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Fal.ai is a browser-based AI image tool for practical online workflows.",
+    "description_ar": "Fal.ai أداة الصور بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Generating or improving images from browser-based workflows",
+      "Preparing visuals for products, social media, and marketing",
+      "Creators who need quick image results without desktop software"
+    ],
+    "bestFor_ar": [
+      "توليد أو تحسين الصور من خلال سير عمل داخل المتصفح",
+      "تجهيز الصور للمنتجات والسوشيال ميديا والتسويق",
+      "المبدعون الذين يحتاجون نتائج سريعة بدون برامج سطح مكتب"
+    ],
+    "website": "https://fal.ai",
+    "logo": "https://img.logo.dev/fal.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-573",
+    "name": "Khroma",
+    "name_ar": "Khroma",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Khroma is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Khroma أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://www.khroma.co",
+    "logo": "https://img.logo.dev/khroma.co?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-574",
+    "name": "ColorMagic",
+    "name_ar": "ColorMagic",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "ColorMagic is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "ColorMagic أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://colormagic.ai",
+    "logo": "https://img.logo.dev/colormagic.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-575",
+    "name": "VectorArt.ai",
+    "name_ar": "VectorArt.ai",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "VectorArt.ai is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "VectorArt.ai أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://vectorart.ai",
+    "logo": "https://img.logo.dev/vectorart.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-576",
+    "name": "Mockuuups Studio",
+    "name_ar": "Mockuuups Studio",
+    "category": "Design",
+    "category_ar": "التصميم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Mockuuups Studio is a browser-based AI design tool for practical online workflows.",
+    "description_ar": "Mockuuups Studio أداة التصميم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating design assets and visual concepts online",
+      "Speeding up mockups, diagrams, and interface exploration",
+      "Designers and creators producing polished visuals"
+    ],
+    "bestFor_ar": [
+      "إنشاء عناصر تصميم وأفكار بصرية أونلاين",
+      "تسريع الموكابات والمخططات واستكشاف الواجهات",
+      "المصممون والمبدعون الذين ينتجون صورا احترافية"
+    ],
+    "website": "https://mockuuups.studio",
+    "logo": "https://img.logo.dev/mockuuups.studio?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-577",
+    "name": "FlexClip",
+    "name_ar": "FlexClip",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "FlexClip is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "FlexClip أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://www.flexclip.com",
+    "logo": "https://img.logo.dev/flexclip.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-578",
+    "name": "Tella",
+    "name_ar": "Tella",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Tella is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Tella أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://www.tella.tv",
+    "logo": "https://img.logo.dev/tella.tv?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-579",
+    "name": "LTX Studio",
+    "name_ar": "LTX Studio",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "LTX Studio is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "LTX Studio أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://ltx.studio",
+    "logo": "https://img.logo.dev/ltx.studio?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-580",
+    "name": "Minvo",
+    "name_ar": "Minvo",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Minvo is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Minvo أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://www.minvo.pro",
+    "logo": "https://img.logo.dev/minvo.pro?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-581",
+    "name": "Dumme",
+    "name_ar": "Dumme",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Dumme is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Dumme أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://dumme.com",
+    "logo": "https://img.logo.dev/dumme.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-582",
+    "name": "Munch",
+    "name_ar": "Munch",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Munch is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Munch أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://www.getmunch.com",
+    "logo": "https://img.logo.dev/getmunch.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-583",
+    "name": "SendShort",
+    "name_ar": "SendShort",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "SendShort is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "SendShort أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://sendshort.ai",
+    "logo": "https://img.logo.dev/sendshort.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-584",
+    "name": "Klap",
+    "name_ar": "Klap",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Klap is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Klap أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://klap.co",
+    "logo": "https://img.logo.dev/klap.co?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-585",
+    "name": "Wisecut",
+    "name_ar": "Wisecut",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Wisecut is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Wisecut أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://www.wisecut.video",
+    "logo": "https://img.logo.dev/wisecut.video?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-586",
+    "name": "Riffusion",
+    "name_ar": "Riffusion",
+    "category": "Audio",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Riffusion is a browser-based AI audio tool for practical online workflows.",
+    "description_ar": "Riffusion أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating music or audio assets online",
+      "Editing, separating, or improving sound with AI",
+      "Creators producing audio for videos, podcasts, and content"
+    ],
+    "bestFor_ar": [
+      "إنشاء موسيقى أو عناصر صوتية أونلاين",
+      "تعديل أو فصل أو تحسين الصوت بالذكاء الاصطناعي",
+      "صناع المحتوى الذين ينتجون صوتا للفيديوهات والبودكاست"
+    ],
+    "website": "https://www.riffusion.com",
+    "logo": "https://img.logo.dev/riffusion.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-587",
+    "name": "Stable Audio",
+    "name_ar": "Stable Audio",
+    "category": "Audio",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Stable Audio is a browser-based AI audio tool for practical online workflows.",
+    "description_ar": "Stable Audio أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating music or audio assets online",
+      "Editing, separating, or improving sound with AI",
+      "Creators producing audio for videos, podcasts, and content"
+    ],
+    "bestFor_ar": [
+      "إنشاء موسيقى أو عناصر صوتية أونلاين",
+      "تعديل أو فصل أو تحسين الصوت بالذكاء الاصطناعي",
+      "صناع المحتوى الذين ينتجون صوتا للفيديوهات والبودكاست"
+    ],
+    "website": "https://www.stableaudio.com",
+    "logo": "https://img.logo.dev/stableaudio.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-588",
+    "name": "MusicFX",
+    "name_ar": "MusicFX",
+    "category": "Audio",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "MusicFX is a browser-based AI audio tool for practical online workflows.",
+    "description_ar": "MusicFX أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating music or audio assets online",
+      "Editing, separating, or improving sound with AI",
+      "Creators producing audio for videos, podcasts, and content"
+    ],
+    "bestFor_ar": [
+      "إنشاء موسيقى أو عناصر صوتية أونلاين",
+      "تعديل أو فصل أو تحسين الصوت بالذكاء الاصطناعي",
+      "صناع المحتوى الذين ينتجون صوتا للفيديوهات والبودكاست"
+    ],
+    "website": "https://labs.google/fx/tools/music-fx",
+    "logo": "https://img.logo.dev/labs.google?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-589",
+    "name": "AIVA",
+    "name_ar": "AIVA",
+    "category": "Audio",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AIVA is a browser-based AI audio tool for practical online workflows.",
+    "description_ar": "AIVA أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating music or audio assets online",
+      "Editing, separating, or improving sound with AI",
+      "Creators producing audio for videos, podcasts, and content"
+    ],
+    "bestFor_ar": [
+      "إنشاء موسيقى أو عناصر صوتية أونلاين",
+      "تعديل أو فصل أو تحسين الصوت بالذكاء الاصطناعي",
+      "صناع المحتوى الذين ينتجون صوتا للفيديوهات والبودكاست"
+    ],
+    "website": "https://www.aiva.ai",
+    "logo": "https://img.logo.dev/aiva.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-590",
+    "name": "Kits AI",
+    "name_ar": "Kits AI",
+    "category": "Voice",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Kits AI is a browser-based AI voice tool for practical online workflows.",
+    "description_ar": "Kits AI أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Generating voiceovers and narration from text",
+      "Creating spoken content for videos and training materials",
+      "Creators who need fast voice production online"
+    ],
+    "bestFor_ar": [
+      "توليد التعليق الصوتي والسرد من النص",
+      "إنشاء محتوى منطوق للفيديوهات والمواد التدريبية",
+      "صناع المحتوى الذين يحتاجون إنتاجا صوتيا سريعا أونلاين"
+    ],
+    "website": "https://www.kits.ai",
+    "logo": "https://img.logo.dev/kits.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-591",
+    "name": "NaturalReader",
+    "name_ar": "NaturalReader",
+    "category": "Voice",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "NaturalReader is a browser-based AI voice tool for practical online workflows.",
+    "description_ar": "NaturalReader أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Generating voiceovers and narration from text",
+      "Creating spoken content for videos and training materials",
+      "Creators who need fast voice production online"
+    ],
+    "bestFor_ar": [
+      "توليد التعليق الصوتي والسرد من النص",
+      "إنشاء محتوى منطوق للفيديوهات والمواد التدريبية",
+      "صناع المحتوى الذين يحتاجون إنتاجا صوتيا سريعا أونلاين"
+    ],
+    "website": "https://www.naturalreaders.com",
+    "logo": "https://img.logo.dev/naturalreaders.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-592",
+    "name": "Lovo AI",
+    "name_ar": "Lovo AI",
+    "category": "Voice",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Lovo AI is a browser-based AI voice tool for practical online workflows.",
+    "description_ar": "Lovo AI أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Generating voiceovers and narration from text",
+      "Creating spoken content for videos and training materials",
+      "Creators who need fast voice production online"
+    ],
+    "bestFor_ar": [
+      "توليد التعليق الصوتي والسرد من النص",
+      "إنشاء محتوى منطوق للفيديوهات والمواد التدريبية",
+      "صناع المحتوى الذين يحتاجون إنتاجا صوتيا سريعا أونلاين"
+    ],
+    "website": "https://lovo.ai",
+    "logo": "https://img.logo.dev/lovo.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-593",
+    "name": "MeetGeek",
+    "name_ar": "MeetGeek",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "MeetGeek is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "MeetGeek أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://meetgeek.ai",
+    "logo": "https://img.logo.dev/meetgeek.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-594",
+    "name": "Sonix",
+    "name_ar": "Sonix",
+    "category": "Audio",
+    "category_ar": "الصوت",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Sonix is a browser-based AI audio tool for practical online workflows.",
+    "description_ar": "Sonix أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating music or audio assets online",
+      "Editing, separating, or improving sound with AI",
+      "Creators producing audio for videos, podcasts, and content"
+    ],
+    "bestFor_ar": [
+      "إنشاء موسيقى أو عناصر صوتية أونلاين",
+      "تعديل أو فصل أو تحسين الصوت بالذكاء الاصطناعي",
+      "صناع المحتوى الذين ينتجون صوتا للفيديوهات والبودكاست"
+    ],
+    "website": "https://sonix.ai",
+    "logo": "https://img.logo.dev/sonix.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-595",
+    "name": "LanguageTool",
+    "name_ar": "LanguageTool",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "LanguageTool is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "LanguageTool أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://languagetool.org",
+    "logo": "https://img.logo.dev/languagetool.org?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-596",
+    "name": "ProWritingAid",
+    "name_ar": "ProWritingAid",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "ProWritingAid is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "ProWritingAid أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://prowritingaid.com",
+    "logo": "https://img.logo.dev/prowritingaid.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-597",
+    "name": "Publer",
+    "name_ar": "Publer",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Publer is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Publer أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://publer.io",
+    "logo": "https://img.logo.dev/publer.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-598",
+    "name": "Predis.ai",
+    "name_ar": "Predis.ai",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Predis.ai is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Predis.ai أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://predis.ai",
+    "logo": "https://img.logo.dev/predis.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-599",
+    "name": "Ocoya",
+    "name_ar": "Ocoya",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Ocoya is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Ocoya أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://www.ocoya.com",
+    "logo": "https://img.logo.dev/ocoya.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-600",
+    "name": "Vista Social",
+    "name_ar": "Vista Social",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Vista Social is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Vista Social أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://vistasocial.com",
+    "logo": "https://img.logo.dev/vistasocial.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-601",
+    "name": "SocialBee",
+    "name_ar": "SocialBee",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "SocialBee is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "SocialBee أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://socialbee.com",
+    "logo": "https://img.logo.dev/socialbee.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-602",
+    "name": "Metricool",
+    "name_ar": "Metricool",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Metricool is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Metricool أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://metricool.com",
+    "logo": "https://img.logo.dev/metricool.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-603",
+    "name": "Pallyy",
+    "name_ar": "Pallyy",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Pallyy is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Pallyy أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://pallyy.com",
+    "logo": "https://img.logo.dev/pallyy.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-604",
+    "name": "Taplio",
+    "name_ar": "Taplio",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Taplio is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Taplio أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://taplio.com",
+    "logo": "https://img.logo.dev/taplio.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-605",
+    "name": "Tweet Hunter",
+    "name_ar": "Tweet Hunter",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Tweet Hunter is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Tweet Hunter أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://tweethunter.io",
+    "logo": "https://img.logo.dev/tweethunter.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-606",
+    "name": "FeedHive",
+    "name_ar": "FeedHive",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "FeedHive is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "FeedHive أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://www.feedhive.com",
+    "logo": "https://img.logo.dev/feedhive.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-607",
+    "name": "Ahrefs Free AI Writing Tools",
+    "name_ar": "Ahrefs Free AI Writing Tools",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Ahrefs Free AI Writing Tools is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Ahrefs Free AI Writing Tools أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://ahrefs.com/writing-tools",
+    "logo": "https://img.logo.dev/ahrefs.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-608",
+    "name": "NeuronWriter",
+    "name_ar": "NeuronWriter",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "NeuronWriter is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "NeuronWriter أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://neuronwriter.com",
+    "logo": "https://img.logo.dev/neuronwriter.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-609",
+    "name": "LowFruits",
+    "name_ar": "LowFruits",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "LowFruits is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "LowFruits أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://lowfruits.io",
+    "logo": "https://img.logo.dev/lowfruits.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-610",
+    "name": "WriterZen",
+    "name_ar": "WriterZen",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "WriterZen is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "WriterZen أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://writerzen.net",
+    "logo": "https://img.logo.dev/writerzen.net?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-611",
+    "name": "Keyword Insights",
+    "name_ar": "Keyword Insights",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Keyword Insights is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "Keyword Insights أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://www.keywordinsights.ai",
+    "logo": "https://img.logo.dev/keywordinsights.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-612",
+    "name": "CanIRank",
+    "name_ar": "CanIRank",
+    "category": "Marketing",
+    "category_ar": "التسويق",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "CanIRank is a browser-based AI marketing tool for practical online workflows.",
+    "description_ar": "CanIRank أداة التسويق بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Planning and publishing marketing content faster",
+      "Creating social posts, ads, and campaign ideas",
+      "Creators, agencies, and marketing teams"
+    ],
+    "bestFor_ar": [
+      "تخطيط ونشر المحتوى التسويقي بسرعة أكبر",
+      "إنشاء بوستات وإعلانات وأفكار حملات",
+      "صناع المحتوى والوكالات وفرق التسويق"
+    ],
+    "website": "https://www.canirank.com",
+    "logo": "https://img.logo.dev/canirank.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-613",
+    "name": "Scholarcy",
+    "name_ar": "Scholarcy",
+    "category": "Research",
+    "category_ar": "البحث",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Scholarcy is a browser-based AI research tool for practical online workflows.",
+    "description_ar": "Scholarcy أداة البحث بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Researching topics and organizing findings",
+      "Summarizing documents, papers, and web information",
+      "Students, analysts, and knowledge workers"
+    ],
+    "bestFor_ar": [
+      "البحث في الموضوعات وتنظيم النتائج",
+      "تلخيص المستندات والأبحاث ومعلومات الويب",
+      "الطلاب والمحللون والعاملون في المعرفة"
+    ],
+    "website": "https://www.scholarcy.com",
+    "logo": "https://img.logo.dev/scholarcy.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-614",
+    "name": "Documind",
+    "name_ar": "Documind",
+    "category": "Research",
+    "category_ar": "البحث",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Documind is a browser-based AI research tool for practical online workflows.",
+    "description_ar": "Documind أداة البحث بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Researching topics and organizing findings",
+      "Summarizing documents, papers, and web information",
+      "Students, analysts, and knowledge workers"
+    ],
+    "bestFor_ar": [
+      "البحث في الموضوعات وتنظيم النتائج",
+      "تلخيص المستندات والأبحاث ومعلومات الويب",
+      "الطلاب والمحللون والعاملون في المعرفة"
+    ],
+    "website": "https://documind.chat",
+    "logo": "https://img.logo.dev/documind.chat?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-615",
+    "name": "Readwise Reader AI",
+    "name_ar": "Readwise Reader AI",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Readwise Reader AI is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "Readwise Reader AI أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://readwise.io/read",
+    "logo": "https://img.logo.dev/readwise.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-616",
+    "name": "Mapify",
+    "name_ar": "Mapify",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Mapify is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "Mapify أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://mapify.so",
+    "logo": "https://img.logo.dev/mapify.so?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-617",
+    "name": "Motion",
+    "name_ar": "Motion",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Motion is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "Motion أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://www.usemotion.com",
+    "logo": "https://img.logo.dev/usemotion.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-618",
+    "name": "Reclaim AI",
+    "name_ar": "Reclaim AI",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Reclaim AI is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "Reclaim AI أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://reclaim.ai",
+    "logo": "https://img.logo.dev/reclaim.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-619",
+    "name": "Sunsama",
+    "name_ar": "Sunsama",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Sunsama is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "Sunsama أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://www.sunsama.com",
+    "logo": "https://img.logo.dev/sunsama.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-620",
+    "name": "Saner.AI",
+    "name_ar": "Saner.AI",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Saner.AI is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "Saner.AI أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://saner.ai",
+    "logo": "https://img.logo.dev/saner.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-621",
+    "name": "Capacities AI",
+    "name_ar": "Capacities AI",
+    "category": "Productivity",
+    "category_ar": "الإنتاجية",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Capacities AI is a browser-based AI productivity tool for practical online workflows.",
+    "description_ar": "Capacities AI أداة الإنتاجية بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Organizing work, notes, and priorities with AI",
+      "Planning tasks and managing daily workflows",
+      "Individuals and teams improving productivity"
+    ],
+    "bestFor_ar": [
+      "تنظيم العمل والملاحظات والأولويات بالذكاء الاصطناعي",
+      "تخطيط المهام وإدارة سير العمل اليومي",
+      "الأفراد والفرق التي تريد تحسين الإنتاجية"
+    ],
+    "website": "https://capacities.io",
+    "logo": "https://img.logo.dev/capacities.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-622",
+    "name": "Numerous.ai",
+    "name_ar": "Numerous.ai",
+    "category": "Analytics",
+    "category_ar": "التحليلات",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Numerous.ai is a browser-based AI analytics tool for practical online workflows.",
+    "description_ar": "Numerous.ai أداة التحليلات بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Analyzing data and turning it into clear insights",
+      "Working with spreadsheets, reports, and dashboards",
+      "Teams that need faster business understanding"
+    ],
+    "bestFor_ar": [
+      "تحليل البيانات وتحويلها إلى رؤى واضحة",
+      "العمل مع الجداول والتقارير ولوحات البيانات",
+      "الفرق التي تحتاج فهما أسرع للأعمال"
+    ],
+    "website": "https://numerous.ai",
+    "logo": "https://img.logo.dev/numerous.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-623",
+    "name": "Beam",
+    "name_ar": "Beam",
+    "category": "Business",
+    "category_ar": "الأعمال",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Beam is a browser-based AI business tool for practical online workflows.",
+    "description_ar": "Beam أداة الأعمال بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Automating business workflows and customer interactions",
+      "Turning company knowledge into practical AI assistance",
+      "Teams improving sales, support, and operations"
+    ],
+    "bestFor_ar": [
+      "أتمتة سير العمل والتفاعلات مع العملاء",
+      "تحويل معرفة الشركة إلى مساعدات عملية بالذكاء الاصطناعي",
+      "الفرق التي تطور المبيعات والدعم والتشغيل"
+    ],
+    "website": "https://beam.ai",
+    "logo": "https://img.logo.dev/beam.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-624",
+    "name": "AutoGPT",
+    "name_ar": "AutoGPT",
+    "category": "Business",
+    "category_ar": "الأعمال",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "AutoGPT is a browser-based AI business tool for practical online workflows.",
+    "description_ar": "AutoGPT أداة الأعمال بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Automating business workflows and customer interactions",
+      "Turning company knowledge into practical AI assistance",
+      "Teams improving sales, support, and operations"
+    ],
+    "bestFor_ar": [
+      "أتمتة سير العمل والتفاعلات مع العملاء",
+      "تحويل معرفة الشركة إلى مساعدات عملية بالذكاء الاصطناعي",
+      "الفرق التي تطور المبيعات والدعم والتشغيل"
+    ],
+    "website": "https://agpt.co",
+    "logo": "https://img.logo.dev/agpt.co?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-625",
+    "name": "LangChain",
+    "name_ar": "LangChain",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "LangChain is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "LangChain أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://www.langchain.com",
+    "logo": "https://img.logo.dev/langchain.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-626",
+    "name": "LlamaIndex",
+    "name_ar": "LlamaIndex",
+    "category": "Coding",
+    "category_ar": "البرمجة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "LlamaIndex is a browser-based AI coding tool for practical online workflows.",
+    "description_ar": "LlamaIndex أداة البرمجة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Writing, reviewing, and improving code with AI assistance",
+      "Explaining technical problems and speeding up development",
+      "Developers and founders building software products"
+    ],
+    "bestFor_ar": [
+      "كتابة ومراجعة وتحسين الكود بمساعدة الذكاء الاصطناعي",
+      "شرح المشكلات التقنية وتسريع التطوير",
+      "المطورون والمؤسسون الذين يبنون منتجات برمجية"
+    ],
+    "website": "https://www.llamaindex.ai",
+    "logo": "https://img.logo.dev/llamaindex.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-627",
+    "name": "NeuralText",
+    "name_ar": "NeuralText",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "NeuralText is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "NeuralText أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://neuraltext.com",
+    "logo": "https://img.logo.dev/neuraltext.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-628",
+    "name": "Novelcrafter",
+    "name_ar": "Novelcrafter",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Novelcrafter is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Novelcrafter أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://www.novelcrafter.com",
+    "logo": "https://img.logo.dev/novelcrafter.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-629",
+    "name": "Writer",
+    "name_ar": "Writer",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free Trial",
+    "pricing_ar": "تجربة مجانية",
+    "description": "Writer is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Writer أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://writer.com",
+    "logo": "https://img.logo.dev/writer.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "Free trial available",
+    "trialInfo_ar": "تجربة مجانية"
+  },
+  {
+    "id": "tool-630",
+    "name": "Free.ai",
+    "name_ar": "Free.ai",
+    "category": "Chat",
+    "category_ar": "الدردشة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Free.ai is a browser-based AI chat tool for practical online workflows.",
+    "description_ar": "Free.ai أداة الدردشة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Asking questions and getting quick AI help in the browser",
+      "Drafting, summarizing, and comparing information",
+      "Users who want a simple AI assistant without extra installation"
+    ],
+    "bestFor_ar": [
+      "طرح الأسئلة والحصول على مساعدة سريعة من المتصفح",
+      "الكتابة والتلخيص ومقارنة المعلومات",
+      "المستخدمون الذين يريدون مساعد ذكاء اصطناعي بسيط بدون تثبيت إضافي"
+    ],
+    "website": "https://free.ai",
+    "logo": "https://img.logo.dev/free.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-631",
+    "name": "Textero",
+    "name_ar": "Textero",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Textero is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Textero أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://www.textero.ai",
+    "logo": "https://img.logo.dev/textero.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-632",
+    "name": "Trinka AI",
+    "name_ar": "Trinka AI",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Trinka AI is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Trinka AI أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://www.trinka.ai",
+    "logo": "https://img.logo.dev/trinka.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-633",
+    "name": "Writefull",
+    "name_ar": "Writefull",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Writefull is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Writefull أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://www.writefull.com",
+    "logo": "https://img.logo.dev/writefull.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-634",
+    "name": "Revisely",
+    "name_ar": "Revisely",
+    "category": "Education",
+    "category_ar": "التعليم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Revisely is a browser-based AI education tool for practical online workflows.",
+    "description_ar": "Revisely أداة التعليم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating quizzes, study notes, and learning materials",
+      "Supporting teachers, students, and self-learners",
+      "Improving study practice and classroom preparation"
+    ],
+    "bestFor_ar": [
+      "إنشاء اختبارات وملاحظات ومواد تعليمية",
+      "مساعدة المعلمين والطلاب والمتعلمين ذاتيا",
+      "تحسين التدريب الدراسي وتجهيز الدروس"
+    ],
+    "website": "https://www.revisely.com",
+    "logo": "https://img.logo.dev/revisely.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-635",
+    "name": "Quizgecko",
+    "name_ar": "Quizgecko",
+    "category": "Education",
+    "category_ar": "التعليم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Quizgecko is a browser-based AI education tool for practical online workflows.",
+    "description_ar": "Quizgecko أداة التعليم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating quizzes, study notes, and learning materials",
+      "Supporting teachers, students, and self-learners",
+      "Improving study practice and classroom preparation"
+    ],
+    "bestFor_ar": [
+      "إنشاء اختبارات وملاحظات ومواد تعليمية",
+      "مساعدة المعلمين والطلاب والمتعلمين ذاتيا",
+      "تحسين التدريب الدراسي وتجهيز الدروس"
+    ],
+    "website": "https://quizgecko.com",
+    "logo": "https://img.logo.dev/quizgecko.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-636",
+    "name": "JotBot AI",
+    "name_ar": "JotBot AI",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "JotBot AI is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "JotBot AI أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://myjotbot.com",
+    "logo": "https://img.logo.dev/myjotbot.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-637",
+    "name": "SchoolAI",
+    "name_ar": "SchoolAI",
+    "category": "Education",
+    "category_ar": "التعليم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "SchoolAI is a browser-based AI education tool for practical online workflows.",
+    "description_ar": "SchoolAI أداة التعليم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating quizzes, study notes, and learning materials",
+      "Supporting teachers, students, and self-learners",
+      "Improving study practice and classroom preparation"
+    ],
+    "bestFor_ar": [
+      "إنشاء اختبارات وملاحظات ومواد تعليمية",
+      "مساعدة المعلمين والطلاب والمتعلمين ذاتيا",
+      "تحسين التدريب الدراسي وتجهيز الدروس"
+    ],
+    "website": "https://schoolai.com",
+    "logo": "https://img.logo.dev/schoolai.com?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-638",
+    "name": "MagicSchool AI",
+    "name_ar": "MagicSchool AI",
+    "category": "Education",
+    "category_ar": "التعليم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "MagicSchool AI is a browser-based AI education tool for practical online workflows.",
+    "description_ar": "MagicSchool AI أداة التعليم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating quizzes, study notes, and learning materials",
+      "Supporting teachers, students, and self-learners",
+      "Improving study practice and classroom preparation"
+    ],
+    "bestFor_ar": [
+      "إنشاء اختبارات وملاحظات ومواد تعليمية",
+      "مساعدة المعلمين والطلاب والمتعلمين ذاتيا",
+      "تحسين التدريب الدراسي وتجهيز الدروس"
+    ],
+    "website": "https://www.magicschool.ai",
+    "logo": "https://img.logo.dev/magicschool.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-639",
+    "name": "Conker",
+    "name_ar": "Conker",
+    "category": "Education",
+    "category_ar": "التعليم",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Conker is a browser-based AI education tool for practical online workflows.",
+    "description_ar": "Conker أداة التعليم بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating quizzes, study notes, and learning materials",
+      "Supporting teachers, students, and self-learners",
+      "Improving study practice and classroom preparation"
+    ],
+    "bestFor_ar": [
+      "إنشاء اختبارات وملاحظات ومواد تعليمية",
+      "مساعدة المعلمين والطلاب والمتعلمين ذاتيا",
+      "تحسين التدريب الدراسي وتجهيز الدروس"
+    ],
+    "website": "https://www.conker.ai",
+    "logo": "https://img.logo.dev/conker.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-640",
+    "name": "StoryLab.ai",
+    "name_ar": "StoryLab.ai",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "StoryLab.ai is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "StoryLab.ai أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://storylab.ai",
+    "logo": "https://img.logo.dev/storylab.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-641",
+    "name": "Cohesive",
+    "name_ar": "Cohesive",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Cohesive is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Cohesive أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://cohesive.so",
+    "logo": "https://img.logo.dev/cohesive.so?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-642",
+    "name": "Narrato",
+    "name_ar": "Narrato",
+    "category": "Writing",
+    "category_ar": "الكتابة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Narrato is a browser-based AI writing tool for practical online workflows.",
+    "description_ar": "Narrato أداة الكتابة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Drafting and improving written content faster",
+      "Adapting tone, structure, and clarity for different audiences",
+      "Writers and marketers producing frequent content"
+    ],
+    "bestFor_ar": [
+      "كتابة وتحسين المحتوى النصي بسرعة أكبر",
+      "تعديل النبرة والبناء والوضوح لجماهير مختلفة",
+      "الكتاب والمسوقون الذين ينتجون محتوى باستمرار"
+    ],
+    "website": "https://narrato.io",
+    "logo": "https://img.logo.dev/narrato.io?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-643",
+    "name": "Transmonkey",
+    "name_ar": "Transmonkey",
+    "category": "Translation",
+    "category_ar": "الترجمة",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Transmonkey is a browser-based AI translation tool for practical online workflows.",
+    "description_ar": "Transmonkey أداة الترجمة بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Translating text and multilingual content online",
+      "Adapting wording for different languages and audiences",
+      "Users working with international communication"
+    ],
+    "bestFor_ar": [
+      "ترجمة النصوص والمحتوى متعدد اللغات أونلاين",
+      "تعديل الصياغة للغات وجماهير مختلفة",
+      "المستخدمون الذين يتعاملون مع تواصل دولي"
+    ],
+    "website": "https://www.transmonkey.ai",
+    "logo": "https://img.logo.dev/transmonkey.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-644",
+    "name": "Phot.AI",
+    "name_ar": "Phot.AI",
+    "category": "Image",
+    "category_ar": "الصور",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Phot.AI is a browser-based AI image tool for practical online workflows.",
+    "description_ar": "Phot.AI أداة الصور بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Generating or improving images from browser-based workflows",
+      "Preparing visuals for products, social media, and marketing",
+      "Creators who need quick image results without desktop software"
+    ],
+    "bestFor_ar": [
+      "توليد أو تحسين الصور من خلال سير عمل داخل المتصفح",
+      "تجهيز الصور للمنتجات والسوشيال ميديا والتسويق",
+      "المبدعون الذين يحتاجون نتائج سريعة بدون برامج سطح مكتب"
+    ],
+    "website": "https://www.phot.ai",
+    "logo": "https://img.logo.dev/phot.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-645",
+    "name": "Vmake AI",
+    "name_ar": "Vmake AI",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Vmake AI is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Vmake AI أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://vmake.ai",
+    "logo": "https://img.logo.dev/vmake.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-646",
+    "name": "Revid AI",
+    "name_ar": "Revid AI",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Revid AI is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Revid AI أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://www.revid.ai",
+    "logo": "https://img.logo.dev/revid.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-647",
+    "name": "Listnr",
+    "name_ar": "Listnr",
+    "category": "Voice",
+    "category_ar": "الصوت",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Listnr is a browser-based AI voice tool for practical online workflows.",
+    "description_ar": "Listnr أداة الصوت بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Generating voiceovers and narration from text",
+      "Creating spoken content for videos and training materials",
+      "Creators who need fast voice production online"
+    ],
+    "bestFor_ar": [
+      "توليد التعليق الصوتي والسرد من النص",
+      "إنشاء محتوى منطوق للفيديوهات والمواد التدريبية",
+      "صناع المحتوى الذين يحتاجون إنتاجا صوتيا سريعا أونلاين"
+    ],
+    "website": "https://listnr.ai",
+    "logo": "https://img.logo.dev/listnr.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-648",
+    "name": "Chatsimple",
+    "name_ar": "Chatsimple",
+    "category": "Business",
+    "category_ar": "الأعمال",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Chatsimple is a browser-based AI business tool for practical online workflows.",
+    "description_ar": "Chatsimple أداة الأعمال بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Automating business workflows and customer interactions",
+      "Turning company knowledge into practical AI assistance",
+      "Teams improving sales, support, and operations"
+    ],
+    "bestFor_ar": [
+      "أتمتة سير العمل والتفاعلات مع العملاء",
+      "تحويل معرفة الشركة إلى مساعدات عملية بالذكاء الاصطناعي",
+      "الفرق التي تطور المبيعات والدعم والتشغيل"
+    ],
+    "website": "https://www.chatsimple.ai",
+    "logo": "https://img.logo.dev/chatsimple.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
+  },
+  {
+    "id": "tool-649",
+    "name": "Wizstar",
+    "name_ar": "Wizstar",
+    "category": "Video",
+    "category_ar": "الفيديو",
+    "pricing": "Free",
+    "pricing_ar": "مجاني",
+    "description": "Wizstar is a browser-based AI video tool for practical online workflows.",
+    "description_ar": "Wizstar أداة الفيديو بالذكاء الاصطناعي تعمل من المتصفح لسير عمل عملي أونلاين.",
+    "bestFor": [
+      "Creating or editing videos directly in the browser",
+      "Producing short clips, ads, and social videos faster",
+      "Creators and marketers working with video content"
+    ],
+    "bestFor_ar": [
+      "إنشاء أو تعديل الفيديوهات مباشرة من المتصفح",
+      "إنتاج المقاطع القصيرة والإعلانات وفيديوهات السوشيال بسرعة أكبر",
+      "صناع المحتوى والمسوقون الذين يعملون على الفيديو"
+    ],
+    "website": "https://wizstar-test.wizstar.ai/tools",
+    "logo": "https://img.logo.dev/wizstar-test.wizstar.ai?token=pk_DU2ZSNDoSsSj3ycH4ua8Uw&size=80&retina=true&format=png",
+    "isTrending": true,
+    "trendingScore": 91,
+    "subscriptionPrice": "",
+    "trialInfo": "",
+    "trialInfo_ar": ""
   }
 ]
