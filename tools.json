@@ -25,7 +25,61 @@
     "trendingScore": 99,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Start a new chat",
+        "description": "Open ChatGPT at chatgpt.com and start a new conversation. Use a fresh chat when the task is unrelated to previous work so older context does not affect the answer."
+      },
+      {
+        "title": "Describe the exact task",
+        "description": "Write what you want ChatGPT to do, then include the goal, relevant background, constraints, audience, and the output format you want instead of sending only a vague topic."
+      },
+      {
+        "title": "Attach source material when needed",
+        "description": "If the task depends on a document, spreadsheet, image, or other supported file, attach it from the message composer when that option is available so ChatGPT can work from the actual source."
+      },
+      {
+        "title": "Send the prompt and inspect the result",
+        "description": "Submit the message, then check the answer against your goal and source material. Pay special attention to facts, calculations, code, or instructions that matter to your final work."
+      },
+      {
+        "title": "Refine with specific follow-ups",
+        "description": "Stay in the same chat and tell ChatGPT exactly what should change—for example, shorten one section, use a different tone, fix a specific error, compare alternatives, or explain a confusing part."
+      },
+      {
+        "title": "Keep related work in the same conversation",
+        "description": "Continue follow-up questions in the same chat when you want ChatGPT to use the existing context. Start a new chat when you want a clean context for a different task."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "ابدأ محادثة جديدة",
+        "description": "افتح ChatGPT من chatgpt.com وابدأ محادثة جديدة. استخدم شات جديد لو المهمة مختلفة تماما عن شغلك السابق علشان السياق القديم ما يأثرش على الإجابة."
+      },
+      {
+        "title": "اكتب المطلوب بشكل محدد",
+        "description": "اكتب بالضبط عايز ChatGPT يعمل إيه، وأضف الهدف والسياق المهم والقيود والجمهور وشكل النتيجة المطلوبة بدل ما تكتب موضوع عام فقط."
+      },
+      {
+        "title": "ارفق الملفات عند الحاجة",
+        "description": "لو المهمة معتمدة على مستند أو جدول أو صورة أو ملف مدعوم، ارفقه من مربع الرسالة عندما يكون خيار الإرفاق متاحا علشان ChatGPT يشتغل على المصدر نفسه."
+      },
+      {
+        "title": "أرسل الطلب وراجع النتيجة",
+        "description": "أرسل الرسالة ثم راجع الإجابة مقارنة بهدفك والمصادر التي استخدمتها. ركز خصوصا على الحقائق والحسابات والكود أو التعليمات المهمة لشغلك."
+      },
+      {
+        "title": "عدّل النتيجة بمتابعة واضحة",
+        "description": "كمل في نفس المحادثة واطلب التعديل بشكل محدد، مثل تقصير جزء معين أو تغيير النبرة أو إصلاح خطأ بعينه أو مقارنة بدائل أو شرح نقطة غير واضحة."
+      },
+      {
+        "title": "حافظ على سياق المهمة",
+        "description": "استخدم نفس المحادثة للأسئلة المرتبطة ببعضها حتى يستفيد ChatGPT من السياق السابق، وابدأ محادثة جديدة عندما تريد بداية نظيفة لموضوع مختلف."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "2",
@@ -53,7 +107,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Open Canva AI",
+        "description": "Sign in to Canva and open the Canva AI entry point available from your Canva home experience. Availability and the exact AI entry may vary as Canva rolls out newer AI experiences."
+      },
+      {
+        "title": "Give it a real design brief",
+        "description": "Describe the deliverable, audience, goal, format, and visual direction—for example a social post, presentation, flyer, or campaign concept—rather than entering only a short subject."
+      },
+      {
+        "title": "Generate the first editable draft",
+        "description": "Ask Canva AI to create the design or content you need. Canva's newer AI experience can turn the brief into an editable design rather than a flattened final image."
+      },
+      {
+        "title": "Refine it conversationally",
+        "description": "Ask for precise changes such as a different headline, image direction, layout, tone, or visual style. Keep the requests specific so Canva AI can revise the same concept instead of starting randomly."
+      },
+      {
+        "title": "Edit individual design elements",
+        "description": "Open the generated design in Canva and manually adjust text, images, colors, spacing, or other layered elements. Apply your Brand Kit or brand assets if your Canva setup includes them."
+      },
+      {
+        "title": "Review and export in Canva",
+        "description": "Check the final size, text, alignment, and brand consistency, then use Canva's normal Share, Download, or Publish controls for the destination you need."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "افتح Canva AI",
+        "description": "سجل دخولك إلى Canva وافتح مدخل Canva AI المتاح في الصفحة الرئيسية لحسابك. مكان وخصائص تجربة الذكاء قد تختلف قليلا مع طرح Canva للتحديثات الجديدة."
+      },
+      {
+        "title": "اكتب بريف تصميم حقيقي",
+        "description": "حدد نوع التصميم والجمهور والهدف والمقاس والاتجاه البصري، مثل بوست سوشيال أو عرض تقديمي أو فلاير أو فكرة حملة، بدل ما تكتب موضوعا قصيرا فقط."
+      },
+      {
+        "title": "ولّد المسودة الأولى",
+        "description": "اطلب من Canva AI إنشاء التصميم أو المحتوى المطلوب. تجربة Canva AI الحديثة تستطيع تحويل البريف إلى تصميم قابل للتعديل وليس مجرد صورة نهائية مسطحة."
+      },
+      {
+        "title": "عدّل التصميم بالمحادثة",
+        "description": "اطلب تغييرات محددة مثل عنوان مختلف أو اتجاه جديد للصورة أو تعديل التخطيط أو النبرة أو الأسلوب البصري، حتى يطور Canva نفس الفكرة بشكل منظم."
+      },
+      {
+        "title": "عدّل العناصر بنفسك",
+        "description": "افتح التصميم الناتج داخل Canva وعدّل النصوص والصور والألوان والمسافات والعناصر القابلة للتحرير. استخدم Brand Kit أو أصول البراند لو كانت متاحة في حسابك."
+      },
+      {
+        "title": "راجع وصدّر من Canva",
+        "description": "راجع المقاس والنصوص والمحاذاة وتناسق الهوية، ثم استخدم خيارات Share أو Download أو Publish العادية في Canva حسب المكان الذي ستستخدم فيه التصميم."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "3",
@@ -81,7 +189,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Open Pollinations Play",
+        "description": "Open Pollinations and enter its Play experience to use the browser interface instead of starting with API code."
+      },
+      {
+        "title": "Choose what you want to generate",
+        "description": "Select the available generation mode that matches your task, such as image, text, audio, or video. Pollinations exposes different models and controls depending on the media type."
+      },
+      {
+        "title": "Write a prompt for that output",
+        "description": "Describe the requested result with details that matter to the selected medium—for example subject and style for an image, or purpose and content for text."
+      },
+      {
+        "title": "Set the available generation options",
+        "description": "Choose the model and any controls exposed for that mode. Image workflows can include options such as dimensions and seed, while other media types expose their own supported settings."
+      },
+      {
+        "title": "Generate and refine",
+        "description": "Run the generation, inspect the output, then change the prompt, model, or settings when the result is not close enough to what you need."
+      },
+      {
+        "title": "Use the API only when you need automation",
+        "description": "For an app or automated workflow, create the appropriate Pollinations key through its dashboard and follow the official API documentation for the endpoint and authentication required by your chosen model."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "افتح Pollinations Play",
+        "description": "افتح Pollinations وادخل إلى تجربة Play لاستخدام واجهة التوليد من المتصفح بدل البدء مباشرة بكود الـ API."
+      },
+      {
+        "title": "اختر نوع المحتوى",
+        "description": "اختر وضع التوليد المناسب لمهمتك مثل الصور أو النصوص أو الصوت أو الفيديو. النماذج والإعدادات المتاحة تختلف حسب نوع المحتوى الذي اخترته."
+      },
+      {
+        "title": "اكتب أمرا مناسبا للنتيجة",
+        "description": "صف النتيجة المطلوبة بالتفاصيل المهمة لنوع المحتوى، مثل الموضوع والأسلوب للصورة أو الهدف والمحتوى المطلوب عند توليد النص."
+      },
+      {
+        "title": "اضبط إعدادات التوليد",
+        "description": "اختر النموذج والإعدادات التي تعرضها الواجهة لهذا النوع. في الصور قد تجد خيارات مثل الأبعاد وSeed، بينما الأنواع الأخرى لها إعداداتها المدعومة."
+      },
+      {
+        "title": "ولّد ثم حسّن النتيجة",
+        "description": "شغّل التوليد وراجع الناتج، ثم عدّل الأمر أو النموذج أو الإعدادات لو النتيجة لم تصل للشكل الذي تريده."
+      },
+      {
+        "title": "استخدم الـ API للأتمتة فقط",
+        "description": "لو ستربط Pollinations بتطبيق أو سير عمل آلي، أنشئ المفتاح المناسب من لوحة Pollinations واتبع توثيق الـ API الرسمي للـ endpoint وطريقة المصادقة الخاصة بالنموذج الذي ستستخدمه."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "4",
@@ -109,7 +271,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Build the knowledge base first",
+        "description": "Open Cody's Content area and add the information your assistant should know. You can create content or upload supported business documents such as PDF, PowerPoint, and Word files."
+      },
+      {
+        "title": "Wait for Cody to learn the content",
+        "description": "Make sure the uploaded content finishes processing before testing the assistant. Cody's documented workflow shows learned content as ready with a green check."
+      },
+      {
+        "title": "Create and configure the bot",
+        "description": "Create the assistant for the job you want it to perform, such as internal knowledge, customer support, or client questions, and connect it to the correct knowledge directory."
+      },
+      {
+        "title": "Test with real questions",
+        "description": "Open Conversations and ask questions that actual users would ask. Check whether Cody answers from the intended company knowledge rather than only judging how fluent the response sounds."
+      },
+      {
+        "title": "Fix the source when an answer is wrong",
+        "description": "If Cody gives an inaccurate answer, review and update the underlying source content or the bot's configuration, then test the same question again."
+      },
+      {
+        "title": "Share the tested assistant",
+        "description": "After the answers are reliable, deploy the bot using the sharing method that fits your use case, such as a shareable link, inline website embed, or popup integration."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "ابن قاعدة المعرفة أولا",
+        "description": "افتح قسم Content في Cody وأضف المعلومات التي يجب أن يعرفها المساعد. يمكنك إنشاء محتوى أو رفع مستندات أعمال مدعومة مثل PDF وPowerPoint وWord."
+      },
+      {
+        "title": "انتظر حتى يتعلم Cody المحتوى",
+        "description": "تأكد أن الملفات انتهت من المعالجة قبل اختبار المساعد. في سير العمل الموثق لدى Cody يظهر المحتوى الجاهز بعلامة صح خضراء."
+      },
+      {
+        "title": "أنشئ البوت واضبط دوره",
+        "description": "أنشئ المساعد حسب المهمة المطلوبة مثل معرفة الشركة الداخلية أو دعم العملاء أو أسئلة العملاء، واربطه بدليل المعرفة الصحيح."
+      },
+      {
+        "title": "اختبره بأسئلة حقيقية",
+        "description": "افتح Conversations واسأله أسئلة مشابهة لما سيسأله المستخدمون فعلا. راجع هل الإجابة مبنية على معلومات الشركة الصحيحة وليس فقط هل صياغتها جيدة."
+      },
+      {
+        "title": "صحح المصدر لو الإجابة غلط",
+        "description": "إذا أعطى Cody إجابة غير دقيقة، عدّل المحتوى المصدر أو إعدادات البوت ثم أعد اختبار نفس السؤال للتأكد أن المشكلة اتصلحت."
+      },
+      {
+        "title": "انشر المساعد بعد اختباره",
+        "description": "بعد التأكد من جودة الإجابات، شارك البوت بالطريقة المناسبة لاستخدامك مثل رابط مباشر أو تضمين Inline داخل الموقع أو Popup."
+      }
+    ],
+    "tutorial_video": "https://www.youtube.com/watch?v=7YzrEU1QfsI",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "5",
@@ -137,7 +353,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Open Stability's browser image experience",
+        "description": "Because Stable Diffusion is a model family rather than one fixed interface, use Stability AI's browser product such as Stable Assistant when you want a guided web workflow."
+      },
+      {
+        "title": "Describe the image in detail",
+        "description": "Enter an image request that clearly describes the subject, environment, composition, and visual style you want instead of relying on a few isolated keywords."
+      },
+      {
+        "title": "Set the aspect ratio",
+        "description": "Open the available Settings before generation and choose an aspect ratio that matches the destination, such as portrait, landscape, or square."
+      },
+      {
+        "title": "Generate and compare another version",
+        "description": "Generate the image and inspect the result. If the concept is close but not right, use the available regenerate/version control or revise the prompt for another result."
+      },
+      {
+        "title": "Attach an image for editing",
+        "description": "For image-to-image work, add your own image with the attachment control or drag and drop it into the conversation, then send the edit request you want Stability to perform."
+      },
+      {
+        "title": "Use the image Toolbox for precise edits",
+        "description": "Open the Toolbox on a generated or uploaded image for supported operations such as Search and Replace, Recolor, Erase, Inpaint, background changes, Enhance, Upscale, or Sketch to Image."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "افتح تجربة Stability من المتصفح",
+        "description": "لأن Stable Diffusion عائلة نماذج وليست واجهة واحدة ثابتة، استخدم منتج Stability AI على الويب مثل Stable Assistant عندما تريد سير عمل واضحا من المتصفح."
+      },
+      {
+        "title": "صف الصورة بالتفصيل",
+        "description": "اكتب وصفا يحدد الموضوع والبيئة والتكوين والأسلوب البصري المطلوب بدل الاعتماد على كلمات متفرقة وقصيرة فقط."
+      },
+      {
+        "title": "حدد أبعاد الصورة",
+        "description": "افتح Settings المتاحة قبل التوليد واختر Aspect Ratio يناسب الاستخدام النهائي مثل صورة طولية أو عرضية أو مربعة."
+      },
+      {
+        "title": "ولّد وقارن نسخة أخرى",
+        "description": "ولّد الصورة وراجع النتيجة. لو الفكرة قريبة لكن غير مناسبة، استخدم خيار إعادة التوليد أو النسخة الجديدة المتاح أو عدّل الوصف للحصول على نتيجة أخرى."
+      },
+      {
+        "title": "ارفق صورة لو عايز تعدلها",
+        "description": "في مهام تعديل الصور، أضف صورتك من زر الإرفاق أو بالسحب والإفلات داخل المحادثة ثم أرسل وصف التعديل الذي تريد تنفيذه."
+      },
+      {
+        "title": "استخدم Toolbox للتعديلات الدقيقة",
+        "description": "افتح Toolbox على الصورة المولدة أو المرفوعة لاستخدام العمليات المدعومة مثل Search and Replace وRecolor وErase وInpaint وتغيير الخلفية وEnhance وUpscale وSketch to Image."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "6",
@@ -165,7 +435,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Add the material you are studying",
+        "description": "Upload your study source to JungleAI or paste a supported link. JungleAI is built to work from materials such as PDFs, webpages, PowerPoints, notes, textbooks, study guides, and YouTube links."
+      },
+      {
+        "title": "Create a study set from that source",
+        "description": "Let JungleAI process the material into a study set so the questions and flashcards are grounded in the content you actually supplied."
+      },
+      {
+        "title": "Choose the practice format",
+        "description": "Select the format that fits how you want to study, such as multiple-choice questions, free-response questions, case questions, or flashcards."
+      },
+      {
+        "title": "Generate the questions or flashcards",
+        "description": "Run the generator for the selected material and format, then review the produced items before treating them as your final study deck."
+      },
+      {
+        "title": "Edit weak or unclear items",
+        "description": "Correct, remove, or rewrite generated questions and flashcards that are ambiguous, duplicated, or not useful for the topic you are trying to learn."
+      },
+      {
+        "title": "Practice or export reviewed flashcards",
+        "description": "Use the finished set for active recall and quiz practice. If you study in Anki, export the flashcards after reviewing them so the deck you import is already cleaned up."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "أضف المادة التي تذاكرها",
+        "description": "ارفع مصدر الدراسة إلى JungleAI أو الصق رابطا مدعوما. الأداة مصممة للعمل من مصادر مثل PDF وصفحات الويب وPowerPoint والملاحظات والكتب والمراجعات وروابط YouTube."
+      },
+      {
+        "title": "أنشئ مجموعة دراسة من المصدر",
+        "description": "دع JungleAI يعالج المادة ويحولها إلى Study Set حتى تكون الأسئلة والبطاقات مبنية على المحتوى الذي رفعته فعلا."
+      },
+      {
+        "title": "اختر نوع التدريب",
+        "description": "حدد طريقة المذاكرة المناسبة لك مثل أسئلة الاختيار من متعدد أو الإجابات الحرة أو Case Questions أو Flashcards."
+      },
+      {
+        "title": "ولّد الأسئلة أو البطاقات",
+        "description": "شغّل التوليد على المادة والنوع الذي اخترته ثم راجع العناصر الناتجة قبل اعتمادها كمجموعة مذاكرة نهائية."
+      },
+      {
+        "title": "عدّل العناصر الضعيفة",
+        "description": "صحح أو احذف أو أعد صياغة الأسئلة والبطاقات غير الواضحة أو المتكررة أو غير المفيدة للموضوع الذي تريد تعلمه."
+      },
+      {
+        "title": "تدرّب أو صدّر إلى Anki",
+        "description": "استخدم المجموعة النهائية في Active Recall والاختبارات. ولو بتذاكر على Anki صدّر البطاقات بعد مراجعتها حتى تدخل إليه بمجموعة نظيفة وجاهزة."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "7",
@@ -193,7 +517,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Choose a model or a starting template",
+        "description": "Open NightCafe's Create experience and choose a model or template that suits the result you want. Current NightCafe models differ in strengths such as realism, typography, editing, and other creative tasks."
+      },
+      {
+        "title": "Take control of template settings when needed",
+        "description": "If you start from a template and want to change its hidden defaults, use NightCafe's Take Control option so you can edit the model, prompt, image, aspect, or other settings exposed by that template."
+      },
+      {
+        "title": "Write a descriptive art prompt",
+        "description": "Describe the main subject, scene or action, and visual style clearly. NightCafe's own prompt guidance favors specific descriptive language over disconnected keywords."
+      },
+      {
+        "title": "Set format and reference options",
+        "description": "Choose the aspect ratio or resolution you need and, when supported by the selected workflow, add a start or reference image and adjust its influence."
+      },
+      {
+        "title": "Generate and compare the outputs",
+        "description": "Create the images and compare the generated variations before deciding which direction is strongest."
+      },
+      {
+        "title": "Refine the strongest result",
+        "description": "Improve the favorite by changing the prompt, model, or settings, or by using the relevant NightCafe editing, start-image, inpainting, or upscaling controls available for that workflow."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "اختر النموذج أو القالب",
+        "description": "افتح تجربة Create في NightCafe واختر Model أو Template مناسب للنتيجة التي تريدها. النماذج الحالية تختلف في قوتها مثل الواقعية أو النصوص أو التعديل والمهام الإبداعية الأخرى."
+      },
+      {
+        "title": "استخدم Take Control عند الحاجة",
+        "description": "لو بدأت من Template وتريد تغيير إعداداته الافتراضية، استخدم Take Control حتى تقدر تعدّل النموذج أو الأمر أو الصورة أو الأبعاد والإعدادات التي يتيحها القالب."
+      },
+      {
+        "title": "اكتب وصفا فنيا واضحا",
+        "description": "حدد الموضوع الأساسي والمشهد أو الحركة والأسلوب البصري بوضوح. إرشادات NightCafe نفسها تفضل الوصف المحدد على مجموعة كلمات منفصلة."
+      },
+      {
+        "title": "اضبط المقاس والصورة المرجعية",
+        "description": "اختر Aspect Ratio أو الدقة المناسبة، ولو سير العمل المختار يدعم ذلك أضف Start Image أو صورة مرجعية واضبط مدى تأثيرها."
+      },
+      {
+        "title": "ولّد وقارن النتائج",
+        "description": "أنشئ الصور وقارن الـ variations الناتجة قبل اختيار الاتجاه الأقوى بالنسبة للفكرة التي تريدها."
+      },
+      {
+        "title": "طوّر أفضل نتيجة",
+        "description": "حسّن الصورة المفضلة بتعديل الأمر أو النموذج أو الإعدادات، أو استخدم أدوات NightCafe المناسبة للتعديل أو Start Image أو Inpainting أو Upscaling حسب سير العمل المتاح."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "8",
@@ -221,7 +599,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Open the AI photoshoot flow",
+        "description": "Open Profile Picture AI's Studio Photoshoot or profile-picture creation flow rather than uploading a photo to an unrelated image tool."
+      },
+      {
+        "title": "Choose the portrait style",
+        "description": "Pick the style or photoshoot look you want for the final profile pictures before submitting your photos."
+      },
+      {
+        "title": "Upload clear photos of yourself",
+        "description": "Upload clear, well-lit selfies or portraits in the supported image formats. The service's guidance emphasizes good source photos because the generated portraits depend on the face information in those uploads."
+      },
+      {
+        "title": "Submit the photos for AI processing",
+        "description": "Start the photoshoot and allow the service to process the uploaded images and generate a large set of studio-style portrait variations."
+      },
+      {
+        "title": "Review the generated set for likeness",
+        "description": "Compare the outputs carefully and reject images where facial likeness, details, or the chosen style do not look convincing enough for professional use."
+      },
+      {
+        "title": "Download the strongest portraits",
+        "description": "Download the images that best match your face and intended platform, then use the appropriate crop or dimensions for your profile, resume, or social account."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "افتح تجربة الـ AI Photoshoot",
+        "description": "افتح Studio Photoshoot أو مسار إنشاء صورة البروفايل في Profile Picture AI بدل رفع الصورة إلى أداة صور عامة غير مخصصة للبورتريه."
+      },
+      {
+        "title": "اختر ستايل الصورة",
+        "description": "حدد الـ Style أو شكل جلسة التصوير الذي تريده للصور الشخصية النهائية قبل إرسال صورك."
+      },
+      {
+        "title": "ارفع صورا واضحة لك",
+        "description": "ارفع Selfies أو صور بورتريه واضحة وإضاءتها جيدة وبصيغة مدعومة. جودة الصور الأصلية مهمة لأن الأداة تعتمد عليها لفهم ملامح الوجه."
+      },
+      {
+        "title": "ابدأ معالجة الصور",
+        "description": "ابدأ جلسة التوليد واترك الخدمة تعالج الصور المرفوعة وتنشئ مجموعة كبيرة من صور البورتريه بأساليب جلسات تصوير مختلفة."
+      },
+      {
+        "title": "راجع الشبه والتفاصيل",
+        "description": "قارن النتائج بدقة واستبعد أي صورة لا يظهر فيها شبه الوجه أو التفاصيل أو الستايل بشكل مقنع، خصوصا لو ستستخدمها بشكل مهني."
+      },
+      {
+        "title": "حمّل أفضل الصور",
+        "description": "حمّل الصور الأقرب لملامحك وللاستخدام المطلوب، ثم استخدم المقاس أو القص المناسب للبروفايل أو السيرة الذاتية أو حسابات السوشيال."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "9",
@@ -249,7 +681,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "7-day free trial",
-    "trialInfo_ar": "7 أيام"
+    "trialInfo_ar": "7 أيام",
+    "how_to_use": [
+      {
+        "title": "Upload a clear room photo",
+        "description": "Open REimagine Home's furnished-room redesign workflow and upload one or more clear photos that show the room you want to restyle."
+      },
+      {
+        "title": "Let the AI analyze the existing room",
+        "description": "Allow REimagine Home to read the room's current layout and visual information before asking for a redesign."
+      },
+      {
+        "title": "Prompt the new interior direction",
+        "description": "Describe the style, mood, colors, materials, or design direction you want while keeping the request specific to the room in the uploaded photo."
+      },
+      {
+        "title": "Refine with follow-up instructions",
+        "description": "Use additional prompts to change targeted details such as lighting, materials, colors, furniture feel, or other design choices instead of restarting the entire concept."
+      },
+      {
+        "title": "Compare the design variations",
+        "description": "Review different versions side by side and judge which one best preserves the room while achieving the new interior direction."
+      },
+      {
+        "title": "Download the preferred redesign",
+        "description": "When the result matches the concept you want to present or explore, download the strongest version for reference, presentation, or further planning."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "ارفع صورة واضحة للغرفة",
+        "description": "افتح سير عمل Redesign Furnished Rooms في REimagine Home وارفع صورة أو أكثر توضح الغرفة التي تريد إعادة تصميمها."
+      },
+      {
+        "title": "دع الذكاء يحلل الغرفة",
+        "description": "اترك REimagine Home يقرأ التخطيط والمعلومات البصرية الموجودة في الغرفة قبل أن تطلب منه الاتجاه الجديد للتصميم."
+      },
+      {
+        "title": "اكتب اتجاه الديكور الجديد",
+        "description": "حدد الستايل والمود والألوان والخامات أو اتجاه التصميم المطلوب بشكل مرتبط بالغرفة الموجودة في الصورة المرفوعة."
+      },
+      {
+        "title": "عدّل بتعليمات متابعة",
+        "description": "استخدم أوامر إضافية لتغيير تفاصيل محددة مثل الإضاءة والخامات والألوان وطابع الأثاث بدل إعادة بناء الفكرة من الصفر كل مرة."
+      },
+      {
+        "title": "قارن نسخ التصميم",
+        "description": "راجع أكثر من Variation وقارنها ببعض لاختيار النسخة التي تحافظ على الغرفة بشكل أفضل وتحقق اتجاه الديكور المطلوب."
+      },
+      {
+        "title": "حمّل التصميم المفضل",
+        "description": "عندما تصل لنتيجة مناسبة للفكرة التي تريد عرضها أو استكشافها، حمّل أفضل نسخة لاستخدامها كمرجع أو في العرض أو التخطيط."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "10",
@@ -277,7 +763,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "",
     "trialInfo": "14-day free trial",
-    "trialInfo_ar": "14 يوم"
+    "trialInfo_ar": "14 يوم",
+    "how_to_use": [
+      {
+        "title": "Create a Workflow",
+        "description": "From AirOps Home, choose Create and then Workflow to open Workflow Studio, where the workflow's inputs and processing steps are assembled."
+      },
+      {
+        "title": "Define Set Inputs",
+        "description": "Configure the runtime inputs the workflow needs, including useful field names, types, and whether each value is required. These become the data the later steps can reference."
+      },
+      {
+        "title": "Add the processing steps in order",
+        "description": "Add the AirOps steps required by the job—such as search, LLM prompting, or other workflow actions—and place them in the order the data should move through the process."
+      },
+      {
+        "title": "Map variables between steps",
+        "description": "Use AirOps' variable selector or supported Liquid references to insert workflow inputs and outputs from earlier steps into the prompts or fields that need them."
+      },
+      {
+        "title": "Test with realistic sample inputs",
+        "description": "Run Test Workflow using data similar to your real production inputs, then inspect the output of each step to find bad mappings, weak prompts, or unexpected results."
+      },
+      {
+        "title": "Publish only after the test is stable",
+        "description": "Give the workflow its final name and description, publish it, and then connect or run it through the production path you actually need once the tested output is reliable."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "أنشئ Workflow جديد",
+        "description": "من Home في AirOps اختر Create ثم Workflow لفتح Workflow Studio، وهو المكان الذي ستبني فيه المدخلات وخطوات المعالجة."
+      },
+      {
+        "title": "حدد Set Inputs",
+        "description": "اضبط البيانات التي سيستقبلها الـ Workflow وقت التشغيل، مع أسماء واضحة ونوع كل حقل وهل هو Required. هذه القيم ستستخدمها الخطوات التالية."
+      },
+      {
+        "title": "أضف خطوات المعالجة بالترتيب",
+        "description": "أضف خطوات AirOps التي تحتاجها المهمة مثل البحث أو Prompt للـ LLM أو إجراءات سير العمل الأخرى، ورتبها حسب انتقال البيانات داخل العملية."
+      },
+      {
+        "title": "اربط المتغيرات بين الخطوات",
+        "description": "استخدم Variable Selector أو مراجع Liquid المدعومة لإدخال قيم الـ Inputs ونتائج الخطوات السابقة داخل الـ prompts والحقول التي تحتاجها."
+      },
+      {
+        "title": "اختبر ببيانات واقعية",
+        "description": "شغّل Test Workflow ببيانات تشبه الاستخدام الحقيقي ثم راجع نتيجة كل خطوة لاكتشاف الربط الخطأ أو الـ prompts الضعيفة أو أي نتائج غير متوقعة."
+      },
+      {
+        "title": "انشر بعد استقرار الاختبار",
+        "description": "بعد نجاح الاختبار اكتب الاسم والوصف النهائيين ثم Publish، وبعدها اربطه أو شغله في مسار الإنتاج الذي تحتاجه فقط عندما تكون النتيجة موثوقة."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "11",
@@ -305,7 +845,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "$19/mo",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Open Notion AI or Notion Agent",
+        "description": "Open the Notion page or workspace where you want to work, then launch the AI/Agent experience from the Notion interface. The current page can be used as context automatically."
+      },
+      {
+        "title": "Describe the task in the workspace",
+        "description": "Ask for the exact action you need, such as summarizing a page, drafting content, extracting action items, creating a page, or changing workspace content."
+      },
+      {
+        "title": "Add precise Notion context",
+        "description": "Use @ mentions to point to relevant pages or people, or use the available source selector such as All sources when the answer should use information beyond the current page."
+      },
+      {
+        "title": "Attach an external file if needed",
+        "description": "Use the paperclip attachment control when the task depends on a file that is not already stored in the Notion workspace."
+      },
+      {
+        "title": "Review what the Agent created or changed",
+        "description": "Inspect the generated text, page, database, summary, or edits inside Notion and confirm that they match the source material and the workspace structure you intended."
+      },
+      {
+        "title": "Refine with follow-up instructions",
+        "description": "Continue the same AI conversation with specific corrections or additional instructions until the workspace output is ready instead of rewriting the entire request from scratch."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "افتح Notion AI أو Notion Agent",
+        "description": "افتح الصفحة أو مساحة العمل التي تريد الشغل عليها داخل Notion ثم شغّل تجربة AI أو Agent من الواجهة. الصفحة الحالية يمكن أن تدخل في السياق تلقائيا."
+      },
+      {
+        "title": "حدد المهمة داخل مساحة العمل",
+        "description": "اطلب الفعل المطلوب بالضبط مثل تلخيص صفحة أو كتابة محتوى أو استخراج مهام أو إنشاء صفحة أو تعديل محتوى موجود في الـ Workspace."
+      },
+      {
+        "title": "أضف سياق Notion الصحيح",
+        "description": "استخدم @ للإشارة إلى صفحات أو أشخاص محددين، أو استخدم محدد المصادر المتاح مثل All sources عندما تحتاج الإجابة لمعلومات خارج الصفحة الحالية."
+      },
+      {
+        "title": "ارفق ملفا خارجيا عند الحاجة",
+        "description": "استخدم زر Paperclip لو المهمة تعتمد على ملف غير موجود بالفعل داخل مساحة عمل Notion."
+      },
+      {
+        "title": "راجع ما أنشأه أو عدله الـ Agent",
+        "description": "افحص النص أو الصفحة أو قاعدة البيانات أو الملخص أو التعديلات التي نفذها داخل Notion وتأكد أنها متوافقة مع المصدر وبنية مساحة العمل المطلوبة."
+      },
+      {
+        "title": "كمّل بتعديلات محددة",
+        "description": "استمر في نفس محادثة الذكاء واطلب تصحيحات أو إضافات واضحة حتى تصل للنتيجة المناسبة بدل كتابة الطلب بالكامل من البداية كل مرة."
+      }
+    ],
+    "tutorial_video": "https://www.youtube.com/watch?v=yasGTeAsV6s",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "12",
@@ -333,7 +927,61 @@
     "trendingScore": 98,
     "subscriptionPrice": "$10/mo",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Sign in and make sure you have an active plan",
+        "description": "Open midjourney.com, sign in, and make sure your account has the access required to generate images before starting the creation workflow."
+      },
+      {
+        "title": "Open Create and use the Imagine bar",
+        "description": "Go to Midjourney's Create page and type the image description into the Imagine bar. Write the subject, environment, composition, mood, and style details that matter to the concept."
+      },
+      {
+        "title": "Choose generation settings when needed",
+        "description": "Use the settings control in the Imagine bar to adjust supported options such as aspect ratio, style, or model/version before sending the prompt."
+      },
+      {
+        "title": "Generate the image set",
+        "description": "Send the prompt and wait for Midjourney to create the set of four initial image results, then compare them for composition and visual direction."
+      },
+      {
+        "title": "Refine the strongest image",
+        "description": "Open the result you prefer and use the available variation, upscale, zoom, pan, or Editor controls to develop that image instead of repeatedly starting from an unrelated prompt."
+      },
+      {
+        "title": "Download the finished image",
+        "description": "Once the chosen version has the quality and framing you need, save or download the final image from Midjourney for your project."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "سجل الدخول وتأكد من وجود خطة فعالة",
+        "description": "افتح midjourney.com وسجل دخولك وتأكد أن حسابك لديه الوصول المطلوب لتوليد الصور قبل بدء عملية الإنشاء."
+      },
+      {
+        "title": "افتح Create واستخدم Imagine",
+        "description": "ادخل إلى صفحة Create واكتب وصف الصورة داخل Imagine Bar. حدد الموضوع والبيئة والتكوين والمود والأسلوب البصري المهم للفكرة."
+      },
+      {
+        "title": "اضبط إعدادات التوليد",
+        "description": "استخدم زر الإعدادات داخل Imagine Bar لتغيير الخيارات المدعومة مثل Aspect Ratio والستايل أو إصدار النموذج قبل إرسال الأمر."
+      },
+      {
+        "title": "ولّد مجموعة الصور",
+        "description": "أرسل الأمر وانتظر Midjourney حتى ينشئ مجموعة البداية المكونة من أربع صور، ثم قارن التكوين والاتجاه البصري بينها."
+      },
+      {
+        "title": "طوّر أفضل صورة",
+        "description": "افتح النتيجة التي تفضلها واستخدم أدوات Variations أو Upscale أو Zoom أو Pan أو Editor المتاحة لتطوير نفس الاتجاه بدلا من البدء كل مرة من أمر غير مرتبط."
+      },
+      {
+        "title": "حمّل الصورة النهائية",
+        "description": "عندما تصل النسخة المختارة للجودة والتكوين المناسبين لمشروعك، احفظ أو حمّل الصورة النهائية من Midjourney."
+      }
+    ],
+    "tutorial_video": "https://www.youtube.com/watch?v=jDexcrChwRc",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "13",
@@ -361,7 +1009,61 @@
     "trendingScore": 97,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Choose Models or Spaces",
+        "description": "Open Hugging Face and choose Models when you want to inspect or test a model, or Spaces when you want a ready-made browser demo built around a model or AI workflow."
+      },
+      {
+        "title": "Search for the exact task",
+        "description": "Search and filter for the task you need—such as text generation, image generation, classification, speech, or another supported use case—rather than choosing a model only by popularity."
+      },
+      {
+        "title": "Read the model card or Space description",
+        "description": "Before running anything, review the repository's model card or the Space description for intended use, inputs, limitations, license information, and any special setup requirements."
+      },
+      {
+        "title": "Run the available browser demo",
+        "description": "If the model repository exposes an inference widget, enter the required input and run it there. If you chose a Space, use the custom interface provided by that Space."
+      },
+      {
+        "title": "Compare chat models in the Playground when useful",
+        "description": "For supported chat and inference workflows, use Hugging Face's Inference Playground to try model responses and adjust the parameters that the interface exposes."
+      },
+      {
+        "title": "Move to code only when integrating",
+        "description": "When you are ready to build with the model, use the official code snippets, provider information, or Inference Providers documentation and configure the authentication required for that integration."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "اختر Models أو Spaces",
+        "description": "افتح Hugging Face واختر Models عندما تريد فحص أو تجربة نموذج، أو Spaces عندما تريد Demo جاهزا من المتصفح مبنيا على نموذج أو سير عمل للذكاء الاصطناعي."
+      },
+      {
+        "title": "ابحث عن المهمة المطلوبة",
+        "description": "ابحث وفلتر حسب المهمة نفسها مثل توليد النصوص أو الصور أو التصنيف أو الصوت أو أي استخدام مدعوم، ولا تختار النموذج اعتمادا على الشهرة فقط."
+      },
+      {
+        "title": "اقرأ Model Card أو وصف الـ Space",
+        "description": "قبل تشغيل أي شيء راجع Model Card أو وصف الـ Space لمعرفة الاستخدام المقصود والمدخلات والقيود والترخيص وأي متطلبات خاصة بالتشغيل."
+      },
+      {
+        "title": "جرّب الـ Demo المتاح",
+        "description": "لو صفحة النموذج تحتوي على Inference Widget أدخل المدخل المطلوب وشغله من هناك، ولو اخترت Space استخدم الواجهة الخاصة التي يوفرها هذا الـ Space."
+      },
+      {
+        "title": "قارن النماذج في Playground عند الحاجة",
+        "description": "في مهام الشات والاستدلال المدعومة يمكنك استخدام Inference Playground لتجربة استجابات النماذج وتعديل الـ parameters التي تعرضها الواجهة."
+      },
+      {
+        "title": "انتقل للكود وقت الدمج فقط",
+        "description": "عندما تقرر دمج النموذج داخل مشروعك استخدم Code Snippets ومعلومات الـ provider أو توثيق Inference Providers الرسمي واضبط المصادقة المطلوبة لذلك التكامل."
+      }
+    ],
+    "tutorial_video": "https://www.youtube.com/watch?v=XvSGPZFEjDY",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "14",
@@ -389,7 +1091,61 @@
     "trendingScore": 97,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Open Firefly's image generator",
+        "description": "Open Adobe Firefly, choose Image, and enter the Generate image workflow for text-to-image creation."
+      },
+      {
+        "title": "Choose the generation model",
+        "description": "Use the Model control to select the Adobe or supported partner model you want to generate with, since the available controls can change with the selected model."
+      },
+      {
+        "title": "Set the image format and content type",
+        "description": "Choose the aspect ratio you need and, where the selected model exposes it, set Content type to options such as Art, Photo, or Auto."
+      },
+      {
+        "title": "Add references or visual controls",
+        "description": "If the concept needs stronger control, add supported composition or style references and choose the effects or visual settings that match the direction you want."
+      },
+      {
+        "title": "Write the prompt and Generate",
+        "description": "Enter a detailed prompt describing the subject, scene, and visual direction, then select Generate and compare the produced variations."
+      },
+      {
+        "title": "Refine and export the favorite",
+        "description": "Open the strongest result, use Firefly's available modification or re-generation controls, then download or save the final asset when it is ready."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "افتح مولد الصور في Firefly",
+        "description": "افتح Adobe Firefly واختر Image ثم ادخل إلى Generate image لبدء توليد صورة من النص."
+      },
+      {
+        "title": "اختر نموذج التوليد",
+        "description": "من Model اختر نموذج Adobe أو النموذج الشريك المدعوم الذي تريد استخدامه، لأن الإعدادات المتاحة قد تختلف حسب النموذج المختار."
+      },
+      {
+        "title": "اضبط المقاس ونوع المحتوى",
+        "description": "اختر Aspect Ratio المناسب، وإذا كان النموذج يعرض هذا الخيار حدد Content type مثل Art أو Photo أو Auto."
+      },
+      {
+        "title": "أضف المراجع والإعدادات البصرية",
+        "description": "لو تحتاج تحكما أكبر في النتيجة أضف Composition أو Style Reference مدعومة واختر المؤثرات أو الإعدادات البصرية المناسبة لاتجاهك."
+      },
+      {
+        "title": "اكتب الأمر واضغط Generate",
+        "description": "اكتب وصفا تفصيليا للموضوع والمشهد والاتجاه البصري ثم اختر Generate وقارن الـ variations الناتجة."
+      },
+      {
+        "title": "حسّن وصدّر أفضل نتيجة",
+        "description": "افتح أفضل صورة واستخدم أدوات Firefly المتاحة للتعديل أو إعادة التوليد ثم حمّل أو احفظ العنصر النهائي عندما يصبح جاهزا."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "15",
@@ -417,7 +1173,61 @@
     "trendingScore": 97,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Start a conversation in Claude",
+        "description": "Open claude.ai, sign in, and start a new chat for the task you want to complete."
+      },
+      {
+        "title": "State the goal directly",
+        "description": "Tell Claude what outcome you need in natural language and include the important background instead of sending only a broad topic."
+      },
+      {
+        "title": "Add constraints and the desired format",
+        "description": "Specify requirements such as length, audience, tone, sections, criteria, or examples so Claude knows how the final answer should be shaped."
+      },
+      {
+        "title": "Attach source files for source-based work",
+        "description": "When the answer should use a document or image, use the + control and Add files or photos, or drag and drop the supported source into the chat."
+      },
+      {
+        "title": "Review the answer against the source",
+        "description": "Read the result and check important claims, interpretations, calculations, or extracted details against your actual files and goal."
+      },
+      {
+        "title": "Refine in the same chat",
+        "description": "Ask follow-up questions or request precise changes in the same conversation while the task is related. Start a fresh chat when you want Claude to work without that previous context."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "ابدأ محادثة في Claude",
+        "description": "افتح claude.ai وسجل الدخول وابدأ Chat جديد للمهمة التي تريد تنفيذها."
+      },
+      {
+        "title": "حدد الهدف مباشرة",
+        "description": "اكتب النتيجة التي تريد الوصول لها بلغة طبيعية وأضف الخلفية المهمة بدل إرسال موضوع عام بدون تفاصيل."
+      },
+      {
+        "title": "أضف القيود وشكل النتيجة",
+        "description": "حدد المتطلبات مثل الطول والجمهور والنبرة والأقسام والمعايير أو الأمثلة حتى يعرف Claude شكل الإجابة النهائية المطلوبة."
+      },
+      {
+        "title": "ارفق المصادر عندما تعتمد المهمة عليها",
+        "description": "لو الإجابة يجب أن تعتمد على مستند أو صورة استخدم زر + ثم Add files or photos، أو اسحب الملف المدعوم وأسقطه داخل المحادثة."
+      },
+      {
+        "title": "راجع الإجابة مقابل المصدر",
+        "description": "اقرأ النتيجة وتحقق من الادعاءات أو التفسيرات أو الحسابات أو التفاصيل المستخرجة المهمة مقارنة بملفاتك وهدفك الحقيقي."
+      },
+      {
+        "title": "عدّل داخل نفس المحادثة",
+        "description": "اطلب متابعات أو تعديلات محددة في نفس الشات طالما المهمة مرتبطة بالسياق الحالي، وابدأ محادثة جديدة عندما تريد العمل بدون هذا السياق السابق."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "16",
@@ -445,7 +1255,61 @@
     "trendingScore": 97,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Open Suno Create",
+        "description": "Go to suno.com/create and start from Suno's current creation interface rather than from the song library."
+      },
+      {
+        "title": "Choose Simple or Custom",
+        "description": "Use Simple when you want to describe the song idea in one prompt. Choose Custom when you want direct control over lyrics, instrumental mode, style information, title, and other available song options."
+      },
+      {
+        "title": "Describe the song or enter the lyrics",
+        "description": "In Simple, describe the genre, mood, theme, and important musical direction. In Custom, add your lyrics or enable Instrumental, then fill in Styles and the other controls you need."
+      },
+      {
+        "title": "Create the song",
+        "description": "Select Create and let Suno generate the song versions from the information you provided."
+      },
+      {
+        "title": "Compare both generated versions",
+        "description": "Suno's creation flow produces two versions for a generation. Listen to both in your Library and judge the melody, vocals, arrangement, and how closely each follows the idea."
+      },
+      {
+        "title": "Continue from the best version",
+        "description": "Use the available edit, reuse, or extend controls on the version you prefer when more work is needed, then download or share the finished track when it is ready."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "افتح Suno Create",
+        "description": "ادخل إلى suno.com/create وابدأ من واجهة الإنشاء الحالية في Suno بدل البدء من مكتبة الأغاني."
+      },
+      {
+        "title": "اختر Simple أو Custom",
+        "description": "استخدم Simple لو تريد وصف فكرة الأغنية في Prompt واحد، واستخدم Custom لو تريد تحكما مباشرا في الكلمات وInstrumental والستايل والعنوان والإعدادات الأخرى المتاحة."
+      },
+      {
+        "title": "صف الأغنية أو اكتب الكلمات",
+        "description": "في Simple حدد النوع والمود والموضوع والاتجاه الموسيقي المهم. في Custom أضف Lyrics أو فعّل Instrumental ثم اكتب Styles واضبط الخيارات التي تحتاجها."
+      },
+      {
+        "title": "أنشئ الأغنية",
+        "description": "اضغط Create واترك Suno يولد نسخ الأغنية بناء على المعلومات التي أدخلتها."
+      },
+      {
+        "title": "قارن النسختين الناتجتين",
+        "description": "سير التوليد في Suno ينتج نسختين من العملية. اسمع الاثنين من Library وقارن اللحن والصوت والتوزيع ومدى التزام كل نسخة بالفكرة."
+      },
+      {
+        "title": "كمّل من أفضل نسخة",
+        "description": "استخدم أدوات التعديل أو إعادة الاستخدام أو التمديد المتاحة على النسخة الأفضل إذا احتاجت تطويرا، ثم حمّل أو شارك التراك النهائي عندما يصبح جاهزا."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "17",
@@ -473,7 +1337,61 @@
     "trendingScore": 96,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Choose the two languages",
+        "description": "Open Google Translate and select the source and target languages. For typed text you can use Detect language when appropriate, but speech input requires you to choose the languages first."
+      },
+      {
+        "title": "Translate typed or pasted text",
+        "description": "Use the Text mode to type or paste the content. Read the translated result and use the available copy or audio controls when you need to reuse or hear it."
+      },
+      {
+        "title": "Translate an image",
+        "description": "Open the Images tab, select the source and target languages, choose Browse your computer, and upload the image. You can then work with the translated image or copied text using the available controls."
+      },
+      {
+        "title": "Translate speech",
+        "description": "Select both languages, choose the microphone, speak clearly, and stop the recording when finished. Speech translation availability depends on the browser and supported languages."
+      },
+      {
+        "title": "Translate a website",
+        "description": "Open Websites, paste the website URL, and choose Go. Use the translated site view and switch between original and translated content when that option is available."
+      },
+      {
+        "title": "Translate a document on supported desktop browsers",
+        "description": "Open Documents, choose the languages, upload a supported document, select Translate, then download the translated file when Google Translate finishes processing it."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "اختر اللغتين",
+        "description": "افتح Google Translate وحدد لغة المصدر واللغة المطلوبة. في النصوص يمكنك استخدام Detect language عند الحاجة، لكن إدخال الصوت يتطلب اختيار اللغتين أولا."
+      },
+      {
+        "title": "ترجم نصا مكتوبا",
+        "description": "من Text اكتب أو الصق المحتوى ثم اقرأ الترجمة الناتجة واستخدم أزرار النسخ أو الاستماع المتاحة عندما تحتاج إعادة استخدام النص أو سماعه."
+      },
+      {
+        "title": "ترجم صورة",
+        "description": "افتح تبويب Images وحدد اللغتين ثم اختر Browse your computer وارفع الصورة. بعد ذلك استخدم الخيارات المتاحة لنسخ النص أو التعامل مع الصورة المترجمة."
+      },
+      {
+        "title": "ترجم الكلام بالصوت",
+        "description": "اختر اللغتين ثم اضغط الميكروفون وتكلم بوضوح وأوقف التسجيل عند الانتهاء. توفر ترجمة الصوت يعتمد على المتصفح واللغات المدعومة."
+      },
+      {
+        "title": "ترجم موقعا كاملا",
+        "description": "افتح Websites والصق رابط الموقع ثم اضغط Go. تصفح النسخة المترجمة واستخدم التبديل بين المحتوى الأصلي والمترجم عندما يكون متاحا."
+      },
+      {
+        "title": "ترجم مستندا من سطح المكتب",
+        "description": "على المتصفحات المدعومة افتح Documents وحدد اللغتين وارفع ملفا مدعوما ثم اختر Translate، وبعد انتهاء المعالجة حمّل الملف المترجم."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "18",
@@ -501,7 +1419,61 @@
     "trendingScore": 96,
     "subscriptionPrice": "",
     "trialInfo": "",
-    "trialInfo_ar": ""
+    "trialInfo_ar": "",
+    "how_to_use": [
+      {
+        "title": "Start with a detailed first prompt",
+        "description": "Open Bolt.new and describe the site or web app you want to build, including its purpose, core pages or features, important user actions, and visual direction. A detailed first prompt gives Bolt a stronger project foundation."
+      },
+      {
+        "title": "Submit and sign in if Bolt asks",
+        "description": "Send the prompt and complete sign-in if the product requests it before continuing with the generated project."
+      },
+      {
+        "title": "Let Bolt build the initial project",
+        "description": "Wait while Bolt creates the code, project structure, and required dependencies for the first version instead of interrupting the build with unrelated requests."
+      },
+      {
+        "title": "Test the app in Preview",
+        "description": "Use Preview to click through the actual buttons, forms, navigation, and important flows. Do not judge the project only from the visual screenshot."
+      },
+      {
+        "title": "Fix one clear issue at a time",
+        "description": "Ask Bolt for specific changes or bug fixes, then retest the affected flow in Preview after each meaningful change so new problems are caught early."
+      },
+      {
+        "title": "Publish from the Publish menu",
+        "description": "When the project works correctly, use the top-right Publish control and confirm Publish. Open the deployed link afterwards and verify the production version, not only the local preview."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "ابدأ بأمر أول تفصيلي",
+        "description": "افتح Bolt.new واشرح الموقع أو تطبيق الويب المطلوب مع الهدف والصفحات أو الخصائص الأساسية وما سيفعله المستخدم والاتجاه البصري. كلما كان الأمر الأول واضحا كانت بداية المشروع أقوى."
+      },
+      {
+        "title": "أرسل الطلب وسجل الدخول إذا طلب",
+        "description": "أرسل الـ Prompt وأكمل تسجيل الدخول إذا طلب منك Bolt ذلك قبل متابعة بناء المشروع."
+      },
+      {
+        "title": "اترك Bolt يبني النسخة الأولى",
+        "description": "انتظر حتى ينشئ Bolt الكود وهيكل المشروع والـ dependencies المطلوبة للنسخة الأولى بدل مقاطعة البناء بطلبات غير مرتبطة."
+      },
+      {
+        "title": "اختبر التطبيق من Preview",
+        "description": "استخدم Preview وجرب الأزرار والفورم والتنقل والـ flows المهمة بنفسك. لا تحكم على المشروع من شكله البصري فقط."
+      },
+      {
+        "title": "أصلح مشكلة واضحة كل مرة",
+        "description": "اطلب من Bolt تعديلا أو إصلاحا محددا ثم أعد اختبار الجزء المتأثر في Preview بعد كل تغيير مهم حتى تكتشف أي مشكلة جديدة بسرعة."
+      },
+      {
+        "title": "انشر من قائمة Publish",
+        "description": "بعد التأكد أن المشروع يعمل استخدم Publish من أعلى الواجهة ثم أكد النشر. افتح الرابط المنشور بعد ذلك واختبر نسخة الإنتاج نفسها وليس الـ Preview فقط."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "19",
@@ -529,7 +1501,61 @@
     "trendingScore": 96,
     "subscriptionPrice": "",
     "trialInfo": "25 generations/day",
-    "trialInfo_ar": "25 توليد/يوم"
+    "trialInfo_ar": "25 توليد/يوم",
+    "how_to_use": [
+      {
+        "title": "Sign in to Ideogram",
+        "description": "Open Ideogram, sign in with a supported account method, and complete the username setup if your account still requires it."
+      },
+      {
+        "title": "Write the image prompt carefully",
+        "description": "Enter the desired image in the Prompt Box. When readable wording matters, include the exact words or phrase you want visible in the image as part of the prompt."
+      },
+      {
+        "title": "Configure the generation controls",
+        "description": "Set the available model, style, aspect ratio, Magic Prompt behavior, and color palette according to the result you are trying to create."
+      },
+      {
+        "title": "Generate and inspect the results",
+        "description": "Select Generate and open the produced images in the detail view so you can judge text accuracy, composition, style, and image quality instead of choosing from thumbnails alone."
+      },
+      {
+        "title": "Refine the favorite",
+        "description": "Use the relevant Ideogram controls such as Remix, Upscale, Canvas, reference images, or editing tools when you need to improve or redirect the strongest result."
+      },
+      {
+        "title": "Use Ideogram's Download button",
+        "description": "Download the final image with Ideogram's own Download control. Ideogram's documentation warns that browser right-click saving can give you a lower-quality copy."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "سجل الدخول إلى Ideogram",
+        "description": "افتح Ideogram وسجل الدخول بطريقة الحساب المدعومة وأكمل إعداد اسم المستخدم إذا كان حسابك ما زال يطلب ذلك."
+      },
+      {
+        "title": "اكتب وصف الصورة بعناية",
+        "description": "اكتب الصورة المطلوبة داخل Prompt Box. لو وجود كلمات مقروءة داخل التصميم مهم، اكتب النص أو العبارة نفسها بوضوح داخل الأمر."
+      },
+      {
+        "title": "اضبط إعدادات التوليد",
+        "description": "حدد Model والستايل وAspect Ratio وMagic Prompt وColor Palette حسب نوع النتيجة التي تريد إنشاءها."
+      },
+      {
+        "title": "ولّد وافحص النتائج",
+        "description": "اضغط Generate وافتح الصور الناتجة في Detail View حتى تراجع دقة النص والتكوين والستايل والجودة بدل الاختيار من الصور المصغرة فقط."
+      },
+      {
+        "title": "حسّن أفضل نتيجة",
+        "description": "استخدم أدوات Ideogram المناسبة مثل Remix أو Upscale أو Canvas أو الصور المرجعية أو أدوات التعديل عندما تحتاج تطوير أفضل نتيجة أو تغيير اتجاهها."
+      },
+      {
+        "title": "استخدم زر Download داخل Ideogram",
+        "description": "حمّل الصورة النهائية من زر Download الخاص بـ Ideogram. توثيق الأداة يحذر من أن الحفظ بـ Right Click من المتصفح قد يعطي نسخة بجودة أقل."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "20",
@@ -557,7 +1583,61 @@
     "trendingScore": 96,
     "subscriptionPrice": "",
     "trialInfo": "1 min video/mo",
-    "trialInfo_ar": "1 دقيقة فيديو/شهر"
+    "trialInfo_ar": "1 دقيقة فيديو/شهر",
+    "how_to_use": [
+      {
+        "title": "Create a video in AI Studio",
+        "description": "Sign in to HeyGen, choose Create and then Create a Video, and start in AI Studio. Select the orientation and starting method that match the project, such as a blank setup, template, or other supported source."
+      },
+      {
+        "title": "Choose the presenter avatar",
+        "description": "Select a public or custom avatar from the avatar controls for the presenter you want in the scene."
+      },
+      {
+        "title": "Write the scene script",
+        "description": "Enter the spoken script for the first scene. Use Add Scene when the video needs separate sections so each scene can have its own script, avatar, and visuals."
+      },
+      {
+        "title": "Choose and tune the voice",
+        "description": "Pick the voice and adjust the available voice controls such as accent, tone, speed, model, or engine where offered for that voice."
+      },
+      {
+        "title": "Preview the script audio and arrange visuals",
+        "description": "Use the Play control beside the script to preview how the voice sounds, then add or arrange the scene's media, text, music, and other visuals. This script preview is not the same as a fully rendered avatar video."
+      },
+      {
+        "title": "Render and review the final video",
+        "description": "Submit the finished project for generation, wait for HeyGen to render it, then watch the completed video before downloading or sharing it."
+      }
+    ],
+    "how_to_use_ar": [
+      {
+        "title": "أنشئ فيديو في AI Studio",
+        "description": "سجل الدخول إلى HeyGen واختر Create ثم Create a Video وابدأ من AI Studio. اختر اتجاه الفيديو وطريقة البداية المناسبة مثل مشروع فارغ أو Template أو مصدر مدعوم آخر."
+      },
+      {
+        "title": "اختر الأفاتار المتحدث",
+        "description": "اختر Public Avatar أو Custom Avatar من أدوات الأفاتار للشخصية التي ستقدم المشهد."
+      },
+      {
+        "title": "اكتب Script المشهد",
+        "description": "اكتب النص الذي سيقوله الأفاتار في المشهد الأول. استخدم Add Scene عندما يحتاج الفيديو لأجزاء منفصلة حتى يكون لكل مشهد Script وأفاتار وعناصره الخاصة."
+      },
+      {
+        "title": "اختر الصوت واضبطه",
+        "description": "اختر الـ Voice المناسب وعدّل الخيارات المتاحة له مثل Accent وTone وSpeed وModel أو Engine عندما تكون هذه الإعدادات متاحة للصوت المختار."
+      },
+      {
+        "title": "عاين الصوت ورتب العناصر",
+        "description": "استخدم Play بجانب الـ Script لسماع معاينة الصوت ثم أضف أو رتب الصور والفيديوهات والنصوص والموسيقى والعناصر الأخرى في المشهد. معاينة الـ Script ليست معاينة فيديو أفاتار كامل بعد الرندر."
+      },
+      {
+        "title": "اعمل Render وراجع الفيديو",
+        "description": "أرسل المشروع النهائي للتوليد وانتظر HeyGen حتى ينتهي من الرندر ثم شاهد الفيديو المكتمل قبل تحميله أو مشاركته."
+      }
+    ],
+    "tutorial_video": "",
+    "tutorial_verified_at": "2026-08-10"
   },
   {
     "id": "21",
