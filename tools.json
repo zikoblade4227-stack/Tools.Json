@@ -78,7 +78,7 @@
         "description": "استخدم نفس المحادثة للأسئلة المرتبطة ببعضها حتى يستفيد ChatGPT من السياق السابق، وابدأ محادثة جديدة عندما تريد بداية نظيفة لموضوع مختلف."
       }
     ],
-    "tutorial_video": "",
+    "tutorial_video": "https://youtu.be/boJG84Jcf-4",
     "tutorial_verified_at": "2026-08-10"
   },
   {
@@ -242,7 +242,7 @@
         "description": "لو ستربط Pollinations بتطبيق أو سير عمل آلي، أنشئ المفتاح المناسب من لوحة Pollinations واتبع توثيق الـ API الرسمي للـ endpoint وطريقة المصادقة الخاصة بالنموذج الذي ستستخدمه."
       }
     ],
-    "tutorial_video": "https://youtu.be/boJG84Jcf-4",
+    "tutorial_video": "",
     "tutorial_verified_at": "2026-08-10"
   },
   {
